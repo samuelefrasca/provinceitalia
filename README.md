@@ -1,67 +1,82 @@
-# 🗺️ Province Italia
+# ProvinceItalia
 
-Un esploratore interattivo e intuitivo delle regioni e delle province italiane, basato su una mappa vettoriale. Il progetto offre un'esperienza di consultazione visiva semplice e veloce, mostrando dati geografici e demografici con un solo clic.
+Sito per consultare i dati demografici e territoriali di regioni, province e comuni italiani, con mappa vettoriale interattiva, dati ufficiali ISTAT e una sezione dedicata ai quiz geografici.
 
-🚀 **[Vai al sito live](https://provinceitalia.it/)** · 🎮 **[Gioca al quiz](https://quiz.provinceitalia.it/)**
+Sito: https://provinceitalia.it  
+Quiz: https://quiz.provinceitalia.it
 
-## 🛠️ Caratteristiche
+## Cosa contiene
 
-* **Mappa interattiva**: Visualizzazione SVG completa dell'Italia con effetti di highlight al passaggio del cursore sulle singole regioni.
+**Home e mappa interattiva.** La pagina principale mostra una mappa SVG dell'Italia: cliccando su una regione si aggiorna il pannello laterale con i dati principali e l'elenco delle sue province con sigla e abitanti, senza ricaricare la pagina.
 
-* **Pannello dinamico**: Aggiornamento istantaneo del pannello laterale al clic sulla regione, senza alcun caricamento o cambio pagina.
+**Pagine di regioni, province e comuni.** Dalla mappa o dagli elenchi si naviga nelle pagine delle 20 regioni (`regioni/`), che mostrano il riepilogo demografico e la tabella delle province del territorio. Da ogni provincia si accede alla relativa pagina (`province/`, 107 in totale) con tutti i comuni che ne fanno parte. La pagina `comuni.html` raccoglie invece in un'unica tabella tutti i comuni italiani con popolazione residente e indicazione dei capoluoghi.
 
-* **Dettagli provinciali**: Visualizzazione ordinata di tutte le province della regione selezionata, incluse le sigle e il numero di abitanti.
+**Quiz.** Su https://quiz.provinceitalia.it (cartella `quiz/`) ci sono i giochi interattivi dedicati alle province italiane: *Indovina la regione*, *Indovina dalla sigla* e *L'Intruso regionale*.
 
-* **Quiz sulle province**: Modalità interattiva dedicata alla conoscenza delle province italiane, accessibile direttamente dal progetto tramite [quiz.provinceitalia.it](https://quiz.provinceitalia.it/).
+Le tabelle di regioni, province e comuni hanno ricerca testuale e ordinamento per colonna (nome, sigla, popolazione).
 
-* **Interfaccia responsive**: Ottimizzata per garantire un'esperienza d'uso fluida su mobile, tablet e desktop.
+## Come funziona
 
-* **Single Page Application**: Struttura leggera che concentra tutta la navigazione all'interno di un'unica schermata.
+È un sito statico: niente backend, niente framework. Le pagine di regioni, province e comuni sono generate da script Python a partire da file JSON e committate nel repository. Tabelle ed elenchi sono già nell'HTML, quindi i motori di ricerca li indicizzano direttamente; JavaScript gestisce l'interattività della mappa SVG nella home, la ricerca, l'ordinamento delle tabelle e i quiz.
 
-## 📊 Contenuti
+```text
+CSV (ISTAT)  →  data/  →  scripts/genera_*  →  pagine HTML
+```
 
-* **20 Regioni italiane** interamente mappate e cliccabili.
+## Struttura del repository
 
-* **107 Province italiane** con dati aggiornati su popolazione e sigle.
+```text
+.
+├── index.html, comuni.html,
+│   about.html, privacy.html, 404.html
+│   sitemap.xml, robots.txt
+├── data/        JSON organizzati per regione e provincia
+├── scripts/     script Python (JSON → HTML)
+├── regioni/     una pagina per regione (generate)
+├── province/    una pagina per provincia con i comuni (generate)
+├── quiz/        quiz interattivi (quiz.provinceitalia.it)
+└── assets/
+    ├── css/
+    ├── js/
+    ├── fonts/
+    └── img/
+```
 
-* **Grafiche SVG** ottimizzate per la riproduzione fedele dei confini geografici.
+**`data/`**
+- File JSON organizzati gerarchicamente per regione e provincia, con l'elenco dei comuni, la popolazione residente, le sigle automobilistiche e l'indicazione dei capoluoghi.
 
-* **Dati strutturati** e facilmente accessibili.
+**`scripts/`**
+- `genera_regioni.py`: genera `regioni/`
+- `genera_province.py`: genera `province/`
+- `genera_comuni.py`: genera `comuni.html`
 
-* **Quiz interattivo** per mettere alla prova la conoscenza delle province italiane.
+**`assets/js/`**
+- `scriptprovince.js`: interattività della mappa SVG nella home e aggiornamento dinamico del pannello laterale
+- `ordinamentoprovince.js`: ricerca e ordinamento nelle tabelle di regioni, province e comuni
 
-## 💻 Tech Stack
+## Aggiornare i dati
 
-* **HTML5** & **CSS3** (Struttura semantica, layout pulito e interattivo).
+Serve Python 3. Gli script vanno lanciati dalla radice del repository, perché usano percorsi relativi.
 
-* **Vanilla JavaScript** (Gestione degli eventi al clic, manipolazione del DOM e rendering dinamico).
+1. **Dati demografici.** Scarica i dati aggiornati della popolazione residente dall'ISTAT e aggiorna i file JSON nella cartella `data/`.
+2. **Pagine.** Rigenera l'HTML:
 
-* **SVG** (Grafica vettoriale scalabile per la renderizzazione della mappa).
+```bash
+python scripts/genera_regioni.py
+python scripts/genera_province.py
+python scripts/genera_comuni.py
+```
 
-* **Dati Strutturati** (File per l'organizzazione delle informazioni demografiche).
+## Fonti e limiti dei dati
 
-## 📈 Obiettivi Personali del Progetto
+- Popolazione residente e ripartizioni territoriali: dati ufficiali ISTAT.
+- Il periodo di riferimento della popolazione è indicato nelle pagine del sito.
+- I dati sono elaborati automaticamente: eventuali errori o discrepanze possono dipendere dalla fonte o da variazioni amministrative recenti (fusioni o istituzione di nuovi comuni).
 
-Questo progetto mi permette di approfondire e mettere in pratica concetti chiave di web development:
+## Segnalazioni
 
-* Gestione dell'**interattività avanzata con i file SVG**.
+Per errori nei dati o suggerimenti apri una issue nel repository.
 
-* **Rendering dinamico** di contenuti nel browser tramite Vanilla JavaScript.
+## Licenza
 
-* Gestione e lettura di **strutture dati** per popolare l'interfaccia utente.
-
-* Sviluppo di un codice pulito e logico, basato su tecnologie pure (senza framework esterni).
-
-* Miglioramento della **UX (User Experience)** in applicativi basati su mappe.
-
-* Progettazione di un'esperienza interattiva attraverso un **quiz geografico**.
-
-## 🤝 Contribuire
-
-I consigli sulla **UX** (User Experience), sulla qualità dei dati e sulla pulizia del **codice** sono molto apprezzati! Se trovi un errore nei dati o vuoi suggerire una funzionalità:
-
-1. Apri una **Issue** con una descrizione chiara del problema.
-
-2. Fai un **Fork** del progetto e invia una **Pull Request** con le tue migliorie.
-
-3. Suggerisci aggiornamenti sui dati demografici o miglioramenti grafici.
+Tutti i diritti riservati. Il codice è visibile ma non open source: senza permesso scritto non si può copiare, modificare o distribuire. Vedi `LICENSE`. I dati ISTAT restano soggetti ai rispettivi termini d'uso.
