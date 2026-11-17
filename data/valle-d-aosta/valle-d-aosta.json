@@ -7,7 +7,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 99,
     "popolazione_femminile": 98,
-    "popolazione_totale": 197
+    "popolazione_totale": 197,
+    "superficie": 7.964
   },
   {
     "codice_istat": "007002",
@@ -17,7 +18,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 276,
     "popolazione_femminile": 276,
-    "popolazione_totale": 552
+    "popolazione_totale": 552,
+    "superficie": 11.8126
   },
   {
     "codice_istat": "007003",
@@ -28,7 +30,8 @@
     "popolazione_maschile": 15694,
     "popolazione_femminile": 17433,
     "popolazione_totale": 33127,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 21.3922
   },
   {
     "codice_istat": "007004",
@@ -38,7 +41,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 584,
     "popolazione_femminile": 631,
-    "popolazione_totale": 1215
+    "popolazione_totale": 1215,
+    "superficie": 28.8405
   },
   {
     "codice_istat": "007005",
@@ -48,7 +52,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 406,
     "popolazione_femminile": 413,
-    "popolazione_totale": 819
+    "popolazione_totale": 819,
+    "superficie": 33.3596
   },
   {
     "codice_istat": "007006",
@@ -58,7 +63,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 143,
     "popolazione_femminile": 151,
-    "popolazione_totale": 294
+    "popolazione_totale": 294,
+    "superficie": 52.6166
   },
   {
     "codice_istat": "007007",
@@ -68,7 +74,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 701,
     "popolazione_femminile": 669,
-    "popolazione_totale": 1370
+    "popolazione_totale": 1370,
+    "superficie": 129.4208
   },
   {
     "codice_istat": "007008",
@@ -78,7 +85,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1026,
     "popolazione_femminile": 1067,
-    "popolazione_totale": 2093
+    "popolazione_totale": 2093,
+    "superficie": 53.2435
   },
   {
     "codice_istat": "007009",
@@ -88,7 +96,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 40,
     "popolazione_femminile": 59,
-    "popolazione_totale": 99
+    "popolazione_totale": 99,
+    "superficie": 3.0315
   },
   {
     "codice_istat": "007010",
@@ -98,7 +107,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 113,
     "popolazione_femminile": 99,
-    "popolazione_totale": 212
+    "popolazione_totale": 212,
+    "superficie": 142.0904
   },
   {
     "codice_istat": "007011",
@@ -108,7 +118,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 500,
     "popolazione_femminile": 479,
-    "popolazione_totale": 979
+    "popolazione_totale": 979,
+    "superficie": 25.5436
   },
   {
     "codice_istat": "007012",
@@ -118,7 +129,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 410,
     "popolazione_femminile": 413,
-    "popolazione_totale": 823
+    "popolazione_totale": 823,
+    "superficie": 55.2569
   },
   {
     "codice_istat": "007013",
@@ -128,7 +140,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 390,
     "popolazione_femminile": 365,
-    "popolazione_totale": 755
+    "popolazione_totale": 755,
+    "superficie": 27.9864
   },
   {
     "codice_istat": "007014",
@@ -138,7 +151,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 295,
     "popolazione_femminile": 282,
-    "popolazione_totale": 577
+    "popolazione_totale": 577,
+    "superficie": 25.1589
   },
   {
     "codice_istat": "007015",
@@ -148,7 +162,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 428,
     "popolazione_femminile": 452,
-    "popolazione_totale": 880
+    "popolazione_totale": 880,
+    "superficie": 21.5416
   },
   {
     "codice_istat": "007016",
@@ -158,7 +173,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 64,
     "popolazione_femminile": 49,
-    "popolazione_totale": 113
+    "popolazione_totale": 113,
+    "superficie": 14.5283
   },
   {
     "codice_istat": "007017",
@@ -168,7 +184,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 338,
     "popolazione_femminile": 364,
-    "popolazione_totale": 702
+    "popolazione_totale": 702,
+    "superficie": 48.7924
   },
   {
     "codice_istat": "007018",
@@ -178,7 +195,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 183,
     "popolazione_femminile": 177,
-    "popolazione_totale": 360
+    "popolazione_totale": 360,
+    "superficie": 68.4323
   },
   {
     "codice_istat": "007019",
@@ -188,7 +206,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1180,
     "popolazione_femminile": 1231,
-    "popolazione_totale": 2411
+    "popolazione_totale": 2411,
+    "superficie": 25.8619
   },
   {
     "codice_istat": "007020",
@@ -198,7 +217,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 2107,
     "popolazione_femminile": 2192,
-    "popolazione_totale": 4299
+    "popolazione_totale": 4299,
+    "superficie": 39.6811
   },
   {
     "codice_istat": "007021",
@@ -208,7 +228,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 663,
     "popolazione_femminile": 666,
-    "popolazione_totale": 1329
+    "popolazione_totale": 1329,
+    "superficie": 213.0366
   },
   {
     "codice_istat": "007022",
@@ -218,7 +239,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1266,
     "popolazione_femminile": 1228,
-    "popolazione_totale": 2494
+    "popolazione_totale": 2494,
+    "superficie": 209.6058
   },
   {
     "codice_istat": "007023",
@@ -228,7 +250,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1162,
     "popolazione_femminile": 1232,
-    "popolazione_totale": 2394
+    "popolazione_totale": 2394,
+    "superficie": 33.9756
   },
   {
     "codice_istat": "007024",
@@ -238,7 +261,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 247,
     "popolazione_femminile": 262,
-    "popolazione_totale": 509
+    "popolazione_totale": 509,
+    "superficie": 16.2542
   },
   {
     "codice_istat": "007025",
@@ -248,7 +272,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 115,
     "popolazione_femminile": 117,
-    "popolazione_totale": 232
+    "popolazione_totale": 232,
+    "superficie": 10.233
   },
   {
     "codice_istat": "007026",
@@ -258,7 +283,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 258,
     "popolazione_femminile": 226,
-    "popolazione_totale": 484
+    "popolazione_totale": 484,
+    "superficie": 39.5692
   },
   {
     "codice_istat": "007027",
@@ -268,7 +294,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 862,
     "popolazione_femminile": 917,
-    "popolazione_totale": 1779
+    "popolazione_totale": 1779,
+    "superficie": 68.1198
   },
   {
     "codice_istat": "007028",
@@ -278,7 +305,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 228,
     "popolazione_femminile": 209,
-    "popolazione_totale": 437
+    "popolazione_totale": 437,
+    "superficie": 31.7086
   },
   {
     "codice_istat": "007029",
@@ -288,7 +316,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 203,
     "popolazione_femminile": 201,
-    "popolazione_totale": 404
+    "popolazione_totale": 404,
+    "superficie": 32.8795
   },
   {
     "codice_istat": "007030",
@@ -298,7 +327,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 841,
     "popolazione_femminile": 838,
-    "popolazione_totale": 1679
+    "popolazione_totale": 1679,
+    "superficie": 25.9833
   },
   {
     "codice_istat": "007031",
@@ -308,7 +338,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1616,
     "popolazione_femminile": 1707,
-    "popolazione_totale": 3323
+    "popolazione_totale": 3323,
+    "superficie": 25.2939
   },
   {
     "codice_istat": "007032",
@@ -318,7 +349,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 154,
     "popolazione_femminile": 167,
-    "popolazione_totale": 321
+    "popolazione_totale": 321,
+    "superficie": 66.5155
   },
   {
     "codice_istat": "007033",
@@ -328,7 +360,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 388,
     "popolazione_femminile": 381,
-    "popolazione_totale": 769
+    "popolazione_totale": 769,
+    "superficie": 69.6469
   },
   {
     "codice_istat": "007034",
@@ -338,7 +371,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 561,
     "popolazione_femminile": 603,
-    "popolazione_totale": 1164
+    "popolazione_totale": 1164,
+    "superficie": 12.6384
   },
   {
     "codice_istat": "007035",
@@ -348,7 +382,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 327,
     "popolazione_femminile": 315,
-    "popolazione_totale": 642
+    "popolazione_totale": 642,
+    "superficie": 20.0381
   },
   {
     "codice_istat": "007036",
@@ -358,7 +393,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 187,
     "popolazione_femminile": 185,
-    "popolazione_totale": 372
+    "popolazione_totale": 372,
+    "superficie": 34.6742
   },
   {
     "codice_istat": "007037",
@@ -368,7 +404,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 646,
     "popolazione_femminile": 637,
-    "popolazione_totale": 1283
+    "popolazione_totale": 1283,
+    "superficie": 23.584
   },
   {
     "codice_istat": "007038",
@@ -378,7 +415,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 362,
     "popolazione_femminile": 339,
-    "popolazione_totale": 701
+    "popolazione_totale": 701,
+    "superficie": 7.012
   },
   {
     "codice_istat": "007039",
@@ -388,7 +426,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 60,
     "popolazione_femminile": 47,
-    "popolazione_totale": 107
+    "popolazione_totale": 107,
+    "superficie": 8.9366
   },
   {
     "codice_istat": "007040",
@@ -398,7 +437,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1030,
     "popolazione_femminile": 1005,
-    "popolazione_totale": 2035
+    "popolazione_totale": 2035,
+    "superficie": 83.9427
   },
   {
     "codice_istat": "007041",
@@ -408,7 +448,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 391,
     "popolazione_femminile": 355,
-    "popolazione_totale": 746
+    "popolazione_totale": 746,
+    "superficie": 125.6666
   },
   {
     "codice_istat": "007042",
@@ -418,7 +459,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 194,
     "popolazione_femminile": 216,
-    "popolazione_totale": 410
+    "popolazione_totale": 410,
+    "superficie": 18.5455
   },
   {
     "codice_istat": "007043",
@@ -428,7 +470,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 893,
     "popolazione_femminile": 869,
-    "popolazione_totale": 1762
+    "popolazione_totale": 1762,
+    "superficie": 18.7597
   },
   {
     "codice_istat": "007044",
@@ -438,7 +481,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1004,
     "popolazione_femminile": 1062,
-    "popolazione_totale": 2066
+    "popolazione_totale": 2066,
+    "superficie": 43.6277
   },
   {
     "codice_istat": "007045",
@@ -448,7 +492,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1453,
     "popolazione_femminile": 1463,
-    "popolazione_totale": 2916
+    "popolazione_totale": 2916,
+    "superficie": 57.3588
   },
   {
     "codice_istat": "007046",
@@ -458,7 +503,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 86,
     "popolazione_femminile": 83,
-    "popolazione_totale": 169
+    "popolazione_totale": 169,
+    "superficie": 53.4824
   },
   {
     "codice_istat": "007047",
@@ -468,7 +514,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 105,
     "popolazione_femminile": 102,
-    "popolazione_totale": 207
+    "popolazione_totale": 207,
+    "superficie": 30.5598
   },
   {
     "codice_istat": "007048",
@@ -478,7 +525,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 211,
     "popolazione_femminile": 228,
-    "popolazione_totale": 439
+    "popolazione_totale": 439,
+    "superficie": 23.2661
   },
   {
     "codice_istat": "007049",
@@ -488,7 +536,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 735,
     "popolazione_femminile": 711,
-    "popolazione_totale": 1446
+    "popolazione_totale": 1446,
+    "superficie": 15.3265
   },
   {
     "codice_istat": "007052",
@@ -498,7 +547,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1705,
     "popolazione_femminile": 1812,
-    "popolazione_totale": 3517
+    "popolazione_totale": 3517,
+    "superficie": 6.9217
   },
   {
     "codice_istat": "007050",
@@ -508,7 +558,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 96,
     "popolazione_femminile": 81,
-    "popolazione_totale": 177
+    "popolazione_totale": 177,
+    "superficie": 33.5584
   },
   {
     "codice_istat": "007051",
@@ -518,7 +569,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 391,
     "popolazione_femminile": 380,
-    "popolazione_totale": 771
+    "popolazione_totale": 771,
+    "superficie": 15.7533
   },
   {
     "codice_istat": "007053",
@@ -528,7 +580,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 513,
     "popolazione_femminile": 442,
-    "popolazione_totale": 955
+    "popolazione_totale": 955,
+    "superficie": 33.4019
   },
   {
     "codice_istat": "007054",
@@ -538,7 +591,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 2064,
     "popolazione_femminile": 2087,
-    "popolazione_totale": 4151
+    "popolazione_totale": 4151,
+    "superficie": 62.0249
   },
   {
     "codice_istat": "007055",
@@ -548,7 +602,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 40,
     "popolazione_femminile": 34,
-    "popolazione_totale": 74
+    "popolazione_totale": 74,
+    "superficie": 86.8333
   },
   {
     "codice_istat": "007056",
@@ -558,7 +613,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 89,
     "popolazione_femminile": 76,
-    "popolazione_totale": 165
+    "popolazione_totale": 165,
+    "superficie": 36.3385
   },
   {
     "codice_istat": "007057",
@@ -568,7 +624,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 498,
     "popolazione_femminile": 486,
-    "popolazione_totale": 984
+    "popolazione_totale": 984,
+    "superficie": 14.641
   },
   {
     "codice_istat": "007058",
@@ -578,7 +635,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1732,
     "popolazione_femminile": 1704,
-    "popolazione_totale": 3436
+    "popolazione_totale": 3436,
+    "superficie": 14.7362
   },
   {
     "codice_istat": "007059",
@@ -588,7 +646,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 195,
     "popolazione_femminile": 177,
-    "popolazione_totale": 372
+    "popolazione_totale": 372,
+    "superficie": 11.3871
   },
   {
     "codice_istat": "007060",
@@ -598,7 +657,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 626,
     "popolazione_femminile": 657,
-    "popolazione_totale": 1283
+    "popolazione_totale": 1283,
+    "superficie": 42.3775
   },
   {
     "codice_istat": "007061",
@@ -608,7 +668,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 181,
     "popolazione_femminile": 155,
-    "popolazione_totale": 336
+    "popolazione_totale": 336,
+    "superficie": 15.4576
   },
   {
     "codice_istat": "007062",
@@ -618,7 +679,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 81,
     "popolazione_femminile": 107,
-    "popolazione_totale": 188
+    "popolazione_totale": 188,
+    "superficie": 9.4206
   },
   {
     "codice_istat": "007063",
@@ -628,7 +690,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1601,
     "popolazione_femminile": 1641,
-    "popolazione_totale": 3242
+    "popolazione_totale": 3242,
+    "superficie": 26.1772
   },
   {
     "codice_istat": "007064",
@@ -638,7 +701,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 199,
     "popolazione_femminile": 154,
-    "popolazione_totale": 353
+    "popolazione_totale": 353,
+    "superficie": 64.877
   },
   {
     "codice_istat": "007065",
@@ -648,7 +712,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 2173,
     "popolazione_femminile": 2259,
-    "popolazione_totale": 4432
+    "popolazione_totale": 4432,
+    "superficie": 20.5722
   },
   {
     "codice_istat": "007066",
@@ -658,7 +723,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 2359,
     "popolazione_femminile": 2467,
-    "popolazione_totale": 4826
+    "popolazione_totale": 4826,
+    "superficie": 28.2904
   },
   {
     "codice_istat": "007067",
@@ -668,7 +734,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 317,
     "popolazione_femminile": 260,
-    "popolazione_totale": 577
+    "popolazione_totale": 577,
+    "superficie": 42.4583
   },
   {
     "codice_istat": "007068",
@@ -678,7 +745,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 108,
     "popolazione_femminile": 85,
-    "popolazione_totale": 193
+    "popolazione_totale": 193,
+    "superficie": 113.4757
   },
   {
     "codice_istat": "007069",
@@ -688,7 +756,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 306,
     "popolazione_femminile": 271,
-    "popolazione_totale": 577
+    "popolazione_totale": 577,
+    "superficie": 31.4468
   },
   {
     "codice_istat": "007070",
@@ -698,7 +767,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 78,
     "popolazione_femminile": 76,
-    "popolazione_totale": 154
+    "popolazione_totale": 154,
+    "superficie": 138.2072
   },
   {
     "codice_istat": "007071",
@@ -708,7 +778,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1182,
     "popolazione_femminile": 1043,
-    "popolazione_totale": 2225
+    "popolazione_totale": 2225,
+    "superficie": 116.1501
   },
   {
     "codice_istat": "007072",
@@ -718,7 +789,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 640,
     "popolazione_femminile": 623,
-    "popolazione_totale": 1263
+    "popolazione_totale": 1263,
+    "superficie": 22.3547
   },
   {
     "codice_istat": "007073",
@@ -728,7 +800,8 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 1249,
     "popolazione_femminile": 1286,
-    "popolazione_totale": 2535
+    "popolazione_totale": 2535,
+    "superficie": 8.387
   },
   {
     "codice_istat": "007074",
@@ -738,6 +811,7 @@
     "regione": "Valle d'Aosta",
     "popolazione_maschile": 688,
     "popolazione_femminile": 584,
-    "popolazione_totale": 1272
+    "popolazione_totale": 1272,
+    "superficie": 8.7979
   }
 ]

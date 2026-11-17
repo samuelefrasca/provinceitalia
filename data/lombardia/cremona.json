@@ -7,7 +7,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 583,
     "popolazione_femminile": 584,
-    "popolazione_totale": 1167
+    "popolazione_totale": 1167,
+    "superficie": 9.216
   },
   {
     "codice_istat": "019002",
@@ -17,7 +18,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1983,
     "popolazione_femminile": 1980,
-    "popolazione_totale": 3963
+    "popolazione_totale": 3963,
+    "superficie": 12.0775
   },
   {
     "codice_istat": "019003",
@@ -27,7 +29,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 999,
     "popolazione_femminile": 981,
-    "popolazione_totale": 1980
+    "popolazione_totale": 1980,
+    "superficie": 19.1983
   },
   {
     "codice_istat": "019004",
@@ -37,7 +40,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 317,
     "popolazione_femminile": 314,
-    "popolazione_totale": 631
+    "popolazione_totale": 631,
+    "superficie": 11.121
   },
   {
     "codice_istat": "019005",
@@ -47,7 +51,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 2569,
     "popolazione_femminile": 2546,
-    "popolazione_totale": 5115
+    "popolazione_totale": 5115,
+    "superficie": 10.3878
   },
   {
     "codice_istat": "019006",
@@ -57,7 +62,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 702,
     "popolazione_femminile": 732,
-    "popolazione_totale": 1434
+    "popolazione_totale": 1434,
+    "superficie": 5.9007
   },
   {
     "codice_istat": "019007",
@@ -67,7 +73,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 322,
     "popolazione_femminile": 280,
-    "popolazione_totale": 602
+    "popolazione_totale": 602,
+    "superficie": 8.1424
   },
   {
     "codice_istat": "019009",
@@ -77,7 +84,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 594,
     "popolazione_femminile": 536,
-    "popolazione_totale": 1130
+    "popolazione_totale": 1130,
+    "superficie": 13.6995
   },
   {
     "codice_istat": "019010",
@@ -87,7 +95,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 633,
     "popolazione_femminile": 620,
-    "popolazione_totale": 1253
+    "popolazione_totale": 1253,
+    "superficie": 10.9506
   },
   {
     "codice_istat": "019011",
@@ -97,7 +106,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 319,
     "popolazione_femminile": 330,
-    "popolazione_totale": 649
+    "popolazione_totale": 649,
+    "superficie": 4.6407
   },
   {
     "codice_istat": "019012",
@@ -107,7 +117,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1104,
     "popolazione_femminile": 1046,
-    "popolazione_totale": 2150
+    "popolazione_totale": 2150,
+    "superficie": 6.8362
   },
   {
     "codice_istat": "019013",
@@ -117,7 +128,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 271,
     "popolazione_femminile": 267,
-    "popolazione_totale": 538
+    "popolazione_totale": 538,
+    "superficie": 13.1471
   },
   {
     "codice_istat": "019014",
@@ -127,7 +139,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 232,
     "popolazione_femminile": 190,
-    "popolazione_totale": 422
+    "popolazione_totale": 422,
+    "superficie": 14.1977
   },
   {
     "codice_istat": "019015",
@@ -137,7 +150,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1162,
     "popolazione_femminile": 1131,
-    "popolazione_totale": 2293
+    "popolazione_totale": 2293,
+    "superficie": 13.4543
   },
   {
     "codice_istat": "019016",
@@ -147,7 +161,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1911,
     "popolazione_femminile": 1885,
-    "popolazione_totale": 3796
+    "popolazione_totale": 3796,
+    "superficie": 22.875
   },
   {
     "codice_istat": "019017",
@@ -157,7 +172,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 948,
     "popolazione_femminile": 867,
-    "popolazione_totale": 1815
+    "popolazione_totale": 1815,
+    "superficie": 9.1934
   },
   {
     "codice_istat": "019018",
@@ -167,7 +183,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 594,
     "popolazione_femminile": 577,
-    "popolazione_totale": 1171
+    "popolazione_totale": 1171,
+    "superficie": 6.518
   },
   {
     "codice_istat": "019019",
@@ -177,7 +194,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 278,
     "popolazione_femminile": 249,
-    "popolazione_totale": 527
+    "popolazione_totale": 527,
+    "superficie": 8.657
   },
   {
     "codice_istat": "019020",
@@ -187,7 +205,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 880,
     "popolazione_femminile": 898,
-    "popolazione_totale": 1778
+    "popolazione_totale": 1778,
+    "superficie": 5.4019
   },
   {
     "codice_istat": "019021",
@@ -197,7 +216,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 7676,
     "popolazione_femminile": 7438,
-    "popolazione_totale": 15114
+    "popolazione_totale": 15114,
+    "superficie": 64.5302
   },
   {
     "codice_istat": "019022",
@@ -207,7 +227,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 868,
     "popolazione_femminile": 859,
-    "popolazione_totale": 1727
+    "popolazione_totale": 1727,
+    "superficie": 12.2823
   },
   {
     "codice_istat": "019024",
@@ -217,7 +238,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 290,
     "popolazione_femminile": 252,
-    "popolazione_totale": 542
+    "popolazione_totale": 542,
+    "superficie": 5.7877
   },
   {
     "codice_istat": "019023",
@@ -227,7 +249,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 280,
     "popolazione_femminile": 262,
-    "popolazione_totale": 542
+    "popolazione_totale": 542,
+    "superficie": 10.7894
   },
   {
     "codice_istat": "019025",
@@ -237,7 +260,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 4598,
     "popolazione_femminile": 4742,
-    "popolazione_totale": 9340
+    "popolazione_totale": 9340,
+    "superficie": 45.0773
   },
   {
     "codice_istat": "019026",
@@ -247,7 +271,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 2848,
     "popolazione_femminile": 2851,
-    "popolazione_totale": 5699
+    "popolazione_totale": 5699,
+    "superficie": 30.8908
   },
   {
     "codice_istat": "019027",
@@ -257,7 +282,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 161,
     "popolazione_femminile": 145,
-    "popolazione_totale": 306
+    "popolazione_totale": 306,
+    "superficie": 9.7572
   },
   {
     "codice_istat": "019028",
@@ -267,7 +293,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 252,
     "popolazione_femminile": 262,
-    "popolazione_totale": 514
+    "popolazione_totale": 514,
+    "superficie": 18.9178
   },
   {
     "codice_istat": "019029",
@@ -277,7 +304,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1129,
     "popolazione_femminile": 1141,
-    "popolazione_totale": 2270
+    "popolazione_totale": 2270,
+    "superficie": 6.1934
   },
   {
     "codice_istat": "019030",
@@ -287,7 +315,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 489,
     "popolazione_femminile": 488,
-    "popolazione_totale": 977
+    "popolazione_totale": 977,
+    "superficie": 6.9628
   },
   {
     "codice_istat": "019031",
@@ -297,7 +326,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 593,
     "popolazione_femminile": 578,
-    "popolazione_totale": 1171
+    "popolazione_totale": 1171,
+    "superficie": 14.3599
   },
   {
     "codice_istat": "019032",
@@ -307,7 +337,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 563,
     "popolazione_femminile": 507,
-    "popolazione_totale": 1070
+    "popolazione_totale": 1070,
+    "superficie": 12.8527
   },
   {
     "codice_istat": "019033",
@@ -317,7 +348,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 674,
     "popolazione_femminile": 644,
-    "popolazione_totale": 1318
+    "popolazione_totale": 1318,
+    "superficie": 20.1755
   },
   {
     "codice_istat": "019034",
@@ -327,7 +359,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 729,
     "popolazione_femminile": 747,
-    "popolazione_totale": 1476
+    "popolazione_totale": 1476,
+    "superficie": 14.1284
   },
   {
     "codice_istat": "019035",
@@ -337,7 +370,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 16538,
     "popolazione_femminile": 17609,
-    "popolazione_totale": 34147
+    "popolazione_totale": 34147,
+    "superficie": 34.51
   },
   {
     "codice_istat": "019036",
@@ -348,7 +382,8 @@
     "popolazione_maschile": 34732,
     "popolazione_femminile": 36361,
     "popolazione_totale": 71093,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 70.4899
   },
   {
     "codice_istat": "019037",
@@ -358,7 +393,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 890,
     "popolazione_femminile": 840,
-    "popolazione_totale": 1730
+    "popolazione_totale": 1730,
+    "superficie": 5.7578
   },
   {
     "codice_istat": "019038",
@@ -368,7 +404,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 325,
     "popolazione_femminile": 288,
-    "popolazione_totale": 613
+    "popolazione_totale": 613,
+    "superficie": 12.9377
   },
   {
     "codice_istat": "019039",
@@ -378,7 +415,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 213,
     "popolazione_femminile": 193,
-    "popolazione_totale": 406
+    "popolazione_totale": 406,
+    "superficie": 6.774
   },
   {
     "codice_istat": "019040",
@@ -388,7 +426,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 145,
     "popolazione_femminile": 139,
-    "popolazione_totale": 284
+    "popolazione_totale": 284,
+    "superficie": 9.9906
   },
   {
     "codice_istat": "019041",
@@ -398,7 +437,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1852,
     "popolazione_femminile": 1882,
-    "popolazione_totale": 3734
+    "popolazione_totale": 3734,
+    "superficie": 20.5924
   },
   {
     "codice_istat": "019043",
@@ -408,7 +448,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 614,
     "popolazione_femminile": 603,
-    "popolazione_totale": 1217
+    "popolazione_totale": 1217,
+    "superficie": 8.1938
   },
   {
     "codice_istat": "019044",
@@ -418,7 +459,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 512,
     "popolazione_femminile": 526,
-    "popolazione_totale": 1038
+    "popolazione_totale": 1038,
+    "superficie": 12.6429
   },
   {
     "codice_istat": "019045",
@@ -428,7 +470,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 436,
     "popolazione_femminile": 423,
-    "popolazione_totale": 859
+    "popolazione_totale": 859,
+    "superficie": 15.7074
   },
   {
     "codice_istat": "019046",
@@ -438,7 +481,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 966,
     "popolazione_femminile": 916,
-    "popolazione_totale": 1882
+    "popolazione_totale": 1882,
+    "superficie": 17.1013
   },
   {
     "codice_istat": "019047",
@@ -448,7 +492,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 549,
     "popolazione_femminile": 533,
-    "popolazione_totale": 1082
+    "popolazione_totale": 1082,
+    "superficie": 18.5732
   },
   {
     "codice_istat": "019048",
@@ -458,7 +503,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 669,
     "popolazione_femminile": 641,
-    "popolazione_totale": 1310
+    "popolazione_totale": 1310,
+    "superficie": 7.7203
   },
   {
     "codice_istat": "019049",
@@ -468,7 +514,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 321,
     "popolazione_femminile": 290,
-    "popolazione_totale": 611
+    "popolazione_totale": 611,
+    "superficie": 9.2763
   },
   {
     "codice_istat": "019050",
@@ -478,7 +525,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 751,
     "popolazione_femminile": 747,
-    "popolazione_totale": 1498
+    "popolazione_totale": 1498,
+    "superficie": 12.2582
   },
   {
     "codice_istat": "019051",
@@ -488,7 +536,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 884,
     "popolazione_femminile": 841,
-    "popolazione_totale": 1725
+    "popolazione_totale": 1725,
+    "superficie": 22.2896
   },
   {
     "codice_istat": "019052",
@@ -498,7 +547,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1348,
     "popolazione_femminile": 1339,
-    "popolazione_totale": 2687
+    "popolazione_totale": 2687,
+    "superficie": 25.2261
   },
   {
     "codice_istat": "019053",
@@ -508,7 +558,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 539,
     "popolazione_femminile": 526,
-    "popolazione_totale": 1065
+    "popolazione_totale": 1065,
+    "superficie": 9.4655
   },
   {
     "codice_istat": "019054",
@@ -518,7 +569,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 995,
     "popolazione_femminile": 956,
-    "popolazione_totale": 1951
+    "popolazione_totale": 1951,
+    "superficie": 6.1916
   },
   {
     "codice_istat": "019055",
@@ -528,7 +580,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1397,
     "popolazione_femminile": 1367,
-    "popolazione_totale": 2764
+    "popolazione_totale": 2764,
+    "superficie": 10.7617
   },
   {
     "codice_istat": "019056",
@@ -538,7 +591,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 824,
     "popolazione_femminile": 879,
-    "popolazione_totale": 1703
+    "popolazione_totale": 1703,
+    "superficie": 10.8226
   },
   {
     "codice_istat": "019057",
@@ -548,7 +602,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1021,
     "popolazione_femminile": 1003,
-    "popolazione_totale": 2024
+    "popolazione_totale": 2024,
+    "superficie": 14.9199
   },
   {
     "codice_istat": "019058",
@@ -558,7 +613,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1110,
     "popolazione_femminile": 1107,
-    "popolazione_totale": 2217
+    "popolazione_totale": 2217,
+    "superficie": 2.3428
   },
   {
     "codice_istat": "019059",
@@ -568,7 +624,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1197,
     "popolazione_femminile": 1197,
-    "popolazione_totale": 2394
+    "popolazione_totale": 2394,
+    "superficie": 11.3942
   },
   {
     "codice_istat": "019060",
@@ -578,7 +635,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 358,
     "popolazione_femminile": 339,
-    "popolazione_totale": 697
+    "popolazione_totale": 697,
+    "superficie": 8.1531
   },
   {
     "codice_istat": "019061",
@@ -588,7 +646,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 401,
     "popolazione_femminile": 368,
-    "popolazione_totale": 769
+    "popolazione_totale": 769,
+    "superficie": 16.4676
   },
   {
     "codice_istat": "019062",
@@ -598,7 +657,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 2973,
     "popolazione_femminile": 2972,
-    "popolazione_totale": 5945
+    "popolazione_totale": 5945,
+    "superficie": 12.5835
   },
   {
     "codice_istat": "019063",
@@ -608,7 +668,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 444,
     "popolazione_femminile": 490,
-    "popolazione_totale": 934
+    "popolazione_totale": 934,
+    "superficie": 9.1537
   },
   {
     "codice_istat": "019064",
@@ -618,7 +679,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1450,
     "popolazione_femminile": 1375,
-    "popolazione_totale": 2825
+    "popolazione_totale": 2825,
+    "superficie": 19.4887
   },
   {
     "codice_istat": "019065",
@@ -628,7 +690,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 666,
     "popolazione_femminile": 626,
-    "popolazione_totale": 1292
+    "popolazione_totale": 1292,
+    "superficie": 23.9619
   },
   {
     "codice_istat": "019066",
@@ -638,7 +701,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1912,
     "popolazione_femminile": 1881,
-    "popolazione_totale": 3793
+    "popolazione_totale": 3793,
+    "superficie": 8.8208
   },
   {
     "codice_istat": "019067",
@@ -648,7 +712,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 4457,
     "popolazione_femminile": 4531,
-    "popolazione_totale": 8988
+    "popolazione_totale": 8988,
+    "superficie": 22.2953
   },
   {
     "codice_istat": "019068",
@@ -658,7 +723,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1621,
     "popolazione_femminile": 1629,
-    "popolazione_totale": 3250
+    "popolazione_totale": 3250,
+    "superficie": 20.637
   },
   {
     "codice_istat": "019069",
@@ -668,7 +734,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 778,
     "popolazione_femminile": 769,
-    "popolazione_totale": 1547
+    "popolazione_totale": 1547,
+    "superficie": 16.5434
   },
   {
     "codice_istat": "019070",
@@ -678,7 +745,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 298,
     "popolazione_femminile": 276,
-    "popolazione_totale": 574
+    "popolazione_totale": 574,
+    "superficie": 22.0167
   },
   {
     "codice_istat": "019116",
@@ -688,7 +756,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 2055,
     "popolazione_femminile": 2008,
-    "popolazione_totale": 4063
+    "popolazione_totale": 4063,
+    "superficie": 31.6906
   },
   {
     "codice_istat": "019072",
@@ -698,7 +767,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1309,
     "popolazione_femminile": 1261,
-    "popolazione_totale": 2570
+    "popolazione_totale": 2570,
+    "superficie": 5.7631
   },
   {
     "codice_istat": "019073",
@@ -708,7 +778,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 562,
     "popolazione_femminile": 545,
-    "popolazione_totale": 1107
+    "popolazione_totale": 1107,
+    "superficie": 2.7288
   },
   {
     "codice_istat": "019074",
@@ -718,7 +789,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 613,
     "popolazione_femminile": 625,
-    "popolazione_totale": 1238
+    "popolazione_totale": 1238,
+    "superficie": 19.4372
   },
   {
     "codice_istat": "019075",
@@ -728,7 +800,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 790,
     "popolazione_femminile": 781,
-    "popolazione_totale": 1571
+    "popolazione_totale": 1571,
+    "superficie": 14.85
   },
   {
     "codice_istat": "019076",
@@ -738,7 +811,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 3081,
     "popolazione_femminile": 3161,
-    "popolazione_totale": 6242
+    "popolazione_totale": 6242,
+    "superficie": 32.061
   },
   {
     "codice_istat": "019077",
@@ -748,7 +822,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 715,
     "popolazione_femminile": 701,
-    "popolazione_totale": 1416
+    "popolazione_totale": 1416,
+    "superficie": 20.5737
   },
   {
     "codice_istat": "019078",
@@ -758,7 +833,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 470,
     "popolazione_femminile": 462,
-    "popolazione_totale": 932
+    "popolazione_totale": 932,
+    "superficie": 2.8622
   },
   {
     "codice_istat": "019079",
@@ -768,7 +844,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 893,
     "popolazione_femminile": 831,
-    "popolazione_totale": 1724
+    "popolazione_totale": 1724,
+    "superficie": 12.5485
   },
   {
     "codice_istat": "019080",
@@ -778,7 +855,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 568,
     "popolazione_femminile": 520,
-    "popolazione_totale": 1088
+    "popolazione_totale": 1088,
+    "superficie": 6.9564
   },
   {
     "codice_istat": "019081",
@@ -788,7 +866,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1726,
     "popolazione_femminile": 1728,
-    "popolazione_totale": 3454
+    "popolazione_totale": 3454,
+    "superficie": 11.7793
   },
   {
     "codice_istat": "019082",
@@ -798,7 +877,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 285,
     "popolazione_femminile": 253,
-    "popolazione_totale": 538
+    "popolazione_totale": 538,
+    "superficie": 2.9739
   },
   {
     "codice_istat": "019083",
@@ -808,7 +888,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 955,
     "popolazione_femminile": 893,
-    "popolazione_totale": 1848
+    "popolazione_totale": 1848,
+    "superficie": 27.3332
   },
   {
     "codice_istat": "019084",
@@ -818,7 +899,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 4130,
     "popolazione_femminile": 4228,
-    "popolazione_totale": 8358
+    "popolazione_totale": 8358,
+    "superficie": 30.4013
   },
   {
     "codice_istat": "019085",
@@ -828,7 +910,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1107,
     "popolazione_femminile": 1143,
-    "popolazione_totale": 2250
+    "popolazione_totale": 2250,
+    "superficie": 17.9942
   },
   {
     "codice_istat": "019086",
@@ -838,7 +921,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1620,
     "popolazione_femminile": 1637,
-    "popolazione_totale": 3257
+    "popolazione_totale": 3257,
+    "superficie": 15.047
   },
   {
     "codice_istat": "019087",
@@ -848,7 +932,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 572,
     "popolazione_femminile": 571,
-    "popolazione_totale": 1143
+    "popolazione_totale": 1143,
+    "superficie": 7.3647
   },
   {
     "codice_istat": "019088",
@@ -858,7 +943,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 981,
     "popolazione_femminile": 1076,
-    "popolazione_totale": 2057
+    "popolazione_totale": 2057,
+    "superficie": 13.9264
   },
   {
     "codice_istat": "019089",
@@ -868,7 +954,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 677,
     "popolazione_femminile": 620,
-    "popolazione_totale": 1297
+    "popolazione_totale": 1297,
+    "superficie": 22.6817
   },
   {
     "codice_istat": "019090",
@@ -878,7 +965,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 983,
     "popolazione_femminile": 932,
-    "popolazione_totale": 1915
+    "popolazione_totale": 1915,
+    "superficie": 16.2144
   },
   {
     "codice_istat": "019091",
@@ -888,7 +976,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 190,
     "popolazione_femminile": 194,
-    "popolazione_totale": 384
+    "popolazione_totale": 384,
+    "superficie": 10.3799
   },
   {
     "codice_istat": "019092",
@@ -898,7 +987,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 644,
     "popolazione_femminile": 593,
-    "popolazione_totale": 1237
+    "popolazione_totale": 1237,
+    "superficie": 17.0761
   },
   {
     "codice_istat": "019093",
@@ -908,7 +998,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 266,
     "popolazione_femminile": 239,
-    "popolazione_totale": 505
+    "popolazione_totale": 505,
+    "superficie": 5.7202
   },
   {
     "codice_istat": "019094",
@@ -918,7 +1009,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1770,
     "popolazione_femminile": 1690,
-    "popolazione_totale": 3460
+    "popolazione_totale": 3460,
+    "superficie": 12.3093
   },
   {
     "codice_istat": "019095",
@@ -928,7 +1020,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1660,
     "popolazione_femminile": 1626,
-    "popolazione_totale": 3286
+    "popolazione_totale": 3286,
+    "superficie": 26.4938
   },
   {
     "codice_istat": "019096",
@@ -938,7 +1031,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 465,
     "popolazione_femminile": 456,
-    "popolazione_totale": 921
+    "popolazione_totale": 921,
+    "superficie": 11.4254
   },
   {
     "codice_istat": "019097",
@@ -948,7 +1042,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 3780,
     "popolazione_femminile": 3774,
-    "popolazione_totale": 7554
+    "popolazione_totale": 7554,
+    "superficie": 45.3207
   },
   {
     "codice_istat": "019098",
@@ -958,7 +1053,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 4689,
     "popolazione_femminile": 4617,
-    "popolazione_totale": 9306
+    "popolazione_totale": 9306,
+    "superficie": 28.5681
   },
   {
     "codice_istat": "019099",
@@ -968,7 +1064,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1569,
     "popolazione_femminile": 1472,
-    "popolazione_totale": 3041
+    "popolazione_totale": 3041,
+    "superficie": 18.9595
   },
   {
     "codice_istat": "019100",
@@ -978,7 +1075,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 741,
     "popolazione_femminile": 744,
-    "popolazione_totale": 1485
+    "popolazione_totale": 1485,
+    "superficie": 17.2121
   },
   {
     "codice_istat": "019101",
@@ -988,7 +1086,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 295,
     "popolazione_femminile": 313,
-    "popolazione_totale": 608
+    "popolazione_totale": 608,
+    "superficie": 10.1073
   },
   {
     "codice_istat": "019102",
@@ -998,7 +1097,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 3497,
     "popolazione_femminile": 3516,
-    "popolazione_totale": 7013
+    "popolazione_totale": 7013,
+    "superficie": 20.0195
   },
   {
     "codice_istat": "019103",
@@ -1008,7 +1108,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 712,
     "popolazione_femminile": 690,
-    "popolazione_totale": 1402
+    "popolazione_totale": 1402,
+    "superficie": 40.1949
   },
   {
     "codice_istat": "019104",
@@ -1018,7 +1119,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 228,
     "popolazione_femminile": 227,
-    "popolazione_totale": 455
+    "popolazione_totale": 455,
+    "superficie": 7.9819
   },
   {
     "codice_istat": "019105",
@@ -1028,7 +1130,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 229,
     "popolazione_femminile": 222,
-    "popolazione_totale": 451
+    "popolazione_totale": 451,
+    "superficie": 5.7692
   },
   {
     "codice_istat": "019106",
@@ -1038,7 +1141,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 223,
     "popolazione_femminile": 177,
-    "popolazione_totale": 400
+    "popolazione_totale": 400,
+    "superficie": 10.1654
   },
   {
     "codice_istat": "019107",
@@ -1048,7 +1152,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1121,
     "popolazione_femminile": 1062,
-    "popolazione_totale": 2183
+    "popolazione_totale": 2183,
+    "superficie": 34.2287
   },
   {
     "codice_istat": "019108",
@@ -1058,7 +1163,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 302,
     "popolazione_femminile": 283,
-    "popolazione_totale": 585
+    "popolazione_totale": 585,
+    "superficie": 23.2227
   },
   {
     "codice_istat": "019109",
@@ -1068,7 +1174,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1435,
     "popolazione_femminile": 1481,
-    "popolazione_totale": 2916
+    "popolazione_totale": 2916,
+    "superficie": 5.9179
   },
   {
     "codice_istat": "019110",
@@ -1078,7 +1185,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 780,
     "popolazione_femminile": 868,
-    "popolazione_totale": 1648
+    "popolazione_totale": 1648,
+    "superficie": 16.061
   },
   {
     "codice_istat": "019111",
@@ -1088,7 +1196,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 1813,
     "popolazione_femminile": 1779,
-    "popolazione_totale": 3592
+    "popolazione_totale": 3592,
+    "superficie": 6.1516
   },
   {
     "codice_istat": "019112",
@@ -1098,7 +1207,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 2379,
     "popolazione_femminile": 2344,
-    "popolazione_totale": 4723
+    "popolazione_totale": 4723,
+    "superficie": 9.6926
   },
   {
     "codice_istat": "019113",
@@ -1108,7 +1218,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 2024,
     "popolazione_femminile": 1970,
-    "popolazione_totale": 3994
+    "popolazione_totale": 3994,
+    "superficie": 17.4366
   },
   {
     "codice_istat": "019114",
@@ -1118,7 +1229,8 @@
     "regione": "Lombardia",
     "popolazione_maschile": 241,
     "popolazione_femminile": 214,
-    "popolazione_totale": 455
+    "popolazione_totale": 455,
+    "superficie": 8.1205
   },
   {
     "codice_istat": "019115",
@@ -1128,6 +1240,7 @@
     "regione": "Lombardia",
     "popolazione_maschile": 168,
     "popolazione_femminile": 166,
-    "popolazione_totale": 334
+    "popolazione_totale": 334,
+    "superficie": 12.2425
   }
 ]

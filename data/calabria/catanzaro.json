@@ -7,7 +7,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 374,
     "popolazione_femminile": 365,
-    "popolazione_totale": 739
+    "popolazione_totale": 739,
+    "superficie": 29.6366
   },
   {
     "codice_istat": "079003",
@@ -17,7 +18,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 779,
     "popolazione_femminile": 816,
-    "popolazione_totale": 1595
+    "popolazione_totale": 1595,
+    "superficie": 9.883
   },
   {
     "codice_istat": "079004",
@@ -27,7 +29,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 371,
     "popolazione_femminile": 398,
-    "popolazione_totale": 769
+    "popolazione_totale": 769,
+    "superficie": 20.9327
   },
   {
     "codice_istat": "079005",
@@ -37,7 +40,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 286,
     "popolazione_femminile": 295,
-    "popolazione_totale": 581
+    "popolazione_totale": 581,
+    "superficie": 17.8679
   },
   {
     "codice_istat": "079007",
@@ -47,7 +51,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 190,
     "popolazione_femminile": 210,
-    "popolazione_totale": 400
+    "popolazione_totale": 400,
+    "superficie": 6.8789
   },
   {
     "codice_istat": "079008",
@@ -57,7 +62,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1360,
     "popolazione_femminile": 1469,
-    "popolazione_totale": 2829
+    "popolazione_totale": 2829,
+    "superficie": 37.2608
   },
   {
     "codice_istat": "079009",
@@ -67,7 +73,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 622,
     "popolazione_femminile": 589,
-    "popolazione_totale": 1211
+    "popolazione_totale": 1211,
+    "superficie": 53.2193
   },
   {
     "codice_istat": "079011",
@@ -77,7 +84,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 3517,
     "popolazione_femminile": 3668,
-    "popolazione_totale": 7185
+    "popolazione_totale": 7185,
+    "superficie": 42.3904
   },
   {
     "codice_istat": "079012",
@@ -87,7 +95,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 2464,
     "popolazione_femminile": 2558,
-    "popolazione_totale": 5022
+    "popolazione_totale": 5022,
+    "superficie": 15.5057
   },
   {
     "codice_istat": "079017",
@@ -97,7 +106,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 855,
     "popolazione_femminile": 827,
-    "popolazione_totale": 1682
+    "popolazione_totale": 1682,
+    "superficie": 25.05
   },
   {
     "codice_istat": "079018",
@@ -107,7 +117,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 804,
     "popolazione_femminile": 909,
-    "popolazione_totale": 1713
+    "popolazione_totale": 1713,
+    "superficie": 30.1189
   },
   {
     "codice_istat": "079020",
@@ -117,7 +128,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 664,
     "popolazione_femminile": 639,
-    "popolazione_totale": 1303
+    "popolazione_totale": 1303,
+    "superficie": 16.4125
   },
   {
     "codice_istat": "079023",
@@ -128,7 +140,8 @@
     "popolazione_maschile": 39494,
     "popolazione_femminile": 43214,
     "popolazione_totale": 82708,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 112.7825
   },
   {
     "codice_istat": "079024",
@@ -138,7 +151,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 243,
     "popolazione_femminile": 259,
-    "popolazione_totale": 502
+    "popolazione_totale": 502,
+    "superficie": 11.9153
   },
   {
     "codice_istat": "079025",
@@ -148,7 +162,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 180,
     "popolazione_femminile": 173,
-    "popolazione_totale": 353
+    "popolazione_totale": 353,
+    "superficie": 7.9582
   },
   {
     "codice_istat": "079027",
@@ -158,7 +173,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 466,
     "popolazione_femminile": 545,
-    "popolazione_totale": 1011
+    "popolazione_totale": 1011,
+    "superficie": 21.3687
   },
   {
     "codice_istat": "079029",
@@ -168,7 +184,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 2425,
     "popolazione_femminile": 2647,
-    "popolazione_totale": 5072
+    "popolazione_totale": 5072,
+    "superficie": 23.8314
   },
   {
     "codice_istat": "079030",
@@ -178,7 +195,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 419,
     "popolazione_femminile": 413,
-    "popolazione_totale": 832
+    "popolazione_totale": 832,
+    "superficie": 9.2845
   },
   {
     "codice_istat": "079033",
@@ -188,7 +206,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 667,
     "popolazione_femminile": 650,
-    "popolazione_totale": 1317
+    "popolazione_totale": 1317,
+    "superficie": 29.3399
   },
   {
     "codice_istat": "079034",
@@ -198,7 +217,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 850,
     "popolazione_femminile": 952,
-    "popolazione_totale": 1802
+    "popolazione_totale": 1802,
+    "superficie": 30.0099
   },
   {
     "codice_istat": "079036",
@@ -208,7 +228,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 2412,
     "popolazione_femminile": 2500,
-    "popolazione_totale": 4912
+    "popolazione_totale": 4912,
+    "superficie": 44.8203
   },
   {
     "codice_istat": "079039",
@@ -218,7 +239,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 3173,
     "popolazione_femminile": 3185,
-    "popolazione_totale": 6358
+    "popolazione_totale": 6358,
+    "superficie": 52.6474
   },
   {
     "codice_istat": "079042",
@@ -228,7 +250,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 2830,
     "popolazione_femminile": 2849,
-    "popolazione_totale": 5679
+    "popolazione_totale": 5679,
+    "superficie": 25.0326
   },
   {
     "codice_istat": "079043",
@@ -238,7 +261,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1415,
     "popolazione_femminile": 1402,
-    "popolazione_totale": 2817
+    "popolazione_totale": 2817,
+    "superficie": 50.8302
   },
   {
     "codice_istat": "079047",
@@ -248,7 +272,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 2127,
     "popolazione_femminile": 1886,
-    "popolazione_totale": 4013
+    "popolazione_totale": 4013,
+    "superficie": 24.2963
   },
   {
     "codice_istat": "079048",
@@ -258,7 +283,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 944,
     "popolazione_femminile": 987,
-    "popolazione_totale": 1931
+    "popolazione_totale": 1931,
+    "superficie": 22.3812
   },
   {
     "codice_istat": "079052",
@@ -268,7 +294,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 263,
     "popolazione_femminile": 264,
-    "popolazione_totale": 527
+    "popolazione_totale": 527,
+    "superficie": 11.8532
   },
   {
     "codice_istat": "079055",
@@ -278,7 +305,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 192,
     "popolazione_femminile": 219,
-    "popolazione_totale": 411
+    "popolazione_totale": 411,
+    "superficie": 7.0371
   },
   {
     "codice_istat": "079056",
@@ -288,7 +316,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 936,
     "popolazione_femminile": 924,
-    "popolazione_totale": 1860
+    "popolazione_totale": 1860,
+    "superficie": 6.7817
   },
   {
     "codice_istat": "079058",
@@ -298,7 +327,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1435,
     "popolazione_femminile": 1460,
-    "popolazione_totale": 2895
+    "popolazione_totale": 2895,
+    "superficie": 33.5464
   },
   {
     "codice_istat": "079059",
@@ -308,7 +338,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 2630,
     "popolazione_femminile": 2771,
-    "popolazione_totale": 5401
+    "popolazione_totale": 5401,
+    "superficie": 43.079
   },
   {
     "codice_istat": "079060",
@@ -318,7 +349,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 2844,
     "popolazione_femminile": 2545,
-    "popolazione_totale": 5389
+    "popolazione_totale": 5389,
+    "superficie": 37.1457
   },
   {
     "codice_istat": "079061",
@@ -328,7 +360,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1938,
     "popolazione_femminile": 2066,
-    "popolazione_totale": 4004
+    "popolazione_totale": 4004,
+    "superficie": 60.2518
   },
   {
     "codice_istat": "079063",
@@ -338,7 +371,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 748,
     "popolazione_femminile": 732,
-    "popolazione_totale": 1480
+    "popolazione_totale": 1480,
+    "superficie": 23.5032
   },
   {
     "codice_istat": "079065",
@@ -348,7 +382,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 232,
     "popolazione_femminile": 280,
-    "popolazione_totale": 512
+    "popolazione_totale": 512,
+    "superficie": 21.2035
   },
   {
     "codice_istat": "079160",
@@ -358,7 +393,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 33242,
     "popolazione_femminile": 33763,
-    "popolazione_totale": 67005
+    "popolazione_totale": 67005,
+    "superficie": 162.3773
   },
   {
     "codice_istat": "079068",
@@ -368,7 +404,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 513,
     "popolazione_femminile": 529,
-    "popolazione_totale": 1042
+    "popolazione_totale": 1042,
+    "superficie": 31.9401
   },
   {
     "codice_istat": "079069",
@@ -378,7 +415,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 2197,
     "popolazione_femminile": 2268,
-    "popolazione_totale": 4465
+    "popolazione_totale": 4465,
+    "superficie": 58.3343
   },
   {
     "codice_istat": "079071",
@@ -388,7 +426,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 182,
     "popolazione_femminile": 172,
-    "popolazione_totale": 354
+    "popolazione_totale": 354,
+    "superficie": 15.6831
   },
   {
     "codice_istat": "079072",
@@ -398,7 +437,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1043,
     "popolazione_femminile": 1105,
-    "popolazione_totale": 2148
+    "popolazione_totale": 2148,
+    "superficie": 20.9053
   },
   {
     "codice_istat": "079073",
@@ -408,7 +448,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 395,
     "popolazione_femminile": 389,
-    "popolazione_totale": 784
+    "popolazione_totale": 784,
+    "superficie": 14.8983
   },
   {
     "codice_istat": "079074",
@@ -418,7 +459,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 458,
     "popolazione_femminile": 465,
-    "popolazione_totale": 923
+    "popolazione_totale": 923,
+    "superficie": 19.8431
   },
   {
     "codice_istat": "079077",
@@ -428,7 +470,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 310,
     "popolazione_femminile": 361,
-    "popolazione_totale": 671
+    "popolazione_totale": 671,
+    "superficie": 13.9398
   },
   {
     "codice_istat": "079080",
@@ -438,7 +481,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 932,
     "popolazione_femminile": 998,
-    "popolazione_totale": 1930
+    "popolazione_totale": 1930,
+    "superficie": 11.7498
   },
   {
     "codice_istat": "079081",
@@ -448,7 +492,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 2927,
     "popolazione_femminile": 2963,
-    "popolazione_totale": 5890
+    "popolazione_totale": 5890,
+    "superficie": 16.8392
   },
   {
     "codice_istat": "079083",
@@ -458,7 +503,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 418,
     "popolazione_femminile": 400,
-    "popolazione_totale": 818
+    "popolazione_totale": 818,
+    "superficie": 26.296
   },
   {
     "codice_istat": "079087",
@@ -468,7 +514,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 2436,
     "popolazione_femminile": 2337,
-    "popolazione_totale": 4773
+    "popolazione_totale": 4773,
+    "superficie": 46.2253
   },
   {
     "codice_istat": "079088",
@@ -478,7 +525,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 236,
     "popolazione_femminile": 245,
-    "popolazione_totale": 481
+    "popolazione_totale": 481,
+    "superficie": 7.1687
   },
   {
     "codice_istat": "079089",
@@ -488,7 +536,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 513,
     "popolazione_femminile": 523,
-    "popolazione_totale": 1036
+    "popolazione_totale": 1036,
+    "superficie": 18.384
   },
   {
     "codice_istat": "079092",
@@ -498,7 +547,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 872,
     "popolazione_femminile": 919,
-    "popolazione_totale": 1791
+    "popolazione_totale": 1791,
+    "superficie": 12.3827
   },
   {
     "codice_istat": "079094",
@@ -508,7 +558,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 498,
     "popolazione_femminile": 490,
-    "popolazione_totale": 988
+    "popolazione_totale": 988,
+    "superficie": 21.8991
   },
   {
     "codice_istat": "079095",
@@ -518,7 +569,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1135,
     "popolazione_femminile": 1178,
-    "popolazione_totale": 2313
+    "popolazione_totale": 2313,
+    "superficie": 46.1276
   },
   {
     "codice_istat": "079096",
@@ -528,7 +580,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1296,
     "popolazione_femminile": 1276,
-    "popolazione_totale": 2572
+    "popolazione_totale": 2572,
+    "superficie": 24.6499
   },
   {
     "codice_istat": "079099",
@@ -538,7 +591,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1017,
     "popolazione_femminile": 948,
-    "popolazione_totale": 1965
+    "popolazione_totale": 1965,
+    "superficie": 26.8398
   },
   {
     "codice_istat": "079108",
@@ -548,7 +602,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 345,
     "popolazione_femminile": 346,
-    "popolazione_totale": 691
+    "popolazione_totale": 691,
+    "superficie": 18.3199
   },
   {
     "codice_istat": "079110",
@@ -558,7 +613,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 666,
     "popolazione_femminile": 718,
-    "popolazione_totale": 1384
+    "popolazione_totale": 1384,
+    "superficie": 6.8919
   },
   {
     "codice_istat": "079114",
@@ -568,7 +624,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1893,
     "popolazione_femminile": 1917,
-    "popolazione_totale": 3810
+    "popolazione_totale": 3810,
+    "superficie": 16.4529
   },
   {
     "codice_istat": "079115",
@@ -578,7 +635,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 784,
     "popolazione_femminile": 749,
-    "popolazione_totale": 1533
+    "popolazione_totale": 1533,
+    "superficie": 11.7228
   },
   {
     "codice_istat": "079116",
@@ -588,7 +646,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 717,
     "popolazione_femminile": 690,
-    "popolazione_totale": 1407
+    "popolazione_totale": 1407,
+    "superficie": 32.4907
   },
   {
     "codice_istat": "079122",
@@ -598,7 +657,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 741,
     "popolazione_femminile": 795,
-    "popolazione_totale": 1536
+    "popolazione_totale": 1536,
+    "superficie": 17.1646
   },
   {
     "codice_istat": "079118",
@@ -608,7 +668,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 863,
     "popolazione_femminile": 828,
-    "popolazione_totale": 1691
+    "popolazione_totale": 1691,
+    "superficie": 21.4154
   },
   {
     "codice_istat": "079117",
@@ -618,7 +679,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 953,
     "popolazione_femminile": 965,
-    "popolazione_totale": 1918
+    "popolazione_totale": 1918,
+    "superficie": 40.6992
   },
   {
     "codice_istat": "079123",
@@ -628,7 +690,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1649,
     "popolazione_femminile": 1722,
-    "popolazione_totale": 3371
+    "popolazione_totale": 3371,
+    "superficie": 21.1744
   },
   {
     "codice_istat": "079126",
@@ -638,7 +701,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 216,
     "popolazione_femminile": 236,
-    "popolazione_totale": 452
+    "popolazione_totale": 452,
+    "superficie": 12.8091
   },
   {
     "codice_istat": "079127",
@@ -648,7 +712,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 3985,
     "popolazione_femminile": 3813,
-    "popolazione_totale": 7798
+    "popolazione_totale": 7798,
+    "superficie": 41.4483
   },
   {
     "codice_istat": "079129",
@@ -658,7 +723,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1429,
     "popolazione_femminile": 1449,
-    "popolazione_totale": 2878
+    "popolazione_totale": 2878,
+    "superficie": 41.6487
   },
   {
     "codice_istat": "079130",
@@ -668,7 +734,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1996,
     "popolazione_femminile": 2091,
-    "popolazione_totale": 4087
+    "popolazione_totale": 4087,
+    "superficie": 53.2972
   },
   {
     "codice_istat": "079131",
@@ -678,7 +745,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1686,
     "popolazione_femminile": 1606,
-    "popolazione_totale": 3292
+    "popolazione_totale": 3292,
+    "superficie": 14.3494
   },
   {
     "codice_istat": "079133",
@@ -688,7 +756,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 2309,
     "popolazione_femminile": 2380,
-    "popolazione_totale": 4689
+    "popolazione_totale": 4689,
+    "superficie": 46.7354
   },
   {
     "codice_istat": "079134",
@@ -698,7 +767,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 352,
     "popolazione_femminile": 356,
-    "popolazione_totale": 708
+    "popolazione_totale": 708,
+    "superficie": 59.279
   },
   {
     "codice_istat": "079137",
@@ -708,7 +778,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 3929,
     "popolazione_femminile": 4480,
-    "popolazione_totale": 8409
+    "popolazione_totale": 8409,
+    "superficie": 7.8377
   },
   {
     "codice_istat": "079138",
@@ -718,7 +789,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1314,
     "popolazione_femminile": 1419,
-    "popolazione_totale": 2733
+    "popolazione_totale": 2733,
+    "superficie": 20.4964
   },
   {
     "codice_istat": "079139",
@@ -728,7 +800,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 686,
     "popolazione_femminile": 727,
-    "popolazione_totale": 1413
+    "popolazione_totale": 1413,
+    "superficie": 22.2796
   },
   {
     "codice_istat": "079142",
@@ -738,7 +811,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1803,
     "popolazione_femminile": 1797,
-    "popolazione_totale": 3600
+    "popolazione_totale": 3600,
+    "superficie": 34.2969
   },
   {
     "codice_istat": "079143",
@@ -748,7 +822,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1228,
     "popolazione_femminile": 1166,
-    "popolazione_totale": 2394
+    "popolazione_totale": 2394,
+    "superficie": 12.1255
   },
   {
     "codice_istat": "079146",
@@ -758,7 +833,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1246,
     "popolazione_femminile": 1219,
-    "popolazione_totale": 2465
+    "popolazione_totale": 2465,
+    "superficie": 132.3056
   },
   {
     "codice_istat": "079147",
@@ -768,7 +844,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 1724,
     "popolazione_femminile": 1737,
-    "popolazione_totale": 3461
+    "popolazione_totale": 3461,
+    "superficie": 29.2624
   },
   {
     "codice_istat": "079148",
@@ -778,7 +855,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 437,
     "popolazione_femminile": 496,
-    "popolazione_totale": 933
+    "popolazione_totale": 933,
+    "superficie": 25.3698
   },
   {
     "codice_istat": "079151",
@@ -788,7 +866,8 @@
     "regione": "Calabria",
     "popolazione_maschile": 670,
     "popolazione_femminile": 760,
-    "popolazione_totale": 1430
+    "popolazione_totale": 1430,
+    "superficie": 13.8782
   },
   {
     "codice_istat": "079157",
@@ -798,6 +877,7 @@
     "regione": "Calabria",
     "popolazione_maschile": 641,
     "popolazione_femminile": 672,
-    "popolazione_totale": 1313
+    "popolazione_totale": 1313,
+    "superficie": 49.3295
   }
 ]

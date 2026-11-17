@@ -7,7 +7,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 773,
     "popolazione_femminile": 802,
-    "popolazione_totale": 1575
+    "popolazione_totale": 1575,
+    "superficie": 90.3667
   },
   {
     "codice_istat": "077002",
@@ -17,7 +18,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 401,
     "popolazione_femminile": 403,
-    "popolazione_totale": 804
+    "popolazione_totale": 804,
+    "superficie": 98.4081
   },
   {
     "codice_istat": "077003",
@@ -27,7 +29,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 6087,
     "popolazione_femminile": 5835,
-    "popolazione_totale": 11922
+    "popolazione_totale": 11922,
+    "superficie": 126.2379
   },
   {
     "codice_istat": "077004",
@@ -37,7 +40,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 312,
     "popolazione_femminile": 304,
-    "popolazione_totale": 616
+    "popolazione_totale": 616,
+    "superficie": 49.6912
   },
   {
     "codice_istat": "077005",
@@ -47,7 +51,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 129,
     "popolazione_femminile": 150,
-    "popolazione_totale": 279
+    "popolazione_totale": 279,
+    "superficie": 14.9042
   },
   {
     "codice_istat": "077006",
@@ -57,7 +62,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 518,
     "popolazione_femminile": 496,
-    "popolazione_totale": 1014
+    "popolazione_totale": 1014,
+    "superficie": 66.6307
   },
   {
     "codice_istat": "077007",
@@ -67,7 +73,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 284,
     "popolazione_femminile": 286,
-    "popolazione_totale": 570
+    "popolazione_totale": 570,
+    "superficie": 77.0417
   },
   {
     "codice_istat": "077008",
@@ -77,7 +84,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 3899,
     "popolazione_femminile": 3914,
-    "popolazione_totale": 7813
+    "popolazione_totale": 7813,
+    "superficie": 218.1083
   },
   {
     "codice_istat": "077009",
@@ -87,7 +95,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 440,
     "popolazione_femminile": 447,
-    "popolazione_totale": 887
+    "popolazione_totale": 887,
+    "superficie": 38.6109
   },
   {
     "codice_istat": "077010",
@@ -97,7 +106,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 427,
     "popolazione_femminile": 401,
-    "popolazione_totale": 828
+    "popolazione_totale": 828,
+    "superficie": 34.9256
   },
   {
     "codice_istat": "077011",
@@ -107,7 +117,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 2258,
     "popolazione_femminile": 2272,
-    "popolazione_totale": 4530
+    "popolazione_totale": 4530,
+    "superficie": 41.6299
   },
   {
     "codice_istat": "077012",
@@ -117,7 +128,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 969,
     "popolazione_femminile": 966,
-    "popolazione_totale": 1935
+    "popolazione_totale": 1935,
+    "superficie": 117.1504
   },
   {
     "codice_istat": "077013",
@@ -127,7 +139,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 2253,
     "popolazione_femminile": 2039,
-    "popolazione_totale": 4292
+    "popolazione_totale": 4292,
+    "superficie": 263.455
   },
   {
     "codice_istat": "077014",
@@ -138,7 +151,8 @@
     "popolazione_maschile": 29182,
     "popolazione_femminile": 30186,
     "popolazione_totale": 59368,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 392.0808
   },
   {
     "codice_istat": "077015",
@@ -148,7 +162,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 1236,
     "popolazione_femminile": 1100,
-    "popolazione_totale": 2336
+    "popolazione_totale": 2336,
+    "superficie": 88.8385
   },
   {
     "codice_istat": "077016",
@@ -158,7 +173,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 3151,
     "popolazione_femminile": 3310,
-    "popolazione_totale": 6461
+    "popolazione_totale": 6461,
+    "superficie": 135.9955
   },
   {
     "codice_istat": "077017",
@@ -168,7 +184,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 4579,
     "popolazione_femminile": 4618,
-    "popolazione_totale": 9197
+    "popolazione_totale": 9197,
+    "superficie": 175.7967
   },
   {
     "codice_istat": "077018",
@@ -178,7 +195,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 3467,
     "popolazione_femminile": 3381,
-    "popolazione_totale": 6848
+    "popolazione_totale": 6848,
+    "superficie": 52.74
   },
   {
     "codice_istat": "077019",
@@ -188,7 +206,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 161,
     "popolazione_femminile": 167,
-    "popolazione_totale": 328
+    "popolazione_totale": 328,
+    "superficie": 31.1845
   },
   {
     "codice_istat": "077020",
@@ -198,7 +217,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 8319,
     "popolazione_femminile": 8175,
-    "popolazione_totale": 16494
+    "popolazione_totale": 16494,
+    "superficie": 233.9225
   },
   {
     "codice_istat": "077021",
@@ -208,7 +228,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 8720,
     "popolazione_femminile": 9007,
-    "popolazione_totale": 17727
+    "popolazione_totale": 17727,
+    "superficie": 67.6487
   },
   {
     "codice_istat": "077022",
@@ -218,7 +239,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 1807,
     "popolazione_femminile": 1850,
-    "popolazione_totale": 3657
+    "popolazione_totale": 3657,
+    "superficie": 129.6666
   },
   {
     "codice_istat": "077023",
@@ -228,7 +250,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 1101,
     "popolazione_femminile": 1208,
-    "popolazione_totale": 2309
+    "popolazione_totale": 2309,
+    "superficie": 76.5377
   },
   {
     "codice_istat": "077024",
@@ -238,7 +261,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 1181,
     "popolazione_femminile": 1210,
-    "popolazione_totale": 2391
+    "popolazione_totale": 2391,
+    "superficie": 77.4371
   },
   {
     "codice_istat": "077025",
@@ -248,7 +272,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 504,
     "popolazione_femminile": 482,
-    "popolazione_totale": 986
+    "popolazione_totale": 986,
+    "superficie": 39.2579
   },
   {
     "codice_istat": "077026",
@@ -258,7 +283,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 604,
     "popolazione_femminile": 564,
-    "popolazione_totale": 1168
+    "popolazione_totale": 1168,
+    "superficie": 87.0579
   },
   {
     "codice_istat": "077031",
@@ -268,7 +294,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 3760,
     "popolazione_femminile": 3715,
-    "popolazione_totale": 7475
+    "popolazione_totale": 7475,
+    "superficie": 72.1265
   },
   {
     "codice_istat": "077027",
@@ -278,7 +305,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 1610,
     "popolazione_femminile": 1759,
-    "popolazione_totale": 3369
+    "popolazione_totale": 3369,
+    "superficie": 211.1428
   },
   {
     "codice_istat": "077028",
@@ -288,7 +316,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 2295,
     "popolazione_femminile": 2334,
-    "popolazione_totale": 4629
+    "popolazione_totale": 4629,
+    "superficie": 178.1606
   },
   {
     "codice_istat": "077029",
@@ -298,7 +327,8 @@
     "regione": "Basilicata",
     "popolazione_maschile": 2333,
     "popolazione_femminile": 2326,
-    "popolazione_totale": 4659
+    "popolazione_totale": 4659,
+    "superficie": 159.9301
   },
   {
     "codice_istat": "077030",
@@ -308,6 +338,7 @@
     "regione": "Basilicata",
     "popolazione_maschile": 636,
     "popolazione_femminile": 651,
-    "popolazione_totale": 1287
+    "popolazione_totale": 1287,
+    "superficie": 32.1984
   }
 ]

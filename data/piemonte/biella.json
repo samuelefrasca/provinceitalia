@@ -7,7 +7,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 140,
     "popolazione_femminile": 149,
-    "popolazione_totale": 289
+    "popolazione_totale": 289,
+    "superficie": 10.783
   },
   {
     "codice_istat": "096002",
@@ -17,7 +18,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1487,
     "popolazione_femminile": 1527,
-    "popolazione_totale": 3014
+    "popolazione_totale": 3014,
+    "superficie": 11.887
   },
   {
     "codice_istat": "096003",
@@ -27,7 +29,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 568,
     "popolazione_femminile": 589,
-    "popolazione_totale": 1157
+    "popolazione_totale": 1157,
+    "superficie": 9.3752
   },
   {
     "codice_istat": "096004",
@@ -38,7 +41,8 @@
     "popolazione_maschile": 20754,
     "popolazione_femminile": 22602,
     "popolazione_totale": 43356,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 46.6885
   },
   {
     "codice_istat": "096005",
@@ -48,7 +52,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 455,
     "popolazione_femminile": 433,
-    "popolazione_totale": 888
+    "popolazione_totale": 888,
+    "superficie": 18.8452
   },
   {
     "codice_istat": "096006",
@@ -58,7 +63,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 415,
     "popolazione_femminile": 440,
-    "popolazione_totale": 855
+    "popolazione_totale": 855,
+    "superficie": 5.345
   },
   {
     "codice_istat": "096007",
@@ -68,7 +74,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 892,
     "popolazione_femminile": 953,
-    "popolazione_totale": 1845
+    "popolazione_totale": 1845,
+    "superficie": 10.4543
   },
   {
     "codice_istat": "096008",
@@ -78,7 +85,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 73,
     "popolazione_femminile": 72,
-    "popolazione_totale": 145
+    "popolazione_totale": 145,
+    "superficie": 6.5574
   },
   {
     "codice_istat": "096009",
@@ -88,7 +96,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 166,
     "popolazione_femminile": 155,
-    "popolazione_totale": 321
+    "popolazione_totale": 321,
+    "superficie": 9.2001
   },
   {
     "codice_istat": "096010",
@@ -98,7 +107,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 546,
     "popolazione_femminile": 581,
-    "popolazione_totale": 1127
+    "popolazione_totale": 1127,
+    "superficie": 3.8025
   },
   {
     "codice_istat": "096086",
@@ -108,7 +118,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 260,
     "popolazione_femminile": 228,
-    "popolazione_totale": 488
+    "popolazione_totale": 488,
+    "superficie": 28.2052
   },
   {
     "codice_istat": "096012",
@@ -118,7 +129,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 3484,
     "popolazione_femminile": 3712,
-    "popolazione_totale": 7196
+    "popolazione_totale": 7196,
+    "superficie": 15.121
   },
   {
     "codice_istat": "096013",
@@ -128,7 +140,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 100,
     "popolazione_femminile": 91,
-    "popolazione_totale": 191
+    "popolazione_totale": 191,
+    "superficie": 11.5954
   },
   {
     "codice_istat": "096014",
@@ -138,7 +151,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 167,
     "popolazione_femminile": 198,
-    "popolazione_totale": 365
+    "popolazione_totale": 365,
+    "superficie": 2.8609
   },
   {
     "codice_istat": "096015",
@@ -148,7 +162,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 392,
     "popolazione_femminile": 366,
-    "popolazione_totale": 758
+    "popolazione_totale": 758,
+    "superficie": 14.9024
   },
   {
     "codice_istat": "096016",
@@ -158,7 +173,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1757,
     "popolazione_femminile": 1707,
-    "popolazione_totale": 3464
+    "popolazione_totale": 3464,
+    "superficie": 25.6252
   },
   {
     "codice_istat": "096018",
@@ -168,7 +184,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1350,
     "popolazione_femminile": 1400,
-    "popolazione_totale": 2750
+    "popolazione_totale": 2750,
+    "superficie": 27.9873
   },
   {
     "codice_istat": "096019",
@@ -178,7 +195,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 782,
     "popolazione_femminile": 835,
-    "popolazione_totale": 1617
+    "popolazione_totale": 1617,
+    "superficie": 23.7819
   },
   {
     "codice_istat": "096020",
@@ -188,7 +206,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 6671,
     "popolazione_femminile": 7162,
-    "popolazione_totale": 13833
+    "popolazione_totale": 13833,
+    "superficie": 27.7337
   },
   {
     "codice_istat": "096021",
@@ -198,7 +217,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 681,
     "popolazione_femminile": 692,
-    "popolazione_totale": 1373
+    "popolazione_totale": 1373,
+    "superficie": 8.6006
   },
   {
     "codice_istat": "096023",
@@ -208,7 +228,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 218,
     "popolazione_femminile": 248,
-    "popolazione_totale": 466
+    "popolazione_totale": 466,
+    "superficie": 21.6494
   },
   {
     "codice_istat": "096024",
@@ -218,7 +239,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 347,
     "popolazione_femminile": 334,
-    "popolazione_totale": 681
+    "popolazione_totale": 681,
+    "superficie": 12.0686
   },
   {
     "codice_istat": "096025",
@@ -228,7 +250,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 272,
     "popolazione_femminile": 256,
-    "popolazione_totale": 528
+    "popolazione_totale": 528,
+    "superficie": 4.7415
   },
   {
     "codice_istat": "096026",
@@ -238,7 +261,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1814,
     "popolazione_femminile": 1989,
-    "popolazione_totale": 3803
+    "popolazione_totale": 3803,
+    "superficie": 4.505
   },
   {
     "codice_istat": "096027",
@@ -248,7 +272,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 55,
     "popolazione_femminile": 49,
-    "popolazione_totale": 104
+    "popolazione_totale": 104,
+    "superficie": 2.256
   },
   {
     "codice_istat": "096028",
@@ -258,7 +283,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 695,
     "popolazione_femminile": 745,
-    "popolazione_totale": 1440
+    "popolazione_totale": 1440,
+    "superficie": 20.1389
   },
   {
     "codice_istat": "096085",
@@ -268,7 +294,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1253,
     "popolazione_femminile": 1337,
-    "popolazione_totale": 2590
+    "popolazione_totale": 2590,
+    "superficie": 12.7753
   },
   {
     "codice_istat": "096030",
@@ -278,7 +305,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 180,
     "popolazione_femminile": 159,
-    "popolazione_totale": 339
+    "popolazione_totale": 339,
+    "superficie": 10.5558
   },
   {
     "codice_istat": "096031",
@@ -288,7 +316,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 322,
     "popolazione_femminile": 259,
-    "popolazione_totale": 581
+    "popolazione_totale": 581,
+    "superficie": 11.6095
   },
   {
     "codice_istat": "096032",
@@ -298,7 +327,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 943,
     "popolazione_femminile": 952,
-    "popolazione_totale": 1895
+    "popolazione_totale": 1895,
+    "superficie": 27.073
   },
   {
     "codice_istat": "096033",
@@ -308,7 +338,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 237,
     "popolazione_femminile": 238,
-    "popolazione_totale": 475
+    "popolazione_totale": 475,
+    "superficie": 4.3092
   },
   {
     "codice_istat": "096034",
@@ -318,7 +349,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 251,
     "popolazione_femminile": 284,
-    "popolazione_totale": 535
+    "popolazione_totale": 535,
+    "superficie": 0.6678
   },
   {
     "codice_istat": "096035",
@@ -328,7 +360,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1729,
     "popolazione_femminile": 1826,
-    "popolazione_totale": 3555
+    "popolazione_totale": 3555,
+    "superficie": 16.5026
   },
   {
     "codice_istat": "096037",
@@ -338,7 +371,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 642,
     "popolazione_femminile": 630,
-    "popolazione_totale": 1272
+    "popolazione_totale": 1272,
+    "superficie": 18.391
   },
   {
     "codice_istat": "096038",
@@ -348,7 +382,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 256,
     "popolazione_femminile": 295,
-    "popolazione_totale": 551
+    "popolazione_totale": 551,
+    "superficie": 6.0973
   },
   {
     "codice_istat": "096039",
@@ -358,7 +393,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 452,
     "popolazione_femminile": 443,
-    "popolazione_totale": 895
+    "popolazione_totale": 895,
+    "superficie": 12.5683
   },
   {
     "codice_istat": "096040",
@@ -368,7 +404,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1816,
     "popolazione_femminile": 1977,
-    "popolazione_totale": 3793
+    "popolazione_totale": 3793,
+    "superficie": 4.0645
   },
   {
     "codice_istat": "096041",
@@ -378,7 +415,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1214,
     "popolazione_femminile": 1317,
-    "popolazione_totale": 2531
+    "popolazione_totale": 2531,
+    "superficie": 5.1504
   },
   {
     "codice_istat": "096042",
@@ -388,7 +426,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 730,
     "popolazione_femminile": 713,
-    "popolazione_totale": 1443
+    "popolazione_totale": 1443,
+    "superficie": 15.2973
   },
   {
     "codice_istat": "096043",
@@ -398,7 +437,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 239,
     "popolazione_femminile": 231,
-    "popolazione_totale": 470
+    "popolazione_totale": 470,
+    "superficie": 3.5912
   },
   {
     "codice_istat": "096044",
@@ -408,7 +448,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 89,
     "popolazione_femminile": 79,
-    "popolazione_totale": 168
+    "popolazione_totale": 168,
+    "superficie": 17.7505
   },
   {
     "codice_istat": "096046",
@@ -418,7 +459,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 943,
     "popolazione_femminile": 1004,
-    "popolazione_totale": 1947
+    "popolazione_totale": 1947,
+    "superficie": 16.217
   },
   {
     "codice_istat": "096047",
@@ -428,7 +470,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1736,
     "popolazione_femminile": 1872,
-    "popolazione_totale": 3608
+    "popolazione_totale": 3608,
+    "superficie": 7.0519
   },
   {
     "codice_istat": "096048",
@@ -438,7 +481,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 547,
     "popolazione_femminile": 530,
-    "popolazione_totale": 1077
+    "popolazione_totale": 1077,
+    "superficie": 11.305
   },
   {
     "codice_istat": "096049",
@@ -448,7 +492,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1126,
     "popolazione_femminile": 1167,
-    "popolazione_totale": 2293
+    "popolazione_totale": 2293,
+    "superficie": 7.2497
   },
   {
     "codice_istat": "096050",
@@ -458,7 +503,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 950,
     "popolazione_femminile": 1049,
-    "popolazione_totale": 1999
+    "popolazione_totale": 1999,
+    "superficie": 9.1846
   },
   {
     "codice_istat": "096087",
@@ -468,7 +514,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1012,
     "popolazione_femminile": 1033,
-    "popolazione_totale": 2045
+    "popolazione_totale": 2045,
+    "superficie": 8.4159
   },
   {
     "codice_istat": "096053",
@@ -478,7 +525,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 713,
     "popolazione_femminile": 696,
-    "popolazione_totale": 1409
+    "popolazione_totale": 1409,
+    "superficie": 3.8492
   },
   {
     "codice_istat": "096054",
@@ -488,7 +536,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 386,
     "popolazione_femminile": 419,
-    "popolazione_totale": 805
+    "popolazione_totale": 805,
+    "superficie": 8.651
   },
   {
     "codice_istat": "096055",
@@ -498,7 +547,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 45,
     "popolazione_femminile": 50,
-    "popolazione_totale": 95
+    "popolazione_totale": 95,
+    "superficie": 9.023
   },
   {
     "codice_istat": "096056",
@@ -508,7 +558,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 769,
     "popolazione_femminile": 825,
-    "popolazione_totale": 1594
+    "popolazione_totale": 1594,
+    "superficie": 14.6114
   },
   {
     "codice_istat": "096057",
@@ -518,7 +569,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 265,
     "popolazione_femminile": 266,
-    "popolazione_totale": 531
+    "popolazione_totale": 531,
+    "superficie": 8.0298
   },
   {
     "codice_istat": "096058",
@@ -528,7 +580,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 947,
     "popolazione_femminile": 888,
-    "popolazione_totale": 1835
+    "popolazione_totale": 1835,
+    "superficie": 38.5155
   },
   {
     "codice_istat": "096059",
@@ -538,7 +591,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1231,
     "popolazione_femminile": 1332,
-    "popolazione_totale": 2563
+    "popolazione_totale": 2563,
+    "superficie": 10.2158
   },
   {
     "codice_istat": "096063",
@@ -548,7 +602,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 623,
     "popolazione_femminile": 637,
-    "popolazione_totale": 1260
+    "popolazione_totale": 1260,
+    "superficie": 13.7379
   },
   {
     "codice_istat": "096064",
@@ -558,7 +613,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 353,
     "popolazione_femminile": 379,
-    "popolazione_totale": 732
+    "popolazione_totale": 732,
+    "superficie": 18.0676
   },
   {
     "codice_istat": "096065",
@@ -568,7 +624,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 462,
     "popolazione_femminile": 479,
-    "popolazione_totale": 941
+    "popolazione_totale": 941,
+    "superficie": 3.7187
   },
   {
     "codice_istat": "096066",
@@ -578,7 +635,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 443,
     "popolazione_femminile": 441,
-    "popolazione_totale": 884
+    "popolazione_totale": 884,
+    "superficie": 11.2354
   },
   {
     "codice_istat": "096067",
@@ -588,7 +646,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 130,
     "popolazione_femminile": 134,
-    "popolazione_totale": 264
+    "popolazione_totale": 264,
+    "superficie": 1.9799
   },
   {
     "codice_istat": "096068",
@@ -598,7 +657,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1122,
     "popolazione_femminile": 1220,
-    "popolazione_totale": 2342
+    "popolazione_totale": 2342,
+    "superficie": 3.3144
   },
   {
     "codice_istat": "096069",
@@ -608,7 +668,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 99,
     "popolazione_femminile": 93,
-    "popolazione_totale": 192
+    "popolazione_totale": 192,
+    "superficie": 5.7708
   },
   {
     "codice_istat": "096071",
@@ -618,7 +679,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 1148,
     "popolazione_femminile": 1193,
-    "popolazione_totale": 2341
+    "popolazione_totale": 2341,
+    "superficie": 7.6769
   },
   {
     "codice_istat": "096088",
@@ -628,7 +690,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 4829,
     "popolazione_femminile": 5051,
-    "popolazione_totale": 9880
+    "popolazione_totale": 9880,
+    "superficie": 61.1378
   },
   {
     "codice_istat": "096072",
@@ -638,7 +701,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 88,
     "popolazione_femminile": 101,
-    "popolazione_totale": 189
+    "popolazione_totale": 189,
+    "superficie": 4.6654
   },
   {
     "codice_istat": "096074",
@@ -648,7 +712,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 415,
     "popolazione_femminile": 400,
-    "popolazione_totale": 815
+    "popolazione_totale": 815,
+    "superficie": 13.2574
   },
   {
     "codice_istat": "096075",
@@ -658,7 +723,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 214,
     "popolazione_femminile": 207,
-    "popolazione_totale": 421
+    "popolazione_totale": 421,
+    "superficie": 6.4058
   },
   {
     "codice_istat": "096076",
@@ -668,7 +734,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 578,
     "popolazione_femminile": 582,
-    "popolazione_totale": 1160
+    "popolazione_totale": 1160,
+    "superficie": 8.5998
   },
   {
     "codice_istat": "096077",
@@ -678,7 +745,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 3626,
     "popolazione_femminile": 3951,
-    "popolazione_totale": 7577
+    "popolazione_totale": 7577,
+    "superficie": 8.3977
   },
   {
     "codice_istat": "096078",
@@ -688,7 +756,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 145,
     "popolazione_femminile": 167,
-    "popolazione_totale": 312
+    "popolazione_totale": 312,
+    "superficie": 3.6991
   },
   {
     "codice_istat": "096079",
@@ -698,7 +767,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 86,
     "popolazione_femminile": 87,
-    "popolazione_totale": 173
+    "popolazione_totale": 173,
+    "superficie": 7.8734
   },
   {
     "codice_istat": "096080",
@@ -708,7 +778,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 629,
     "popolazione_femminile": 689,
-    "popolazione_totale": 1318
+    "popolazione_totale": 1318,
+    "superficie": 12.2602
   },
   {
     "codice_istat": "096081",
@@ -718,7 +789,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 194,
     "popolazione_femminile": 183,
-    "popolazione_totale": 377
+    "popolazione_totale": 377,
+    "superficie": 2.9495
   },
   {
     "codice_istat": "096082",
@@ -728,7 +800,8 @@
     "regione": "Piemonte",
     "popolazione_maschile": 581,
     "popolazione_femminile": 557,
-    "popolazione_totale": 1138
+    "popolazione_totale": 1138,
+    "superficie": 12.4739
   },
   {
     "codice_istat": "096083",
@@ -738,6 +811,7 @@
     "regione": "Piemonte",
     "popolazione_maschile": 462,
     "popolazione_femminile": 497,
-    "popolazione_totale": 959
+    "popolazione_totale": 959,
+    "superficie": 2.6136
   }
 ]

@@ -7,7 +7,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 659,
     "popolazione_femminile": 719,
-    "popolazione_totale": 1378
+    "popolazione_totale": 1378,
+    "superficie": 86.3045
   },
   {
     "codice_istat": "113002",
@@ -17,7 +18,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 602,
     "popolazione_femminile": 593,
-    "popolazione_totale": 1195
+    "popolazione_totale": 1195,
+    "superficie": 148.3216
   },
   {
     "codice_istat": "113003",
@@ -27,7 +29,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 873,
     "popolazione_femminile": 872,
-    "popolazione_totale": 1745
+    "popolazione_totale": 1745,
+    "superficie": 197.9891
   },
   {
     "codice_istat": "113004",
@@ -37,7 +40,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 6796,
     "popolazione_femminile": 6660,
-    "popolazione_totale": 13456
+    "popolazione_totale": 13456,
+    "superficie": 230.9678
   },
   {
     "codice_istat": "113005",
@@ -47,7 +51,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 899,
     "popolazione_femminile": 913,
-    "popolazione_totale": 1812
+    "popolazione_totale": 1812,
+    "superficie": 31.3308
   },
   {
     "codice_istat": "113006",
@@ -57,7 +62,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 1288,
     "popolazione_femminile": 1316,
-    "popolazione_totale": 2604
+    "popolazione_totale": 2604,
+    "superficie": 201.877
   },
   {
     "codice_istat": "113007",
@@ -67,7 +73,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 350,
     "popolazione_femminile": 342,
-    "popolazione_totale": 692
+    "popolazione_totale": 692,
+    "superficie": 75.8973
   },
   {
     "codice_istat": "113008",
@@ -77,7 +84,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 1755,
     "popolazione_femminile": 1732,
-    "popolazione_totale": 3487
+    "popolazione_totale": 3487,
+    "superficie": 176.838
   },
   {
     "codice_istat": "113009",
@@ -87,7 +95,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 2841,
     "popolazione_femminile": 2844,
-    "popolazione_totale": 5685
+    "popolazione_totale": 5685,
+    "superficie": 56.2951
   },
   {
     "codice_istat": "113010",
@@ -97,7 +106,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 1842,
     "popolazione_femminile": 1850,
-    "popolazione_totale": 3692
+    "popolazione_totale": 3692,
+    "superficie": 126.8371
   },
   {
     "codice_istat": "113011",
@@ -107,7 +117,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 1152,
     "popolazione_femminile": 1221,
-    "popolazione_totale": 2373
+    "popolazione_totale": 2373,
+    "superficie": 37.6439
   },
   {
     "codice_istat": "113012",
@@ -117,7 +128,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 5243,
     "popolazione_femminile": 5206,
-    "popolazione_totale": 10449
+    "popolazione_totale": 10449,
+    "superficie": 51.7549
   },
   {
     "codice_istat": "113013",
@@ -127,7 +139,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 1991,
     "popolazione_femminile": 1938,
-    "popolazione_totale": 3929
+    "popolazione_totale": 3929,
+    "superficie": 118.4386
   },
   {
     "codice_istat": "113014",
@@ -137,7 +150,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 940,
     "popolazione_femminile": 898,
-    "popolazione_totale": 1838
+    "popolazione_totale": 1838,
+    "superficie": 135.0695
   },
   {
     "codice_istat": "113015",
@@ -147,7 +161,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 1156,
     "popolazione_femminile": 1213,
-    "popolazione_totale": 2369
+    "popolazione_totale": 2369,
+    "superficie": 87.5852
   },
   {
     "codice_istat": "113016",
@@ -157,7 +172,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 1199,
     "popolazione_femminile": 1207,
-    "popolazione_totale": 2406
+    "popolazione_totale": 2406,
+    "superficie": 123.5859
   },
   {
     "codice_istat": "113017",
@@ -168,7 +184,8 @@
     "popolazione_maschile": 30530,
     "popolazione_femminile": 31209,
     "popolazione_totale": 61739,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 384.3924
   },
   {
     "codice_istat": "113018",
@@ -178,7 +195,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 1461,
     "popolazione_femminile": 1424,
-    "popolazione_totale": 2885
+    "popolazione_totale": 2885,
+    "superficie": 215.611
   },
   {
     "codice_istat": "113019",
@@ -188,7 +206,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 1074,
     "popolazione_femminile": 1056,
-    "popolazione_totale": 2130
+    "popolazione_totale": 2130,
+    "superficie": 157.9873
   },
   {
     "codice_istat": "113020",
@@ -198,7 +217,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 2057,
     "popolazione_femminile": 2001,
-    "popolazione_totale": 4058
+    "popolazione_totale": 4058,
+    "superficie": 44.5855
   },
   {
     "codice_istat": "113021",
@@ -208,7 +228,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 2657,
     "popolazione_femminile": 2567,
-    "popolazione_totale": 5224
+    "popolazione_totale": 5224,
+    "superficie": 105.1263
   },
   {
     "codice_istat": "113023",
@@ -218,7 +239,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 706,
     "popolazione_femminile": 726,
-    "popolazione_totale": 1432
+    "popolazione_totale": 1432,
+    "superficie": 81.6931
   },
   {
     "codice_istat": "113022",
@@ -228,7 +250,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 2598,
     "popolazione_femminile": 2546,
-    "popolazione_totale": 5144
+    "popolazione_totale": 5144,
+    "superficie": 102.5929
   },
   {
     "codice_istat": "113024",
@@ -238,7 +261,8 @@
     "regione": "Sardegna",
     "popolazione_maschile": 1143,
     "popolazione_femminile": 1138,
-    "popolazione_totale": 2281
+    "popolazione_totale": 2281,
+    "superficie": 83.4298
   },
   {
     "codice_istat": "113025",
@@ -249,7 +273,8 @@
     "popolazione_maschile": 6412,
     "popolazione_femminile": 6466,
     "popolazione_totale": 12878,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 210.8172
   },
   {
     "codice_istat": "113026",
@@ -259,6 +284,7 @@
     "regione": "Sardegna",
     "popolazione_maschile": 1388,
     "popolazione_femminile": 1191,
-    "popolazione_totale": 2579
+    "popolazione_totale": 2579,
+    "superficie": 134.1298
   }
 ]

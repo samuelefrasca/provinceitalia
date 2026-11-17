@@ -7,7 +7,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1253,
     "popolazione_femminile": 1251,
-    "popolazione_totale": 2504
+    "popolazione_totale": 2504,
+    "superficie": 9.8814
   },
   {
     "codice_istat": "023002",
@@ -17,7 +18,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2689,
     "popolazione_femminile": 2609,
-    "popolazione_totale": 5298
+    "popolazione_totale": 5298,
+    "superficie": 28.2533
   },
   {
     "codice_istat": "023003",
@@ -27,7 +29,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1261,
     "popolazione_femminile": 1283,
-    "popolazione_totale": 2544
+    "popolazione_totale": 2544,
+    "superficie": 13.4706
   },
   {
     "codice_istat": "023004",
@@ -37,7 +40,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 3229,
     "popolazione_femminile": 3190,
-    "popolazione_totale": 6419
+    "popolazione_totale": 6419,
+    "superficie": 18.8657
   },
   {
     "codice_istat": "023005",
@@ -47,7 +51,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1362,
     "popolazione_femminile": 1345,
-    "popolazione_totale": 2707
+    "popolazione_totale": 2707,
+    "superficie": 26.9382
   },
   {
     "codice_istat": "023006",
@@ -57,7 +62,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 3320,
     "popolazione_femminile": 3496,
-    "popolazione_totale": 6816
+    "popolazione_totale": 6816,
+    "superficie": 57.3219
   },
   {
     "codice_istat": "023007",
@@ -67,7 +73,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1775,
     "popolazione_femminile": 1633,
-    "popolazione_totale": 3408
+    "popolazione_totale": 3408,
+    "superficie": 26.4475
   },
   {
     "codice_istat": "023008",
@@ -77,7 +84,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 944,
     "popolazione_femminile": 873,
-    "popolazione_totale": 1817
+    "popolazione_totale": 1817,
+    "superficie": 12.2007
   },
   {
     "codice_istat": "023009",
@@ -87,7 +95,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1074,
     "popolazione_femminile": 916,
-    "popolazione_totale": 1990
+    "popolazione_totale": 1990,
+    "superficie": 17.9947
   },
   {
     "codice_istat": "023010",
@@ -97,7 +106,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 689,
     "popolazione_femminile": 696,
-    "popolazione_totale": 1385
+    "popolazione_totale": 1385,
+    "superficie": 8.9664
   },
   {
     "codice_istat": "023011",
@@ -107,7 +117,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1924,
     "popolazione_femminile": 1669,
-    "popolazione_totale": 3593
+    "popolazione_totale": 3593,
+    "superficie": 64.7986
   },
   {
     "codice_istat": "023012",
@@ -117,7 +128,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 8227,
     "popolazione_femminile": 8165,
-    "popolazione_totale": 16392
+    "popolazione_totale": 16392,
+    "superficie": 41.2728
   },
   {
     "codice_istat": "023013",
@@ -127,7 +139,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 702,
     "popolazione_femminile": 666,
-    "popolazione_totale": 1368
+    "popolazione_totale": 1368,
+    "superficie": 25.9839
   },
   {
     "codice_istat": "023014",
@@ -137,7 +150,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1136,
     "popolazione_femminile": 1300,
-    "popolazione_totale": 2436
+    "popolazione_totale": 2436,
+    "superficie": 51.5828
   },
   {
     "codice_istat": "023015",
@@ -147,7 +161,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 10353,
     "popolazione_femminile": 10684,
-    "popolazione_totale": 21037
+    "popolazione_totale": 21037,
+    "superficie": 24.2257
   },
   {
     "codice_istat": "023016",
@@ -157,7 +172,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 3538,
     "popolazione_femminile": 3493,
-    "popolazione_totale": 7031
+    "popolazione_totale": 7031,
+    "superficie": 17.2693
   },
   {
     "codice_istat": "023017",
@@ -167,7 +183,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 4120,
     "popolazione_femminile": 4040,
-    "popolazione_totale": 8160
+    "popolazione_totale": 8160,
+    "superficie": 10.3785
   },
   {
     "codice_istat": "023018",
@@ -177,7 +194,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 4349,
     "popolazione_femminile": 4426,
-    "popolazione_totale": 8775
+    "popolazione_totale": 8775,
+    "superficie": 47.3173
   },
   {
     "codice_istat": "023019",
@@ -187,7 +205,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2881,
     "popolazione_femminile": 2791,
-    "popolazione_totale": 5672
+    "popolazione_totale": 5672,
+    "superficie": 38.6028
   },
   {
     "codice_istat": "023020",
@@ -197,7 +216,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1741,
     "popolazione_femminile": 1756,
-    "popolazione_totale": 3497
+    "popolazione_totale": 3497,
+    "superficie": 34.7993
   },
   {
     "codice_istat": "023021",
@@ -207,7 +227,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 6100,
     "popolazione_femminile": 6233,
-    "popolazione_totale": 12333
+    "popolazione_totale": 12333,
+    "superficie": 9.7317
   },
   {
     "codice_istat": "023022",
@@ -217,7 +238,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 6572,
     "popolazione_femminile": 6734,
-    "popolazione_totale": 13306
+    "popolazione_totale": 13306,
+    "superficie": 34.4299
   },
   {
     "codice_istat": "023023",
@@ -227,7 +249,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2938,
     "popolazione_femminile": 3057,
-    "popolazione_totale": 5995
+    "popolazione_totale": 5995,
+    "superficie": 12.9091
   },
   {
     "codice_istat": "023024",
@@ -237,7 +260,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 722,
     "popolazione_femminile": 744,
-    "popolazione_totale": 1466
+    "popolazione_totale": 1466,
+    "superficie": 12.2707
   },
   {
     "codice_istat": "023025",
@@ -247,7 +271,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 8607,
     "popolazione_femminile": 8697,
-    "popolazione_totale": 17304
+    "popolazione_totale": 17304,
+    "superficie": 70.2946
   },
   {
     "codice_istat": "023026",
@@ -257,7 +282,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1370,
     "popolazione_femminile": 1328,
-    "popolazione_totale": 2698
+    "popolazione_totale": 2698,
+    "superficie": 10.0569
   },
   {
     "codice_istat": "023027",
@@ -267,7 +293,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 4286,
     "popolazione_femminile": 4257,
-    "popolazione_totale": 8543
+    "popolazione_totale": 8543,
+    "superficie": 42.8338
   },
   {
     "codice_istat": "023028",
@@ -277,7 +304,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 4416,
     "popolazione_femminile": 4385,
-    "popolazione_totale": 8801
+    "popolazione_totale": 8801,
+    "superficie": 20.8966
   },
   {
     "codice_istat": "023029",
@@ -287,7 +315,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 547,
     "popolazione_femminile": 513,
-    "popolazione_totale": 1060
+    "popolazione_totale": 1060,
+    "superficie": 7.9137
   },
   {
     "codice_istat": "023030",
@@ -297,7 +326,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1994,
     "popolazione_femminile": 2002,
-    "popolazione_totale": 3996
+    "popolazione_totale": 3996,
+    "superficie": 16.744
   },
   {
     "codice_istat": "023031",
@@ -307,7 +337,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1278,
     "popolazione_femminile": 1258,
-    "popolazione_totale": 2536
+    "popolazione_totale": 2536,
+    "superficie": 30.9499
   },
   {
     "codice_istat": "023032",
@@ -317,7 +348,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 961,
     "popolazione_femminile": 961,
-    "popolazione_totale": 1922
+    "popolazione_totale": 1922,
+    "superficie": 16.0985
   },
   {
     "codice_istat": "023033",
@@ -327,7 +359,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 481,
     "popolazione_femminile": 369,
-    "popolazione_totale": 850
+    "popolazione_totale": 850,
+    "superficie": 31.9689
   },
   {
     "codice_istat": "023034",
@@ -337,7 +370,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 162,
     "popolazione_femminile": 140,
-    "popolazione_totale": 302
+    "popolazione_totale": 302,
+    "superficie": 26.8896
   },
   {
     "codice_istat": "023035",
@@ -347,7 +381,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2171,
     "popolazione_femminile": 2022,
-    "popolazione_totale": 4193
+    "popolazione_totale": 4193,
+    "superficie": 34.2113
   },
   {
     "codice_istat": "023036",
@@ -357,7 +392,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1989,
     "popolazione_femminile": 2055,
-    "popolazione_totale": 4044
+    "popolazione_totale": 4044,
+    "superficie": 14.3692
   },
   {
     "codice_istat": "023037",
@@ -367,7 +403,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2634,
     "popolazione_femminile": 2592,
-    "popolazione_totale": 5226
+    "popolazione_totale": 5226,
+    "superficie": 56.6541
   },
   {
     "codice_istat": "023038",
@@ -377,7 +414,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 5439,
     "popolazione_femminile": 5336,
-    "popolazione_totale": 10775
+    "popolazione_totale": 10775,
+    "superficie": 49.4895
   },
   {
     "codice_istat": "023039",
@@ -387,7 +425,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2602,
     "popolazione_femminile": 2547,
-    "popolazione_totale": 5149
+    "popolazione_totale": 5149,
+    "superficie": 25.003
   },
   {
     "codice_istat": "023040",
@@ -397,7 +436,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 5977,
     "popolazione_femminile": 5848,
-    "popolazione_totale": 11825
+    "popolazione_totale": 11825,
+    "superficie": 69.8295
   },
   {
     "codice_istat": "023041",
@@ -407,7 +447,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1671,
     "popolazione_femminile": 1646,
-    "popolazione_totale": 3317
+    "popolazione_totale": 3317,
+    "superficie": 16.6775
   },
   {
     "codice_istat": "023042",
@@ -417,7 +458,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 4321,
     "popolazione_femminile": 4409,
-    "popolazione_totale": 8730
+    "popolazione_totale": 8730,
+    "superficie": 14.651
   },
   {
     "codice_istat": "023043",
@@ -427,7 +469,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 3329,
     "popolazione_femminile": 3442,
-    "popolazione_totale": 6771
+    "popolazione_totale": 6771,
+    "superficie": 63.1465
   },
   {
     "codice_istat": "023044",
@@ -437,7 +480,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 12750,
     "popolazione_femminile": 13334,
-    "popolazione_totale": 26084
+    "popolazione_totale": 26084,
+    "superficie": 79.2725
   },
   {
     "codice_istat": "023045",
@@ -447,7 +491,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1693,
     "popolazione_femminile": 1779,
-    "popolazione_totale": 3472
+    "popolazione_totale": 3472,
+    "superficie": 69.2777
   },
   {
     "codice_istat": "023046",
@@ -457,7 +502,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1527,
     "popolazione_femminile": 1558,
-    "popolazione_totale": 3085
+    "popolazione_totale": 3085,
+    "superficie": 18.6221
   },
   {
     "codice_istat": "023047",
@@ -467,7 +513,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1232,
     "popolazione_femminile": 1270,
-    "popolazione_totale": 2502
+    "popolazione_totale": 2502,
+    "superficie": 19.7078
   },
   {
     "codice_istat": "023048",
@@ -477,7 +524,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2335,
     "popolazione_femminile": 2309,
-    "popolazione_totale": 4644
+    "popolazione_totale": 4644,
+    "superficie": 29.6504
   },
   {
     "codice_istat": "023049",
@@ -487,7 +535,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2248,
     "popolazione_femminile": 2075,
-    "popolazione_totale": 4323
+    "popolazione_totale": 4323,
+    "superficie": 21.0626
   },
   {
     "codice_istat": "023050",
@@ -497,7 +546,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 4564,
     "popolazione_femminile": 4389,
-    "popolazione_totale": 8953
+    "popolazione_totale": 8953,
+    "superficie": 20.4704
   },
   {
     "codice_istat": "023051",
@@ -507,7 +557,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 4234,
     "popolazione_femminile": 3966,
-    "popolazione_totale": 8200
+    "popolazione_totale": 8200,
+    "superficie": 24.8517
   },
   {
     "codice_istat": "023052",
@@ -517,7 +568,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 8086,
     "popolazione_femminile": 8292,
-    "popolazione_totale": 16378
+    "popolazione_totale": 16378,
+    "superficie": 40.4501
   },
   {
     "codice_istat": "023053",
@@ -527,7 +579,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 4252,
     "popolazione_femminile": 4236,
-    "popolazione_totale": 8488
+    "popolazione_totale": 8488,
+    "superficie": 38.778
   },
   {
     "codice_istat": "023054",
@@ -537,7 +590,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2068,
     "popolazione_femminile": 1820,
-    "popolazione_totale": 3888
+    "popolazione_totale": 3888,
+    "superficie": 29.1355
   },
   {
     "codice_istat": "023055",
@@ -547,7 +601,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 5269,
     "popolazione_femminile": 5114,
-    "popolazione_totale": 10383
+    "popolazione_totale": 10383,
+    "superficie": 46.7256
   },
   {
     "codice_istat": "023056",
@@ -557,7 +612,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 603,
     "popolazione_femminile": 593,
-    "popolazione_totale": 1196
+    "popolazione_totale": 1196,
+    "superficie": 13.6104
   },
   {
     "codice_istat": "023057",
@@ -567,7 +623,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1551,
     "popolazione_femminile": 1538,
-    "popolazione_totale": 3089
+    "popolazione_totale": 3089,
+    "superficie": 9.0015
   },
   {
     "codice_istat": "023058",
@@ -577,7 +634,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 8794,
     "popolazione_femminile": 8836,
-    "popolazione_totale": 17630
+    "popolazione_totale": 17630,
+    "superficie": 19.7213
   },
   {
     "codice_istat": "023059",
@@ -587,7 +645,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 5252,
     "popolazione_femminile": 5653,
-    "popolazione_totale": 10905
+    "popolazione_totale": 10905,
+    "superficie": 18.2642
   },
   {
     "codice_istat": "023060",
@@ -597,7 +656,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 3666,
     "popolazione_femminile": 3735,
-    "popolazione_totale": 7401
+    "popolazione_totale": 7401,
+    "superficie": 18.5282
   },
   {
     "codice_istat": "023061",
@@ -607,7 +667,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1332,
     "popolazione_femminile": 1179,
-    "popolazione_totale": 2511
+    "popolazione_totale": 2511,
+    "superficie": 17.3894
   },
   {
     "codice_istat": "023062",
@@ -617,7 +678,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1215,
     "popolazione_femminile": 1153,
-    "popolazione_totale": 2368
+    "popolazione_totale": 2368,
+    "superficie": 18.4272
   },
   {
     "codice_istat": "023063",
@@ -627,7 +689,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1927,
     "popolazione_femminile": 1828,
-    "popolazione_totale": 3755
+    "popolazione_totale": 3755,
+    "superficie": 18.1485
   },
   {
     "codice_istat": "023064",
@@ -637,7 +700,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 3151,
     "popolazione_femminile": 3044,
-    "popolazione_totale": 6195
+    "popolazione_totale": 6195,
+    "superficie": 42.8144
   },
   {
     "codice_istat": "023065",
@@ -647,7 +711,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1368,
     "popolazione_femminile": 1228,
-    "popolazione_totale": 2596
+    "popolazione_totale": 2596,
+    "superficie": 19.6464
   },
   {
     "codice_istat": "023067",
@@ -657,7 +722,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1099,
     "popolazione_femminile": 1070,
-    "popolazione_totale": 2169
+    "popolazione_totale": 2169,
+    "superficie": 36.5736
   },
   {
     "codice_istat": "023066",
@@ -667,7 +733,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 827,
     "popolazione_femminile": 830,
-    "popolazione_totale": 1657
+    "popolazione_totale": 1657,
+    "superficie": 10.1596
   },
   {
     "codice_istat": "023068",
@@ -677,7 +744,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1932,
     "popolazione_femminile": 1826,
-    "popolazione_totale": 3758
+    "popolazione_totale": 3758,
+    "superficie": 30.6952
   },
   {
     "codice_istat": "023069",
@@ -687,7 +755,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 10788,
     "popolazione_femminile": 10611,
-    "popolazione_totale": 21399
+    "popolazione_totale": 21399,
+    "superficie": 33.792
   },
   {
     "codice_istat": "023070",
@@ -697,7 +766,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2446,
     "popolazione_femminile": 2402,
-    "popolazione_totale": 4848
+    "popolazione_totale": 4848,
+    "superficie": 25.4033
   },
   {
     "codice_istat": "023071",
@@ -707,7 +777,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 12503,
     "popolazione_femminile": 12924,
-    "popolazione_totale": 25427
+    "popolazione_totale": 25427,
+    "superficie": 19.0111
   },
   {
     "codice_istat": "023073",
@@ -717,7 +788,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 8354,
     "popolazione_femminile": 8443,
-    "popolazione_totale": 16797
+    "popolazione_totale": 16797,
+    "superficie": 34.7085
   },
   {
     "codice_istat": "023074",
@@ -727,7 +799,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 319,
     "popolazione_femminile": 287,
-    "popolazione_totale": 606
+    "popolazione_totale": 606,
+    "superficie": 11.2375
   },
   {
     "codice_istat": "023075",
@@ -737,7 +810,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1647,
     "popolazione_femminile": 1498,
-    "popolazione_totale": 3145
+    "popolazione_totale": 3145,
+    "superficie": 16.117
   },
   {
     "codice_istat": "023076",
@@ -747,7 +821,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 6254,
     "popolazione_femminile": 6742,
-    "popolazione_totale": 12996
+    "popolazione_totale": 12996,
+    "superficie": 20.231
   },
   {
     "codice_istat": "023079",
@@ -757,7 +832,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 797,
     "popolazione_femminile": 747,
-    "popolazione_totale": 1544
+    "popolazione_totale": 1544,
+    "superficie": 28.239
   },
   {
     "codice_istat": "023072",
@@ -767,7 +843,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2212,
     "popolazione_femminile": 2106,
-    "popolazione_totale": 4318
+    "popolazione_totale": 4318,
+    "superficie": 13.5055
   },
   {
     "codice_istat": "023077",
@@ -777,7 +854,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 5855,
     "popolazione_femminile": 6015,
-    "popolazione_totale": 11870
+    "popolazione_totale": 11870,
+    "superficie": 23.4999
   },
   {
     "codice_istat": "023078",
@@ -787,7 +865,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1446,
     "popolazione_femminile": 1214,
-    "popolazione_totale": 2660
+    "popolazione_totale": 2660,
+    "superficie": 43.4277
   },
   {
     "codice_istat": "023080",
@@ -797,7 +876,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 488,
     "popolazione_femminile": 433,
-    "popolazione_totale": 921
+    "popolazione_totale": 921,
+    "superficie": 41.3327
   },
   {
     "codice_istat": "023081",
@@ -807,7 +887,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 3549,
     "popolazione_femminile": 3577,
-    "popolazione_totale": 7126
+    "popolazione_totale": 7126,
+    "superficie": 22.7207
   },
   {
     "codice_istat": "023082",
@@ -817,7 +898,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 7222,
     "popolazione_femminile": 7258,
-    "popolazione_totale": 14480
+    "popolazione_totale": 14480,
+    "superficie": 40.8235
   },
   {
     "codice_istat": "023083",
@@ -827,7 +909,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 8834,
     "popolazione_femminile": 8927,
-    "popolazione_totale": 17761
+    "popolazione_totale": 17761,
+    "superficie": 41.1199
   },
   {
     "codice_istat": "023084",
@@ -837,7 +920,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1564,
     "popolazione_femminile": 1415,
-    "popolazione_totale": 2979
+    "popolazione_totale": 2979,
+    "superficie": 31.5346
   },
   {
     "codice_istat": "023085",
@@ -847,7 +931,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1064,
     "popolazione_femminile": 1079,
-    "popolazione_totale": 2143
+    "popolazione_totale": 2143,
+    "superficie": 20.5271
   },
   {
     "codice_istat": "023086",
@@ -857,7 +942,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1383,
     "popolazione_femminile": 1473,
-    "popolazione_totale": 2856
+    "popolazione_totale": 2856,
+    "superficie": 46.2913
   },
   {
     "codice_istat": "023087",
@@ -867,7 +953,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2525,
     "popolazione_femminile": 2540,
-    "popolazione_totale": 5065
+    "popolazione_totale": 5065,
+    "superficie": 37.3646
   },
   {
     "codice_istat": "023088",
@@ -877,7 +964,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1494,
     "popolazione_femminile": 1307,
-    "popolazione_totale": 2801
+    "popolazione_totale": 2801,
+    "superficie": 26.9456
   },
   {
     "codice_istat": "023089",
@@ -887,7 +975,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 7911,
     "popolazione_femminile": 8129,
-    "popolazione_totale": 16040
+    "popolazione_totale": 16040,
+    "superficie": 63.9591
   },
   {
     "codice_istat": "023090",
@@ -897,7 +986,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 411,
     "popolazione_femminile": 361,
-    "popolazione_totale": 772
+    "popolazione_totale": 772,
+    "superficie": 18.9017
   },
   {
     "codice_istat": "023091",
@@ -908,7 +998,8 @@
     "popolazione_maschile": 122454,
     "popolazione_femminile": 132685,
     "popolazione_totale": 255139,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 198.8971
   },
   {
     "codice_istat": "023092",
@@ -918,7 +1009,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2643,
     "popolazione_femminile": 2546,
-    "popolazione_totale": 5189
+    "popolazione_totale": 5189,
+    "superficie": 20.8799
   },
   {
     "codice_istat": "023093",
@@ -928,7 +1020,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 1303,
     "popolazione_femminile": 1196,
-    "popolazione_totale": 2499
+    "popolazione_totale": 2499,
+    "superficie": 24.182
   },
   {
     "codice_istat": "023094",
@@ -938,7 +1031,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 5234,
     "popolazione_femminile": 5108,
-    "popolazione_totale": 10342
+    "popolazione_totale": 10342,
+    "superficie": 30.7626
   },
   {
     "codice_istat": "023095",
@@ -948,7 +1042,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 2933,
     "popolazione_femminile": 2962,
-    "popolazione_totale": 5895
+    "popolazione_totale": 5895,
+    "superficie": 52.9869
   },
   {
     "codice_istat": "023096",
@@ -958,7 +1053,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 16085,
     "popolazione_femminile": 16700,
-    "popolazione_totale": 32785
+    "popolazione_totale": 32785,
+    "superficie": 57.3352
   },
   {
     "codice_istat": "023097",
@@ -968,7 +1064,8 @@
     "regione": "Veneto",
     "popolazione_maschile": 7963,
     "popolazione_femminile": 7974,
-    "popolazione_totale": 15937
+    "popolazione_totale": 15937,
+    "superficie": 54.8718
   },
   {
     "codice_istat": "023098",
@@ -978,6 +1075,7 @@
     "regione": "Veneto",
     "popolazione_maschile": 2507,
     "popolazione_femminile": 2374,
-    "popolazione_totale": 4881
+    "popolazione_totale": 4881,
+    "superficie": 20.0994
   }
 ]

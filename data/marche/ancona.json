@@ -7,7 +7,8 @@
     "regione": "Marche",
     "popolazione_maschile": 2312,
     "popolazione_femminile": 2320,
-    "popolazione_totale": 4632
+    "popolazione_totale": 4632,
+    "superficie": 21.8901
   },
   {
     "codice_istat": "042002",
@@ -18,7 +19,8 @@
     "popolazione_maschile": 49609,
     "popolazione_femminile": 50542,
     "popolazione_totale": 100151,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 125.126
   },
   {
     "codice_istat": "042003",
@@ -28,7 +30,8 @@
     "regione": "Marche",
     "popolazione_maschile": 2139,
     "popolazione_femminile": 2106,
-    "popolazione_totale": 4245
+    "popolazione_totale": 4245,
+    "superficie": 128.3311
   },
   {
     "codice_istat": "042004",
@@ -38,7 +41,8 @@
     "regione": "Marche",
     "popolazione_maschile": 640,
     "popolazione_femminile": 627,
-    "popolazione_totale": 1267
+    "popolazione_totale": 1267,
+    "superficie": 11.0386
   },
   {
     "codice_istat": "042005",
@@ -48,7 +52,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1019,
     "popolazione_femminile": 1051,
-    "popolazione_totale": 2070
+    "popolazione_totale": 2070,
+    "superficie": 29.4501
   },
   {
     "codice_istat": "042006",
@@ -58,7 +63,8 @@
     "regione": "Marche",
     "popolazione_maschile": 3417,
     "popolazione_femminile": 3580,
-    "popolazione_totale": 6997
+    "popolazione_totale": 6997,
+    "superficie": 20.0041
   },
   {
     "codice_istat": "042007",
@@ -68,7 +74,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1240,
     "popolazione_femminile": 1241,
-    "popolazione_totale": 2481
+    "popolazione_totale": 2481,
+    "superficie": 11.8916
   },
   {
     "codice_istat": "042008",
@@ -78,7 +85,8 @@
     "regione": "Marche",
     "popolazione_maschile": 2371,
     "popolazione_femminile": 2534,
-    "popolazione_totale": 4905
+    "popolazione_totale": 4905,
+    "superficie": 6.0264
   },
   {
     "codice_istat": "042010",
@@ -88,7 +96,8 @@
     "regione": "Marche",
     "popolazione_maschile": 9033,
     "popolazione_femminile": 9300,
-    "popolazione_totale": 18333
+    "popolazione_totale": 18333,
+    "superficie": 33.4065
   },
   {
     "codice_istat": "042011",
@@ -98,7 +107,8 @@
     "regione": "Marche",
     "popolazione_maschile": 789,
     "popolazione_femminile": 753,
-    "popolazione_totale": 1542
+    "popolazione_totale": 1542,
+    "superficie": 15.9198
   },
   {
     "codice_istat": "042012",
@@ -108,7 +118,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1825,
     "popolazione_femminile": 1787,
-    "popolazione_totale": 3612
+    "popolazione_totale": 3612,
+    "superficie": 15.3181
   },
   {
     "codice_istat": "042013",
@@ -118,7 +129,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1654,
     "popolazione_femminile": 1679,
-    "popolazione_totale": 3333
+    "popolazione_totale": 3333,
+    "superficie": 16.9129
   },
   {
     "codice_istat": "042014",
@@ -128,7 +140,8 @@
     "regione": "Marche",
     "popolazione_maschile": 6831,
     "popolazione_femminile": 7348,
-    "popolazione_totale": 14179
+    "popolazione_totale": 14179,
+    "superficie": 17.602
   },
   {
     "codice_istat": "042015",
@@ -138,7 +151,8 @@
     "regione": "Marche",
     "popolazione_maschile": 2305,
     "popolazione_femminile": 2424,
-    "popolazione_totale": 4729
+    "popolazione_totale": 4729,
+    "superficie": 49.2787
   },
   {
     "codice_istat": "042016",
@@ -148,7 +162,8 @@
     "regione": "Marche",
     "popolazione_maschile": 2130,
     "popolazione_femminile": 2191,
-    "popolazione_totale": 4321
+    "popolazione_totale": 4321,
+    "superficie": 27.4029
   },
   {
     "codice_istat": "042017",
@@ -158,7 +173,8 @@
     "regione": "Marche",
     "popolazione_maschile": 13929,
     "popolazione_femminile": 14540,
-    "popolazione_totale": 28469
+    "popolazione_totale": 28469,
+    "superficie": 272.0792
   },
   {
     "codice_istat": "042018",
@@ -168,7 +184,8 @@
     "regione": "Marche",
     "popolazione_maschile": 12784,
     "popolazione_femminile": 13238,
-    "popolazione_totale": 26022
+    "popolazione_totale": 26022,
+    "superficie": 25.9277
   },
   {
     "codice_istat": "042019",
@@ -178,7 +195,8 @@
     "regione": "Marche",
     "popolazione_maschile": 4384,
     "popolazione_femminile": 4465,
-    "popolazione_totale": 8849
+    "popolazione_totale": 8849,
+    "superficie": 71.2015
   },
   {
     "codice_istat": "042020",
@@ -188,7 +206,8 @@
     "regione": "Marche",
     "popolazione_maschile": 798,
     "popolazione_femminile": 814,
-    "popolazione_totale": 1612
+    "popolazione_totale": 1612,
+    "superficie": 73.1543
   },
   {
     "codice_istat": "042021",
@@ -198,7 +217,8 @@
     "regione": "Marche",
     "popolazione_maschile": 19230,
     "popolazione_femminile": 20200,
-    "popolazione_totale": 39430
+    "popolazione_totale": 39430,
+    "superficie": 108.9032
   },
   {
     "codice_istat": "042022",
@@ -208,7 +228,8 @@
     "regione": "Marche",
     "popolazione_maschile": 6355,
     "popolazione_femminile": 6728,
-    "popolazione_totale": 13083
+    "popolazione_totale": 13083,
+    "superficie": 17.8953
   },
   {
     "codice_istat": "042023",
@@ -218,7 +239,8 @@
     "regione": "Marche",
     "popolazione_maschile": 2856,
     "popolazione_femminile": 3071,
-    "popolazione_totale": 5927
+    "popolazione_totale": 5927,
+    "superficie": 21.4922
   },
   {
     "codice_istat": "042024",
@@ -228,7 +250,8 @@
     "regione": "Marche",
     "popolazione_maschile": 479,
     "popolazione_femminile": 491,
-    "popolazione_totale": 970
+    "popolazione_totale": 970,
+    "superficie": 7.2775
   },
   {
     "codice_istat": "042025",
@@ -238,7 +261,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1548,
     "popolazione_femminile": 1636,
-    "popolazione_totale": 3184
+    "popolazione_totale": 3184,
+    "superficie": 14.6644
   },
   {
     "codice_istat": "042029",
@@ -248,7 +272,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1488,
     "popolazione_femminile": 1504,
-    "popolazione_totale": 2992
+    "popolazione_totale": 2992,
+    "superficie": 13.5901
   },
   {
     "codice_istat": "042030",
@@ -258,7 +283,8 @@
     "regione": "Marche",
     "popolazione_maschile": 3282,
     "popolazione_femminile": 3398,
-    "popolazione_totale": 6680
+    "popolazione_totale": 6680,
+    "superficie": 21.8136
   },
   {
     "codice_istat": "042026",
@@ -268,7 +294,8 @@
     "regione": "Marche",
     "popolazione_maschile": 920,
     "popolazione_femminile": 929,
-    "popolazione_totale": 1849
+    "popolazione_totale": 1849,
+    "superficie": 24.3854
   },
   {
     "codice_istat": "042027",
@@ -278,7 +305,8 @@
     "regione": "Marche",
     "popolazione_maschile": 4890,
     "popolazione_femminile": 4937,
-    "popolazione_totale": 9827
+    "popolazione_totale": 9827,
+    "superficie": 22.3106
   },
   {
     "codice_istat": "042031",
@@ -288,7 +316,8 @@
     "regione": "Marche",
     "popolazione_maschile": 891,
     "popolazione_femminile": 909,
-    "popolazione_totale": 1800
+    "popolazione_totale": 1800,
+    "superficie": 19.4605
   },
   {
     "codice_istat": "042032",
@@ -298,7 +327,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1887,
     "popolazione_femminile": 1850,
-    "popolazione_totale": 3737
+    "popolazione_totale": 3737,
+    "superficie": 10.9596
   },
   {
     "codice_istat": "042033",
@@ -308,7 +338,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1068,
     "popolazione_femminile": 1049,
-    "popolazione_totale": 2117
+    "popolazione_totale": 2117,
+    "superficie": 10.6305
   },
   {
     "codice_istat": "042034",
@@ -318,7 +349,8 @@
     "regione": "Marche",
     "popolazione_maschile": 17166,
     "popolazione_femminile": 17614,
-    "popolazione_totale": 34780
+    "popolazione_totale": 34780,
+    "superficie": 106.7377
   },
   {
     "codice_istat": "042035",
@@ -328,7 +360,8 @@
     "regione": "Marche",
     "popolazione_maschile": 3053,
     "popolazione_femminile": 3163,
-    "popolazione_totale": 6216
+    "popolazione_totale": 6216,
+    "superficie": 47.2517
   },
   {
     "codice_istat": "042036",
@@ -338,7 +371,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1534,
     "popolazione_femminile": 1508,
-    "popolazione_totale": 3042
+    "popolazione_totale": 3042,
+    "superficie": 30.0164
   },
   {
     "codice_istat": "042037",
@@ -348,7 +382,8 @@
     "regione": "Marche",
     "popolazione_maschile": 351,
     "popolazione_femminile": 332,
-    "popolazione_totale": 683
+    "popolazione_totale": 683,
+    "superficie": 13.3629
   },
   {
     "codice_istat": "042038",
@@ -358,7 +393,8 @@
     "regione": "Marche",
     "popolazione_maschile": 2272,
     "popolazione_femminile": 2267,
-    "popolazione_totale": 4539
+    "popolazione_totale": 4539,
+    "superficie": 24.9832
   },
   {
     "codice_istat": "042040",
@@ -368,7 +404,8 @@
     "regione": "Marche",
     "popolazione_maschile": 907,
     "popolazione_femminile": 881,
-    "popolazione_totale": 1788
+    "popolazione_totale": 1788,
+    "superficie": 9.4061
   },
   {
     "codice_istat": "042041",
@@ -378,7 +415,8 @@
     "regione": "Marche",
     "popolazione_maschile": 997,
     "popolazione_femminile": 1009,
-    "popolazione_totale": 2006
+    "popolazione_totale": 2006,
+    "superficie": 25.7778
   },
   {
     "codice_istat": "042042",
@@ -388,7 +426,8 @@
     "regione": "Marche",
     "popolazione_maschile": 453,
     "popolazione_femminile": 456,
-    "popolazione_totale": 909
+    "popolazione_totale": 909,
+    "superficie": 10.1118
   },
   {
     "codice_istat": "042043",
@@ -398,7 +437,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1945,
     "popolazione_femminile": 1935,
-    "popolazione_totale": 3880
+    "popolazione_totale": 3880,
+    "superficie": 18.2869
   },
   {
     "codice_istat": "042044",
@@ -408,7 +448,8 @@
     "regione": "Marche",
     "popolazione_maschile": 3323,
     "popolazione_femminile": 3474,
-    "popolazione_totale": 6797
+    "popolazione_totale": 6797,
+    "superficie": 137.2275
   },
   {
     "codice_istat": "042045",
@@ -418,7 +459,8 @@
     "regione": "Marche",
     "popolazione_maschile": 21111,
     "popolazione_femminile": 22697,
-    "popolazione_totale": 43808
+    "popolazione_totale": 43808,
+    "superficie": 117.9945
   },
   {
     "codice_istat": "042046",
@@ -428,7 +470,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1726,
     "popolazione_femminile": 1789,
-    "popolazione_totale": 3515
+    "popolazione_totale": 3515,
+    "superficie": 24.543
   },
   {
     "codice_istat": "042047",
@@ -438,7 +481,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1202,
     "popolazione_femminile": 1267,
-    "popolazione_totale": 2469
+    "popolazione_totale": 2469,
+    "superficie": 49.333
   },
   {
     "codice_istat": "042048",
@@ -448,7 +492,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1945,
     "popolazione_femminile": 2145,
-    "popolazione_totale": 4090
+    "popolazione_totale": 4090,
+    "superficie": 16.6924
   },
   {
     "codice_istat": "042049",
@@ -458,7 +503,8 @@
     "regione": "Marche",
     "popolazione_maschile": 1056,
     "popolazione_femminile": 1093,
-    "popolazione_totale": 2149
+    "popolazione_totale": 2149,
+    "superficie": 27.4964
   },
   {
     "codice_istat": "042050",
@@ -468,6 +514,7 @@
     "regione": "Marche",
     "popolazione_maschile": 3795,
     "popolazione_femminile": 3802,
-    "popolazione_totale": 7597
+    "popolazione_totale": 7597,
+    "superficie": 39.2557
   }
 ]

@@ -7,7 +7,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 135,
     "popolazione_femminile": 117,
-    "popolazione_totale": 252
+    "popolazione_totale": 252,
+    "superficie": 32.2232
   },
   {
     "codice_istat": "066002",
@@ -17,7 +18,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 680,
     "popolazione_femminile": 690,
-    "popolazione_totale": 1370
+    "popolazione_totale": 1370,
+    "superficie": 37.5165
   },
   {
     "codice_istat": "066003",
@@ -27,7 +29,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 540,
     "popolazione_femminile": 377,
-    "popolazione_totale": 917
+    "popolazione_totale": 917,
+    "superficie": 39.9501
   },
   {
     "codice_istat": "066004",
@@ -37,7 +40,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 153,
     "popolazione_femminile": 151,
-    "popolazione_totale": 304
+    "popolazione_totale": 304,
+    "superficie": 32.4329
   },
   {
     "codice_istat": "066005",
@@ -47,7 +51,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 565,
     "popolazione_femminile": 538,
-    "popolazione_totale": 1103
+    "popolazione_totale": 1103,
+    "superficie": 41.9252
   },
   {
     "codice_istat": "066006",
@@ -57,7 +62,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 20073,
     "popolazione_femminile": 21165,
-    "popolazione_totale": 41238
+    "popolazione_totale": 41238,
+    "superficie": 104.0845
   },
   {
     "codice_istat": "066007",
@@ -67,7 +73,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1581,
     "popolazione_femminile": 1615,
-    "popolazione_totale": 3196
+    "popolazione_totale": 3196,
+    "superficie": 58.8419
   },
   {
     "codice_istat": "066008",
@@ -77,7 +84,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 329,
     "popolazione_femminile": 305,
-    "popolazione_totale": 634
+    "popolazione_totale": 634,
+    "superficie": 24.5883
   },
   {
     "codice_istat": "066009",
@@ -87,7 +95,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 824,
     "popolazione_femminile": 813,
-    "popolazione_totale": 1637
+    "popolazione_totale": 1637,
+    "superficie": 78.4864
   },
   {
     "codice_istat": "066010",
@@ -97,7 +106,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 343,
     "popolazione_femminile": 334,
-    "popolazione_totale": 677
+    "popolazione_totale": 677,
+    "superficie": 87.1068
   },
   {
     "codice_istat": "066011",
@@ -107,7 +117,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 99,
     "popolazione_femminile": 113,
-    "popolazione_totale": 212
+    "popolazione_totale": 212,
+    "superficie": 46.5929
   },
   {
     "codice_istat": "066012",
@@ -117,7 +128,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 510,
     "popolazione_femminile": 488,
-    "popolazione_totale": 998
+    "popolazione_totale": 998,
+    "superficie": 25.121
   },
   {
     "codice_istat": "066013",
@@ -127,7 +139,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 551,
     "popolazione_femminile": 528,
-    "popolazione_totale": 1079
+    "popolazione_totale": 1079,
+    "superficie": 61.3147
   },
   {
     "codice_istat": "066014",
@@ -137,7 +150,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 65,
     "popolazione_femminile": 54,
-    "popolazione_totale": 119
+    "popolazione_totale": 119,
+    "superficie": 39.4433
   },
   {
     "codice_istat": "066015",
@@ -147,7 +161,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 372,
     "popolazione_femminile": 370,
-    "popolazione_totale": 742
+    "popolazione_totale": 742,
+    "superficie": 28.904
   },
   {
     "codice_istat": "066016",
@@ -157,7 +172,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 226,
     "popolazione_femminile": 202,
-    "popolazione_totale": 428
+    "popolazione_totale": 428,
+    "superficie": 51.7244
   },
   {
     "codice_istat": "066017",
@@ -167,7 +183,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 506,
     "popolazione_femminile": 443,
-    "popolazione_totale": 949
+    "popolazione_totale": 949,
+    "superficie": 15.9029
   },
   {
     "codice_istat": "066018",
@@ -177,7 +194,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 100,
     "popolazione_femminile": 116,
-    "popolazione_totale": 216
+    "popolazione_totale": 216,
+    "superficie": 37.6995
   },
   {
     "codice_istat": "066019",
@@ -187,7 +205,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 392,
     "popolazione_femminile": 419,
-    "popolazione_totale": 811
+    "popolazione_totale": 811,
+    "superficie": 43.6574
   },
   {
     "codice_istat": "066020",
@@ -197,7 +216,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 2238,
     "popolazione_femminile": 2358,
-    "popolazione_totale": 4596
+    "popolazione_totale": 4596,
+    "superficie": 60.9627
   },
   {
     "codice_istat": "066021",
@@ -207,7 +227,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 304,
     "popolazione_femminile": 298,
-    "popolazione_totale": 602
+    "popolazione_totale": 602,
+    "superficie": 30.6391
   },
   {
     "codice_istat": "066022",
@@ -217,7 +238,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 113,
     "popolazione_femminile": 88,
-    "popolazione_totale": 201
+    "popolazione_totale": 201,
+    "superficie": 18.6151
   },
   {
     "codice_istat": "066023",
@@ -227,7 +249,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 340,
     "popolazione_femminile": 248,
-    "popolazione_totale": 588
+    "popolazione_totale": 588,
+    "superficie": 68.5707
   },
   {
     "codice_istat": "066024",
@@ -237,7 +260,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 36,
     "popolazione_femminile": 32,
-    "popolazione_totale": 68
+    "popolazione_totale": 68,
+    "superficie": 14.7863
   },
   {
     "codice_istat": "066025",
@@ -247,7 +271,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 2468,
     "popolazione_femminile": 2484,
-    "popolazione_totale": 4952
+    "popolazione_totale": 4952,
+    "superficie": 95.7951
   },
   {
     "codice_istat": "066026",
@@ -257,7 +282,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 200,
     "popolazione_femminile": 179,
-    "popolazione_totale": 379
+    "popolazione_totale": 379,
+    "superficie": 58.0313
   },
   {
     "codice_istat": "066027",
@@ -267,7 +293,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 130,
     "popolazione_femminile": 143,
-    "popolazione_totale": 273
+    "popolazione_totale": 273,
+    "superficie": 18.8838
   },
   {
     "codice_istat": "066028",
@@ -277,7 +304,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 3381,
     "popolazione_femminile": 3209,
-    "popolazione_totale": 6590
+    "popolazione_totale": 6590,
+    "superficie": 84.4297
   },
   {
     "codice_istat": "066029",
@@ -287,7 +315,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 557,
     "popolazione_femminile": 520,
-    "popolazione_totale": 1077
+    "popolazione_totale": 1077,
+    "superficie": 24.1003
   },
   {
     "codice_istat": "066030",
@@ -297,7 +326,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 58,
     "popolazione_femminile": 67,
-    "popolazione_totale": 125
+    "popolazione_totale": 125,
+    "superficie": 15.3195
   },
   {
     "codice_istat": "066031",
@@ -307,7 +337,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 389,
     "popolazione_femminile": 414,
-    "popolazione_totale": 803
+    "popolazione_totale": 803,
+    "superficie": 19.2942
   },
   {
     "codice_istat": "066032",
@@ -317,7 +348,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 5145,
     "popolazione_femminile": 4976,
-    "popolazione_totale": 10121
+    "popolazione_totale": 10121,
+    "superficie": 82.7991
   },
   {
     "codice_istat": "066033",
@@ -327,7 +359,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 782,
     "popolazione_femminile": 760,
-    "popolazione_totale": 1542
+    "popolazione_totale": 1542,
+    "superficie": 20.1648
   },
   {
     "codice_istat": "066034",
@@ -337,7 +370,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 477,
     "popolazione_femminile": 446,
-    "popolazione_totale": 923
+    "popolazione_totale": 923,
+    "superficie": 28.3455
   },
   {
     "codice_istat": "066035",
@@ -347,7 +381,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 148,
     "popolazione_femminile": 139,
-    "popolazione_totale": 287
+    "popolazione_totale": 287,
+    "superficie": 29.4906
   },
   {
     "codice_istat": "066036",
@@ -357,7 +392,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1547,
     "popolazione_femminile": 1471,
-    "popolazione_totale": 3018
+    "popolazione_totale": 3018,
+    "superficie": 45.452
   },
   {
     "codice_istat": "066037",
@@ -367,7 +403,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 110,
     "popolazione_femminile": 93,
-    "popolazione_totale": 203
+    "popolazione_totale": 203,
+    "superficie": 31.6044
   },
   {
     "codice_istat": "066038",
@@ -377,7 +414,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 354,
     "popolazione_femminile": 398,
-    "popolazione_totale": 752
+    "popolazione_totale": 752,
+    "superficie": 23.9435
   },
   {
     "codice_istat": "066039",
@@ -387,7 +425,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 550,
     "popolazione_femminile": 505,
-    "popolazione_totale": 1055
+    "popolazione_totale": 1055,
+    "superficie": 54.0193
   },
   {
     "codice_istat": "066040",
@@ -397,7 +436,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 97,
     "popolazione_femminile": 103,
-    "popolazione_totale": 200
+    "popolazione_totale": 200,
+    "superficie": 15.2092
   },
   {
     "codice_istat": "066041",
@@ -407,7 +447,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 491,
     "popolazione_femminile": 456,
-    "popolazione_totale": 947
+    "popolazione_totale": 947,
+    "superficie": 17.9499
   },
   {
     "codice_istat": "066042",
@@ -417,7 +458,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 165,
     "popolazione_femminile": 172,
-    "popolazione_totale": 337
+    "popolazione_totale": 337,
+    "superficie": 24.6438
   },
   {
     "codice_istat": "066043",
@@ -427,7 +469,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 138,
     "popolazione_femminile": 142,
-    "popolazione_totale": 280
+    "popolazione_totale": 280,
+    "superficie": 16.8595
   },
   {
     "codice_istat": "066044",
@@ -437,7 +480,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 336,
     "popolazione_femminile": 346,
-    "popolazione_totale": 682
+    "popolazione_totale": 682,
+    "superficie": 8.7053
   },
   {
     "codice_istat": "066045",
@@ -447,7 +491,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 114,
     "popolazione_femminile": 107,
-    "popolazione_totale": 221
+    "popolazione_totale": 221,
+    "superficie": 32.1491
   },
   {
     "codice_istat": "066046",
@@ -457,7 +502,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 900,
     "popolazione_femminile": 788,
-    "popolazione_totale": 1688
+    "popolazione_totale": 1688,
+    "superficie": 58.4037
   },
   {
     "codice_istat": "066047",
@@ -467,7 +513,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 275,
     "popolazione_femminile": 248,
-    "popolazione_totale": 523
+    "popolazione_totale": 523,
+    "superficie": 20.2377
   },
   {
     "codice_istat": "066048",
@@ -477,7 +524,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 967,
     "popolazione_femminile": 961,
-    "popolazione_totale": 1928
+    "popolazione_totale": 1928,
+    "superficie": 37.1068
   },
   {
     "codice_istat": "066049",
@@ -488,7 +536,8 @@
     "popolazione_maschile": 35143,
     "popolazione_femminile": 35660,
     "popolazione_totale": 70803,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 473.9067
   },
   {
     "codice_istat": "066050",
@@ -498,7 +547,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 729,
     "popolazione_femminile": 747,
-    "popolazione_totale": 1476
+    "popolazione_totale": 1476,
+    "superficie": 66.4693
   },
   {
     "codice_istat": "066051",
@@ -508,7 +558,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 3060,
     "popolazione_femminile": 2875,
-    "popolazione_totale": 5935
+    "popolazione_totale": 5935,
+    "superficie": 44.8647
   },
   {
     "codice_istat": "066052",
@@ -518,7 +569,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 442,
     "popolazione_femminile": 405,
-    "popolazione_totale": 847
+    "popolazione_totale": 847,
+    "superficie": 103.442
   },
   {
     "codice_istat": "066053",
@@ -528,7 +580,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1671,
     "popolazione_femminile": 1729,
-    "popolazione_totale": 3400
+    "popolazione_totale": 3400,
+    "superficie": 70.9177
   },
   {
     "codice_istat": "066054",
@@ -538,7 +591,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 687,
     "popolazione_femminile": 650,
-    "popolazione_totale": 1337
+    "popolazione_totale": 1337,
+    "superficie": 68.5332
   },
   {
     "codice_istat": "066055",
@@ -548,7 +602,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 165,
     "popolazione_femminile": 163,
-    "popolazione_totale": 328
+    "popolazione_totale": 328,
+    "superficie": 12.2078
   },
   {
     "codice_istat": "066056",
@@ -558,7 +613,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1150,
     "popolazione_femminile": 1033,
-    "popolazione_totale": 2183
+    "popolazione_totale": 2183,
+    "superficie": 104.4085
   },
   {
     "codice_istat": "066057",
@@ -568,7 +624,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 645,
     "popolazione_femminile": 635,
-    "popolazione_totale": 1280
+    "popolazione_totale": 1280,
+    "superficie": 51.27
   },
   {
     "codice_istat": "066058",
@@ -578,7 +635,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 302,
     "popolazione_femminile": 281,
-    "popolazione_totale": 583
+    "popolazione_totale": 583,
+    "superficie": 42.0036
   },
   {
     "codice_istat": "066059",
@@ -588,7 +646,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 564,
     "popolazione_femminile": 531,
-    "popolazione_totale": 1095
+    "popolazione_totale": 1095,
+    "superficie": 23.6037
   },
   {
     "codice_istat": "066060",
@@ -598,7 +657,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 260,
     "popolazione_femminile": 202,
-    "popolazione_totale": 462
+    "popolazione_totale": 462,
+    "superficie": 36.8978
   },
   {
     "codice_istat": "066061",
@@ -608,7 +668,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 197,
     "popolazione_femminile": 176,
-    "popolazione_totale": 373
+    "popolazione_totale": 373,
+    "superficie": 49.9041
   },
   {
     "codice_istat": "066062",
@@ -618,7 +679,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 636,
     "popolazione_femminile": 638,
-    "popolazione_totale": 1274
+    "popolazione_totale": 1274,
+    "superficie": 18.3563
   },
   {
     "codice_istat": "066063",
@@ -628,7 +690,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 175,
     "popolazione_femminile": 191,
-    "popolazione_totale": 366
+    "popolazione_totale": 366,
+    "superficie": 57.166
   },
   {
     "codice_istat": "066064",
@@ -638,7 +701,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 876,
     "popolazione_femminile": 860,
-    "popolazione_totale": 1736
+    "popolazione_totale": 1736,
+    "superficie": 38.9991
   },
   {
     "codice_istat": "066065",
@@ -648,7 +712,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 585,
     "popolazione_femminile": 569,
-    "popolazione_totale": 1154
+    "popolazione_totale": 1154,
+    "superficie": 61.3767
   },
   {
     "codice_istat": "066066",
@@ -658,7 +723,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 539,
     "popolazione_femminile": 518,
-    "popolazione_totale": 1057
+    "popolazione_totale": 1057,
+    "superficie": 72.5874
   },
   {
     "codice_istat": "066067",
@@ -668,7 +734,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 335,
     "popolazione_femminile": 295,
-    "popolazione_totale": 630
+    "popolazione_totale": 630,
+    "superficie": 41.1547
   },
   {
     "codice_istat": "066068",
@@ -678,7 +745,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1022,
     "popolazione_femminile": 971,
-    "popolazione_totale": 1993
+    "popolazione_totale": 1993,
+    "superficie": 91.1585
   },
   {
     "codice_istat": "066069",
@@ -688,7 +756,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1837,
     "popolazione_femminile": 1817,
-    "popolazione_totale": 3654
+    "popolazione_totale": 3654,
+    "superficie": 48.7943
   },
   {
     "codice_istat": "066070",
@@ -698,7 +767,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 565,
     "popolazione_femminile": 516,
-    "popolazione_totale": 1081
+    "popolazione_totale": 1081,
+    "superficie": 55.0623
   },
   {
     "codice_istat": "066071",
@@ -708,7 +778,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 640,
     "popolazione_femminile": 619,
-    "popolazione_totale": 1259
+    "popolazione_totale": 1259,
+    "superficie": 62.8485
   },
   {
     "codice_istat": "066072",
@@ -718,7 +789,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 2176,
     "popolazione_femminile": 2010,
-    "popolazione_totale": 4186
+    "popolazione_totale": 4186,
+    "superficie": 56.4355
   },
   {
     "codice_istat": "066073",
@@ -728,7 +800,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 495,
     "popolazione_femminile": 533,
-    "popolazione_totale": 1028
+    "popolazione_totale": 1028,
+    "superficie": 11.4578
   },
   {
     "codice_istat": "066074",
@@ -738,7 +811,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 206,
     "popolazione_femminile": 218,
-    "popolazione_totale": 424
+    "popolazione_totale": 424,
+    "superficie": 19.6543
   },
   {
     "codice_istat": "066075",
@@ -748,7 +822,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 3369,
     "popolazione_femminile": 3512,
-    "popolazione_totale": 6881
+    "popolazione_totale": 6881,
+    "superficie": 28.6736
   },
   {
     "codice_istat": "066076",
@@ -758,7 +833,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 392,
     "popolazione_femminile": 412,
-    "popolazione_totale": 804
+    "popolazione_totale": 804,
+    "superficie": 21.5962
   },
   {
     "codice_istat": "066077",
@@ -768,7 +844,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1230,
     "popolazione_femminile": 1365,
-    "popolazione_totale": 2595
+    "popolazione_totale": 2595,
+    "superficie": 28.9925
   },
   {
     "codice_istat": "066078",
@@ -778,7 +855,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 386,
     "popolazione_femminile": 294,
-    "popolazione_totale": 680
+    "popolazione_totale": 680,
+    "superficie": 32.0009
   },
   {
     "codice_istat": "066080",
@@ -788,7 +866,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 485,
     "popolazione_femminile": 406,
-    "popolazione_totale": 891
+    "popolazione_totale": 891,
+    "superficie": 31.1068
   },
   {
     "codice_istat": "066081",
@@ -798,7 +877,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 277,
     "popolazione_femminile": 246,
-    "popolazione_totale": 523
+    "popolazione_totale": 523,
+    "superficie": 27.6186
   },
   {
     "codice_istat": "066082",
@@ -808,7 +888,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 689,
     "popolazione_femminile": 625,
-    "popolazione_totale": 1314
+    "popolazione_totale": 1314,
+    "superficie": 90.5451
   },
   {
     "codice_istat": "066083",
@@ -818,7 +899,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 83,
     "popolazione_femminile": 70,
-    "popolazione_totale": 153
+    "popolazione_totale": 153,
+    "superficie": 44.9609
   },
   {
     "codice_istat": "066079",
@@ -828,7 +910,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 282,
     "popolazione_femminile": 280,
-    "popolazione_totale": 562
+    "popolazione_totale": 562,
+    "superficie": 17.3069
   },
   {
     "codice_istat": "066084",
@@ -838,7 +921,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 739,
     "popolazione_femminile": 721,
-    "popolazione_totale": 1460
+    "popolazione_totale": 1460,
+    "superficie": 49.91
   },
   {
     "codice_istat": "066085",
@@ -848,7 +932,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1884,
     "popolazione_femminile": 1831,
-    "popolazione_totale": 3715
+    "popolazione_totale": 3715,
+    "superficie": 16.7609
   },
   {
     "codice_istat": "066086",
@@ -858,7 +943,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 60,
     "popolazione_femminile": 40,
-    "popolazione_totale": 100
+    "popolazione_totale": 100,
+    "superficie": 19.0984
   },
   {
     "codice_istat": "066087",
@@ -868,7 +954,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1030,
     "popolazione_femminile": 972,
-    "popolazione_totale": 2002
+    "popolazione_totale": 2002,
+    "superficie": 16.4918
   },
   {
     "codice_istat": "066088",
@@ -878,7 +965,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 332,
     "popolazione_femminile": 331,
-    "popolazione_totale": 663
+    "popolazione_totale": 663,
+    "superficie": 17.2122
   },
   {
     "codice_istat": "066092",
@@ -888,7 +976,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 974,
     "popolazione_femminile": 1039,
-    "popolazione_totale": 2013
+    "popolazione_totale": 2013,
+    "superficie": 46.0391
   },
   {
     "codice_istat": "066090",
@@ -898,7 +987,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 184,
     "popolazione_femminile": 180,
-    "popolazione_totale": 364
+    "popolazione_totale": 364,
+    "superficie": 7.9441
   },
   {
     "codice_istat": "066089",
@@ -908,7 +998,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 540,
     "popolazione_femminile": 513,
-    "popolazione_totale": 1053
+    "popolazione_totale": 1053,
+    "superficie": 40.8131
   },
   {
     "codice_istat": "066091",
@@ -918,7 +1009,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 49,
     "popolazione_femminile": 53,
-    "popolazione_totale": 102
+    "popolazione_totale": 102,
+    "superficie": 33.6988
   },
   {
     "codice_istat": "066093",
@@ -928,7 +1020,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 814,
     "popolazione_femminile": 848,
-    "popolazione_totale": 1662
+    "popolazione_totale": 1662,
+    "superficie": 134.6767
   },
   {
     "codice_istat": "066094",
@@ -938,7 +1031,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 283,
     "popolazione_femminile": 252,
-    "popolazione_totale": 535
+    "popolazione_totale": 535,
+    "superficie": 21.3541
   },
   {
     "codice_istat": "066095",
@@ -948,7 +1042,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1920,
     "popolazione_femminile": 1889,
-    "popolazione_totale": 3809
+    "popolazione_totale": 3809,
+    "superficie": 53.0036
   },
   {
     "codice_istat": "066096",
@@ -958,7 +1053,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1352,
     "popolazione_femminile": 1348,
-    "popolazione_totale": 2700
+    "popolazione_totale": 2700,
+    "superficie": 30.3822
   },
   {
     "codice_istat": "066097",
@@ -968,7 +1064,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 162,
     "popolazione_femminile": 140,
-    "popolazione_totale": 302
+    "popolazione_totale": 302,
+    "superficie": 33.3409
   },
   {
     "codice_istat": "066098",
@@ -978,7 +1075,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 10507,
     "popolazione_femminile": 11103,
-    "popolazione_totale": 21610
+    "popolazione_totale": 21610,
+    "superficie": 57.9277
   },
   {
     "codice_istat": "066099",
@@ -988,7 +1086,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 3181,
     "popolazione_femminile": 3236,
-    "popolazione_totale": 6417
+    "popolazione_totale": 6417,
+    "superficie": 87.4574
   },
   {
     "codice_istat": "066100",
@@ -998,7 +1097,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 125,
     "popolazione_femminile": 118,
-    "popolazione_totale": 243
+    "popolazione_totale": 243,
+    "superficie": 39.6548
   },
   {
     "codice_istat": "066101",
@@ -1008,7 +1108,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 1395,
     "popolazione_femminile": 1334,
-    "popolazione_totale": 2729
+    "popolazione_totale": 2729,
+    "superficie": 65.9606
   },
   {
     "codice_istat": "066102",
@@ -1018,7 +1119,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 2991,
     "popolazione_femminile": 2813,
-    "popolazione_totale": 5804
+    "popolazione_totale": 5804,
+    "superficie": 51.443
   },
   {
     "codice_istat": "066105",
@@ -1028,7 +1130,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 229,
     "popolazione_femminile": 282,
-    "popolazione_totale": 511
+    "popolazione_totale": 511,
+    "superficie": 5.2153
   },
   {
     "codice_istat": "066104",
@@ -1038,7 +1141,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 38,
     "popolazione_femminile": 38,
-    "popolazione_totale": 76
+    "popolazione_totale": 76,
+    "superficie": 26.9897
   },
   {
     "codice_istat": "066103",
@@ -1048,7 +1152,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 254,
     "popolazione_femminile": 236,
-    "popolazione_totale": 490
+    "popolazione_totale": 490,
+    "superficie": 33.1994
   },
   {
     "codice_istat": "066106",
@@ -1058,7 +1163,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 393,
     "popolazione_femminile": 429,
-    "popolazione_totale": 822
+    "popolazione_totale": 822,
+    "superficie": 73.733
   },
   {
     "codice_istat": "066107",
@@ -1068,7 +1174,8 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 307,
     "popolazione_femminile": 282,
-    "popolazione_totale": 589
+    "popolazione_totale": 589,
+    "superficie": 20.5246
   },
   {
     "codice_istat": "066108",
@@ -1078,6 +1185,7 @@
     "regione": "Abruzzo",
     "popolazione_maschile": 384,
     "popolazione_femminile": 420,
-    "popolazione_totale": 804
+    "popolazione_totale": 804,
+    "superficie": 14.1944
   }
 ]

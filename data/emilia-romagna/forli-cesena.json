@@ -7,7 +7,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 2734,
     "popolazione_femminile": 2850,
-    "popolazione_totale": 5584
+    "popolazione_totale": 5584,
+    "superficie": 233.4993
   },
   {
     "codice_istat": "040003",
@@ -17,7 +18,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 5520,
     "popolazione_femminile": 5673,
-    "popolazione_totale": 11193
+    "popolazione_totale": 11193,
+    "superficie": 57.2533
   },
   {
     "codice_istat": "040004",
@@ -27,7 +29,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 1499,
     "popolazione_femminile": 1416,
-    "popolazione_totale": 2915
+    "popolazione_totale": 2915,
+    "superficie": 30.2328
   },
   {
     "codice_istat": "040005",
@@ -37,7 +40,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 3159,
     "popolazione_femminile": 3371,
-    "popolazione_totale": 6530
+    "popolazione_totale": 6530,
+    "superficie": 38.9503
   },
   {
     "codice_istat": "040007",
@@ -48,7 +52,8 @@
     "popolazione_maschile": 46519,
     "popolazione_femminile": 49101,
     "popolazione_totale": 95620,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 249.4613
   },
   {
     "codice_istat": "040008",
@@ -58,7 +63,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 12641,
     "popolazione_femminile": 13401,
-    "popolazione_totale": 26042
+    "popolazione_totale": 26042,
+    "superficie": 45.2471
   },
   {
     "codice_istat": "040009",
@@ -68,7 +74,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 1819,
     "popolazione_femminile": 1807,
-    "popolazione_totale": 3626
+    "popolazione_totale": 3626,
+    "superficie": 117.929
   },
   {
     "codice_istat": "040011",
@@ -78,7 +85,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 781,
     "popolazione_femminile": 810,
-    "popolazione_totale": 1591
+    "popolazione_totale": 1591,
+    "superficie": 38.9703
   },
   {
     "codice_istat": "040012",
@@ -89,7 +97,8 @@
     "popolazione_maschile": 58019,
     "popolazione_femminile": 60034,
     "popolazione_totale": 118053,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 228.1968
   },
   {
     "codice_istat": "040013",
@@ -99,7 +108,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 6524,
     "popolazione_femminile": 6616,
-    "popolazione_totale": 13140
+    "popolazione_totale": 13140,
+    "superficie": 24.4589
   },
   {
     "codice_istat": "040014",
@@ -109,7 +119,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 1313,
     "popolazione_femminile": 1243,
-    "popolazione_totale": 2556
+    "popolazione_totale": 2556,
+    "superficie": 63.1287
   },
   {
     "codice_istat": "040015",
@@ -119,7 +130,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 5361,
     "popolazione_femminile": 5602,
-    "popolazione_totale": 10963
+    "popolazione_totale": 10963,
+    "superficie": 7.7714
   },
   {
     "codice_istat": "040016",
@@ -129,7 +141,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 4720,
     "popolazione_femminile": 4749,
-    "popolazione_totale": 9469
+    "popolazione_totale": 9469,
+    "superficie": 14.1262
   },
   {
     "codice_istat": "040018",
@@ -139,7 +152,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 3579,
     "popolazione_femminile": 3615,
-    "popolazione_totale": 7194
+    "popolazione_totale": 7194,
+    "superficie": 23.576
   },
   {
     "codice_istat": "040019",
@@ -149,7 +163,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 4982,
     "popolazione_femminile": 5055,
-    "popolazione_totale": 10037
+    "popolazione_totale": 10037,
+    "superficie": 79.0775
   },
   {
     "codice_istat": "040020",
@@ -159,7 +174,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 3486,
     "popolazione_femminile": 3340,
-    "popolazione_totale": 6826
+    "popolazione_totale": 6826,
+    "superficie": 99.3304
   },
   {
     "codice_istat": "040022",
@@ -169,7 +185,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 2149,
     "popolazione_femminile": 2152,
-    "popolazione_totale": 4301
+    "popolazione_totale": 4301,
+    "superficie": 101.1628
   },
   {
     "codice_istat": "040028",
@@ -179,7 +196,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 838,
     "popolazione_femminile": 857,
-    "popolazione_totale": 1695
+    "popolazione_totale": 1695,
+    "superficie": 9.2571
   },
   {
     "codice_istat": "040031",
@@ -189,7 +207,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 368,
     "popolazione_femminile": 348,
-    "popolazione_totale": 716
+    "popolazione_totale": 716,
+    "superficie": 61.0512
   },
   {
     "codice_istat": "040032",
@@ -199,7 +218,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 3258,
     "popolazione_femminile": 3106,
-    "popolazione_totale": 6364
+    "popolazione_totale": 6364,
+    "superficie": 91.3884
   },
   {
     "codice_istat": "040033",
@@ -209,7 +229,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 344,
     "popolazione_femminile": 331,
-    "popolazione_totale": 675
+    "popolazione_totale": 675,
+    "superficie": 98.5565
   },
   {
     "codice_istat": "040036",
@@ -219,7 +240,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 916,
     "popolazione_femminile": 907,
-    "popolazione_totale": 1823
+    "popolazione_totale": 1823,
+    "superficie": 50.558
   },
   {
     "codice_istat": "040037",
@@ -229,7 +251,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 1804,
     "popolazione_femminile": 1754,
-    "popolazione_totale": 3558
+    "popolazione_totale": 3558,
+    "superficie": 51.5261
   },
   {
     "codice_istat": "040041",
@@ -239,7 +262,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 6142,
     "popolazione_femminile": 6316,
-    "popolazione_totale": 12458
+    "popolazione_totale": 12458,
+    "superficie": 17.3269
   },
   {
     "codice_istat": "040043",
@@ -249,7 +273,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 2016,
     "popolazione_femminile": 2017,
-    "popolazione_totale": 4033
+    "popolazione_totale": 4033,
+    "superficie": 148.8627
   },
   {
     "codice_istat": "040044",
@@ -259,7 +284,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 1660,
     "popolazione_femminile": 1627,
-    "popolazione_totale": 3287
+    "popolazione_totale": 3287,
+    "superficie": 100.7182
   },
   {
     "codice_istat": "040045",
@@ -269,7 +295,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 9015,
     "popolazione_femminile": 9132,
-    "popolazione_totale": 18147
+    "popolazione_totale": 18147,
+    "superficie": 23.2773
   },
   {
     "codice_istat": "040046",
@@ -279,7 +306,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 1568,
     "popolazione_femminile": 1577,
-    "popolazione_totale": 3145
+    "popolazione_totale": 3145,
+    "superficie": 93.4291
   },
   {
     "codice_istat": "040049",
@@ -289,7 +317,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 545,
     "popolazione_femminile": 530,
-    "popolazione_totale": 1075
+    "popolazione_totale": 1075,
+    "superficie": 62.1989
   },
   {
     "codice_istat": "040050",
@@ -299,6 +328,7 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 897,
     "popolazione_femminile": 824,
-    "popolazione_totale": 1721
+    "popolazione_totale": 1721,
+    "superficie": 117.8824
   }
 ]

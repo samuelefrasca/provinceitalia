@@ -7,7 +7,8 @@
     "regione": "Campania",
     "popolazione_maschile": 2005,
     "popolazione_femminile": 2040,
-    "popolazione_totale": 4045
+    "popolazione_totale": 4045,
+    "superficie": 10.8723
   },
   {
     "codice_istat": "064002",
@@ -17,7 +18,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1890,
     "popolazione_femminile": 1913,
-    "popolazione_totale": 3803
+    "popolazione_totale": 3803,
+    "superficie": 14.0831
   },
   {
     "codice_istat": "064003",
@@ -27,7 +29,8 @@
     "regione": "Campania",
     "popolazione_maschile": 806,
     "popolazione_femminile": 824,
-    "popolazione_totale": 1630
+    "popolazione_totale": 1630,
+    "superficie": 43.6485
   },
   {
     "codice_istat": "064004",
@@ -37,7 +40,8 @@
     "regione": "Campania",
     "popolazione_maschile": 718,
     "popolazione_femminile": 663,
-    "popolazione_totale": 1381
+    "popolazione_totale": 1381,
+    "superficie": 56.1439
   },
   {
     "codice_istat": "064005",
@@ -47,7 +51,8 @@
     "regione": "Campania",
     "popolazione_maschile": 10090,
     "popolazione_femminile": 10567,
-    "popolazione_totale": 20657
+    "popolazione_totale": 20657,
+    "superficie": 186.7365
   },
   {
     "codice_istat": "064006",
@@ -57,7 +62,8 @@
     "regione": "Campania",
     "popolazione_maschile": 4919,
     "popolazione_femminile": 5263,
-    "popolazione_totale": 10182
+    "popolazione_totale": 10182,
+    "superficie": 8.5679
   },
   {
     "codice_istat": "064007",
@@ -67,7 +73,8 @@
     "regione": "Campania",
     "popolazione_maschile": 3610,
     "popolazione_femminile": 3807,
-    "popolazione_totale": 7417
+    "popolazione_totale": 7417,
+    "superficie": 29.389
   },
   {
     "codice_istat": "064008",
@@ -78,7 +85,8 @@
     "popolazione_maschile": 24576,
     "popolazione_femminile": 27243,
     "popolazione_totale": 51819,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 30.5611
   },
   {
     "codice_istat": "064009",
@@ -88,7 +96,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1524,
     "popolazione_femminile": 1466,
-    "popolazione_totale": 2990
+    "popolazione_totale": 2990,
+    "superficie": 68.8043
   },
   {
     "codice_istat": "064010",
@@ -98,7 +107,8 @@
     "regione": "Campania",
     "popolazione_maschile": 2097,
     "popolazione_femminile": 2274,
-    "popolazione_totale": 4371
+    "popolazione_totale": 4371,
+    "superficie": 12.2951
   },
   {
     "codice_istat": "064011",
@@ -108,7 +118,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1740,
     "popolazione_femminile": 1684,
-    "popolazione_totale": 3424
+    "popolazione_totale": 3424,
+    "superficie": 102.1573
   },
   {
     "codice_istat": "064012",
@@ -118,7 +129,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1084,
     "popolazione_femminile": 1085,
-    "popolazione_totale": 2169
+    "popolazione_totale": 2169,
+    "superficie": 18.7774
   },
   {
     "codice_istat": "064013",
@@ -128,7 +140,8 @@
     "regione": "Campania",
     "popolazione_maschile": 142,
     "popolazione_femminile": 139,
-    "popolazione_totale": 281
+    "popolazione_totale": 281,
+    "superficie": 13.8104
   },
   {
     "codice_istat": "064014",
@@ -138,7 +151,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1039,
     "popolazione_femminile": 1057,
-    "popolazione_totale": 2096
+    "popolazione_totale": 2096,
+    "superficie": 56.334
   },
   {
     "codice_istat": "064015",
@@ -148,7 +162,8 @@
     "regione": "Campania",
     "popolazione_maschile": 2004,
     "popolazione_femminile": 2086,
-    "popolazione_totale": 4090
+    "popolazione_totale": 4090,
+    "superficie": 101.0503
   },
   {
     "codice_istat": "064016",
@@ -158,7 +173,8 @@
     "regione": "Campania",
     "popolazione_maschile": 564,
     "popolazione_femminile": 519,
-    "popolazione_totale": 1083
+    "popolazione_totale": 1083,
+    "superficie": 5.3488
   },
   {
     "codice_istat": "064017",
@@ -168,7 +184,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1572,
     "popolazione_femminile": 1613,
-    "popolazione_totale": 3185
+    "popolazione_totale": 3185,
+    "superficie": 41.2827
   },
   {
     "codice_istat": "064018",
@@ -178,7 +195,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1095,
     "popolazione_femminile": 1089,
-    "popolazione_totale": 2184
+    "popolazione_totale": 2184,
+    "superficie": 7.4916
   },
   {
     "codice_istat": "064019",
@@ -188,7 +206,8 @@
     "regione": "Campania",
     "popolazione_maschile": 610,
     "popolazione_femminile": 632,
-    "popolazione_totale": 1242
+    "popolazione_totale": 1242,
+    "superficie": 16.7239
   },
   {
     "codice_istat": "064020",
@@ -198,7 +217,8 @@
     "regione": "Campania",
     "popolazione_maschile": 743,
     "popolazione_femminile": 771,
-    "popolazione_totale": 1514
+    "popolazione_totale": 1514,
+    "superficie": 28.0937
   },
   {
     "codice_istat": "064021",
@@ -208,7 +228,8 @@
     "regione": "Campania",
     "popolazione_maschile": 485,
     "popolazione_femminile": 474,
-    "popolazione_totale": 959
+    "popolazione_totale": 959,
+    "superficie": 13.0746
   },
   {
     "codice_istat": "064022",
@@ -218,7 +239,8 @@
     "regione": "Campania",
     "popolazione_maschile": 514,
     "popolazione_femminile": 533,
-    "popolazione_totale": 1047
+    "popolazione_totale": 1047,
+    "superficie": 15.3663
   },
   {
     "codice_istat": "064023",
@@ -228,7 +250,8 @@
     "regione": "Campania",
     "popolazione_maschile": 810,
     "popolazione_femminile": 856,
-    "popolazione_totale": 1666
+    "popolazione_totale": 1666,
+    "superficie": 11.6888
   },
   {
     "codice_istat": "064024",
@@ -238,7 +261,8 @@
     "regione": "Campania",
     "popolazione_maschile": 733,
     "popolazione_femminile": 721,
-    "popolazione_totale": 1454
+    "popolazione_totale": 1454,
+    "superficie": 17.17
   },
   {
     "codice_istat": "064025",
@@ -248,7 +272,8 @@
     "regione": "Campania",
     "popolazione_maschile": 4268,
     "popolazione_femminile": 4450,
-    "popolazione_totale": 8718
+    "popolazione_totale": 8718,
+    "superficie": 29.343
   },
   {
     "codice_istat": "064026",
@@ -258,7 +283,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1255,
     "popolazione_femminile": 1257,
-    "popolazione_totale": 2512
+    "popolazione_totale": 2512,
+    "superficie": 3.7261
   },
   {
     "codice_istat": "064027",
@@ -268,7 +294,8 @@
     "regione": "Campania",
     "popolazione_maschile": 240,
     "popolazione_femminile": 218,
-    "popolazione_totale": 458
+    "popolazione_totale": 458,
+    "superficie": 6.6074
   },
   {
     "codice_istat": "064028",
@@ -278,7 +305,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1008,
     "popolazione_femminile": 1047,
-    "popolazione_totale": 2055
+    "popolazione_totale": 2055,
+    "superficie": 24.6023
   },
   {
     "codice_istat": "064029",
@@ -288,7 +316,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1637,
     "popolazione_femminile": 1450,
-    "popolazione_totale": 3087
+    "popolazione_totale": 3087,
+    "superficie": 10.3106
   },
   {
     "codice_istat": "064030",
@@ -298,7 +327,8 @@
     "regione": "Campania",
     "popolazione_maschile": 629,
     "popolazione_femminile": 640,
-    "popolazione_totale": 1269
+    "popolazione_totale": 1269,
+    "superficie": 51.6339
   },
   {
     "codice_istat": "064031",
@@ -308,7 +338,8 @@
     "regione": "Campania",
     "popolazione_maschile": 901,
     "popolazione_femminile": 893,
-    "popolazione_totale": 1794
+    "popolazione_totale": 1794,
+    "superficie": 6.4378
   },
   {
     "codice_istat": "064032",
@@ -318,7 +349,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1213,
     "popolazione_femminile": 1249,
-    "popolazione_totale": 2462
+    "popolazione_totale": 2462,
+    "superficie": 34.5501
   },
   {
     "codice_istat": "064033",
@@ -328,7 +360,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1404,
     "popolazione_femminile": 1428,
-    "popolazione_totale": 2832
+    "popolazione_totale": 2832,
+    "superficie": 16.7042
   },
   {
     "codice_istat": "064034",
@@ -338,7 +371,8 @@
     "regione": "Campania",
     "popolazione_maschile": 2680,
     "popolazione_femminile": 2538,
-    "popolazione_totale": 5218
+    "popolazione_totale": 5218,
+    "superficie": 20.3896
   },
   {
     "codice_istat": "064035",
@@ -348,7 +382,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1702,
     "popolazione_femminile": 1694,
-    "popolazione_totale": 3396
+    "popolazione_totale": 3396,
+    "superficie": 38.0394
   },
   {
     "codice_istat": "064036",
@@ -358,7 +393,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1578,
     "popolazione_femminile": 1616,
-    "popolazione_totale": 3194
+    "popolazione_totale": 3194,
+    "superficie": 27.3349
   },
   {
     "codice_istat": "064037",
@@ -368,7 +404,8 @@
     "regione": "Campania",
     "popolazione_maschile": 300,
     "popolazione_femminile": 294,
-    "popolazione_totale": 594
+    "popolazione_totale": 594,
+    "superficie": 30.2576
   },
   {
     "codice_istat": "064038",
@@ -378,7 +415,8 @@
     "regione": "Campania",
     "popolazione_maschile": 3751,
     "popolazione_femminile": 3813,
-    "popolazione_totale": 7564
+    "popolazione_totale": 7564,
+    "superficie": 29.1147
   },
   {
     "codice_istat": "064039",
@@ -388,7 +426,8 @@
     "regione": "Campania",
     "popolazione_maschile": 914,
     "popolazione_femminile": 897,
-    "popolazione_totale": 1811
+    "popolazione_totale": 1811,
+    "superficie": 7.1256
   },
   {
     "codice_istat": "064040",
@@ -398,7 +437,8 @@
     "regione": "Campania",
     "popolazione_maschile": 698,
     "popolazione_femminile": 748,
-    "popolazione_totale": 1446
+    "popolazione_totale": 1446,
+    "superficie": 55.873
   },
   {
     "codice_istat": "064041",
@@ -408,7 +448,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1021,
     "popolazione_femminile": 990,
-    "popolazione_totale": 2011
+    "popolazione_totale": 2011,
+    "superficie": 82.0823
   },
   {
     "codice_istat": "064042",
@@ -418,7 +459,8 @@
     "regione": "Campania",
     "popolazione_maschile": 736,
     "popolazione_femminile": 685,
-    "popolazione_totale": 1421
+    "popolazione_totale": 1421,
+    "superficie": 15.2465
   },
   {
     "codice_istat": "064043",
@@ -428,7 +470,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1557,
     "popolazione_femminile": 1686,
-    "popolazione_totale": 3243
+    "popolazione_totale": 3243,
+    "superficie": 11.2944
   },
   {
     "codice_istat": "064044",
@@ -438,7 +481,8 @@
     "regione": "Campania",
     "popolazione_maschile": 2862,
     "popolazione_femminile": 3000,
-    "popolazione_totale": 5862
+    "popolazione_totale": 5862,
+    "superficie": 46.5111
   },
   {
     "codice_istat": "064045",
@@ -448,7 +492,8 @@
     "regione": "Campania",
     "popolazione_maschile": 556,
     "popolazione_femminile": 506,
-    "popolazione_totale": 1062
+    "popolazione_totale": 1062,
+    "superficie": 6.0681
   },
   {
     "codice_istat": "064046",
@@ -458,7 +503,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1531,
     "popolazione_femminile": 1460,
-    "popolazione_totale": 2991
+    "popolazione_totale": 2991,
+    "superficie": 8.7453
   },
   {
     "codice_istat": "064047",
@@ -468,7 +514,8 @@
     "regione": "Campania",
     "popolazione_maschile": 817,
     "popolazione_femminile": 839,
-    "popolazione_totale": 1656
+    "popolazione_totale": 1656,
+    "superficie": 4.7195
   },
   {
     "codice_istat": "064048",
@@ -478,7 +525,8 @@
     "regione": "Campania",
     "popolazione_maschile": 896,
     "popolazione_femminile": 863,
-    "popolazione_totale": 1759
+    "popolazione_totale": 1759,
+    "superficie": 20.684
   },
   {
     "codice_istat": "064049",
@@ -488,7 +536,8 @@
     "regione": "Campania",
     "popolazione_maschile": 5568,
     "popolazione_femminile": 5848,
-    "popolazione_totale": 11416
+    "popolazione_totale": 11416,
+    "superficie": 19.9159
   },
   {
     "codice_istat": "064050",
@@ -498,7 +547,8 @@
     "regione": "Campania",
     "popolazione_maschile": 3255,
     "popolazione_femminile": 3291,
-    "popolazione_totale": 6546
+    "popolazione_totale": 6546,
+    "superficie": 33.9585
   },
   {
     "codice_istat": "064051",
@@ -508,7 +558,8 @@
     "regione": "Campania",
     "popolazione_maschile": 160,
     "popolazione_femminile": 173,
-    "popolazione_totale": 333
+    "popolazione_totale": 333,
+    "superficie": 18.3787
   },
   {
     "codice_istat": "064052",
@@ -518,7 +569,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1572,
     "popolazione_femminile": 1654,
-    "popolazione_totale": 3226
+    "popolazione_totale": 3226,
+    "superficie": 54.0056
   },
   {
     "codice_istat": "064053",
@@ -528,7 +580,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1497,
     "popolazione_femminile": 1545,
-    "popolazione_totale": 3042
+    "popolazione_totale": 3042,
+    "superficie": 15.294
   },
   {
     "codice_istat": "064054",
@@ -538,7 +591,8 @@
     "regione": "Campania",
     "popolazione_maschile": 5776,
     "popolazione_femminile": 5576,
-    "popolazione_totale": 11352
+    "popolazione_totale": 11352,
+    "superficie": 26.9575
   },
   {
     "codice_istat": "064055",
@@ -548,7 +602,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1073,
     "popolazione_femminile": 1080,
-    "popolazione_totale": 2153
+    "popolazione_totale": 2153,
+    "superficie": 9.4461
   },
   {
     "codice_istat": "064056",
@@ -558,7 +613,8 @@
     "regione": "Campania",
     "popolazione_maschile": 584,
     "popolazione_femminile": 599,
-    "popolazione_totale": 1183
+    "popolazione_totale": 1183,
+    "superficie": 8.2383
   },
   {
     "codice_istat": "064057",
@@ -568,7 +624,8 @@
     "regione": "Campania",
     "popolazione_maschile": 3479,
     "popolazione_femminile": 3658,
-    "popolazione_totale": 7137
+    "popolazione_totale": 7137,
+    "superficie": 82.9536
   },
   {
     "codice_istat": "064058",
@@ -578,7 +635,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1269,
     "popolazione_femminile": 1251,
-    "popolazione_totale": 2520
+    "popolazione_totale": 2520,
+    "superficie": 34.0089
   },
   {
     "codice_istat": "064059",
@@ -588,7 +646,8 @@
     "regione": "Campania",
     "popolazione_maschile": 2520,
     "popolazione_femminile": 2493,
-    "popolazione_totale": 5013
+    "popolazione_totale": 5013,
+    "superficie": 21.6348
   },
   {
     "codice_istat": "064060",
@@ -598,7 +657,8 @@
     "regione": "Campania",
     "popolazione_maschile": 328,
     "popolazione_femminile": 332,
-    "popolazione_totale": 660
+    "popolazione_totale": 660,
+    "superficie": 39.5637
   },
   {
     "codice_istat": "064121",
@@ -608,7 +668,8 @@
     "regione": "Campania",
     "popolazione_maschile": 9734,
     "popolazione_femminile": 9779,
-    "popolazione_totale": 19513
+    "popolazione_totale": 19513,
+    "superficie": 40.141
   },
   {
     "codice_istat": "064063",
@@ -618,7 +679,8 @@
     "regione": "Campania",
     "popolazione_maschile": 516,
     "popolazione_femminile": 567,
-    "popolazione_totale": 1083
+    "popolazione_totale": 1083,
+    "superficie": 30.4121
   },
   {
     "codice_istat": "064064",
@@ -628,7 +690,8 @@
     "regione": "Campania",
     "popolazione_maschile": 751,
     "popolazione_femminile": 784,
-    "popolazione_totale": 1535
+    "popolazione_totale": 1535,
+    "superficie": 13.4535
   },
   {
     "codice_istat": "064065",
@@ -638,7 +701,8 @@
     "regione": "Campania",
     "popolazione_maschile": 2619,
     "popolazione_femminile": 2496,
-    "popolazione_totale": 5115
+    "popolazione_totale": 5115,
+    "superficie": 12.2983
   },
   {
     "codice_istat": "064066",
@@ -648,7 +712,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1860,
     "popolazione_femminile": 1923,
-    "popolazione_totale": 3783
+    "popolazione_totale": 3783,
+    "superficie": 53.6004
   },
   {
     "codice_istat": "064067",
@@ -658,7 +723,8 @@
     "regione": "Campania",
     "popolazione_maschile": 973,
     "popolazione_femminile": 990,
-    "popolazione_totale": 1963
+    "popolazione_totale": 1963,
+    "superficie": 5.6879
   },
   {
     "codice_istat": "064068",
@@ -668,7 +734,8 @@
     "regione": "Campania",
     "popolazione_maschile": 822,
     "popolazione_femminile": 862,
-    "popolazione_totale": 1684
+    "popolazione_totale": 1684,
+    "superficie": 4.6255
   },
   {
     "codice_istat": "064069",
@@ -678,7 +745,8 @@
     "regione": "Campania",
     "popolazione_maschile": 298,
     "popolazione_femminile": 314,
-    "popolazione_totale": 612
+    "popolazione_totale": 612,
+    "superficie": 3.2188
   },
   {
     "codice_istat": "064070",
@@ -688,7 +756,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1041,
     "popolazione_femminile": 1027,
-    "popolazione_totale": 2068
+    "popolazione_totale": 2068,
+    "superficie": 18.4254
   },
   {
     "codice_istat": "064071",
@@ -698,7 +767,8 @@
     "regione": "Campania",
     "popolazione_maschile": 152,
     "popolazione_femminile": 145,
-    "popolazione_totale": 297
+    "popolazione_totale": 297,
+    "superficie": 3.1398
   },
   {
     "codice_istat": "064072",
@@ -708,7 +778,8 @@
     "regione": "Campania",
     "popolazione_maschile": 994,
     "popolazione_femminile": 925,
-    "popolazione_totale": 1919
+    "popolazione_totale": 1919,
+    "superficie": 9.2415
   },
   {
     "codice_istat": "064073",
@@ -718,7 +789,8 @@
     "regione": "Campania",
     "popolazione_maschile": 750,
     "popolazione_femminile": 713,
-    "popolazione_totale": 1463
+    "popolazione_totale": 1463,
+    "superficie": 15.7281
   },
   {
     "codice_istat": "064074",
@@ -728,7 +800,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1342,
     "popolazione_femminile": 1313,
-    "popolazione_totale": 2655
+    "popolazione_totale": 2655,
+    "superficie": 10.991
   },
   {
     "codice_istat": "064075",
@@ -738,7 +811,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1784,
     "popolazione_femminile": 1777,
-    "popolazione_totale": 3561
+    "popolazione_totale": 3561,
+    "superficie": 8.8428
   },
   {
     "codice_istat": "064076",
@@ -748,7 +822,8 @@
     "regione": "Campania",
     "popolazione_maschile": 913,
     "popolazione_femminile": 951,
-    "popolazione_totale": 1864
+    "popolazione_totale": 1864,
+    "superficie": 6.9311
   },
   {
     "codice_istat": "064077",
@@ -758,7 +833,8 @@
     "regione": "Campania",
     "popolazione_maschile": 869,
     "popolazione_femminile": 888,
-    "popolazione_totale": 1757
+    "popolazione_totale": 1757,
+    "superficie": 23.9083
   },
   {
     "codice_istat": "064079",
@@ -768,7 +844,8 @@
     "regione": "Campania",
     "popolazione_maschile": 383,
     "popolazione_femminile": 382,
-    "popolazione_totale": 765
+    "popolazione_totale": 765,
+    "superficie": 14.4116
   },
   {
     "codice_istat": "064078",
@@ -778,7 +855,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1209,
     "popolazione_femminile": 1134,
-    "popolazione_totale": 2343
+    "popolazione_totale": 2343,
+    "superficie": 12.4553
   },
   {
     "codice_istat": "064080",
@@ -788,7 +866,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1717,
     "popolazione_femminile": 1612,
-    "popolazione_totale": 3329
+    "popolazione_totale": 3329,
+    "superficie": 7.8084
   },
   {
     "codice_istat": "064081",
@@ -798,7 +877,8 @@
     "regione": "Campania",
     "popolazione_maschile": 365,
     "popolazione_femminile": 362,
-    "popolazione_totale": 727
+    "popolazione_totale": 727,
+    "superficie": 4.9594
   },
   {
     "codice_istat": "064082",
@@ -808,7 +888,8 @@
     "regione": "Campania",
     "popolazione_maschile": 593,
     "popolazione_femminile": 511,
-    "popolazione_totale": 1104
+    "popolazione_totale": 1104,
+    "superficie": 14.5865
   },
   {
     "codice_istat": "064083",
@@ -818,7 +899,8 @@
     "regione": "Campania",
     "popolazione_maschile": 2359,
     "popolazione_femminile": 2374,
-    "popolazione_totale": 4733
+    "popolazione_totale": 4733,
+    "superficie": 22.9153
   },
   {
     "codice_istat": "064084",
@@ -828,7 +910,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1201,
     "popolazione_femminile": 1190,
-    "popolazione_totale": 2391
+    "popolazione_totale": 2391,
+    "superficie": 4.4659
   },
   {
     "codice_istat": "064085",
@@ -838,7 +921,8 @@
     "regione": "Campania",
     "popolazione_maschile": 361,
     "popolazione_femminile": 376,
-    "popolazione_totale": 737
+    "popolazione_totale": 737,
+    "superficie": 6.8989
   },
   {
     "codice_istat": "064086",
@@ -848,7 +932,8 @@
     "regione": "Campania",
     "popolazione_maschile": 686,
     "popolazione_femminile": 771,
-    "popolazione_totale": 1457
+    "popolazione_totale": 1457,
+    "superficie": 4.5377
   },
   {
     "codice_istat": "064087",
@@ -858,7 +943,8 @@
     "regione": "Campania",
     "popolazione_maschile": 714,
     "popolazione_femminile": 748,
-    "popolazione_totale": 1462
+    "popolazione_totale": 1462,
+    "superficie": 19.1929
   },
   {
     "codice_istat": "064089",
@@ -868,7 +954,8 @@
     "regione": "Campania",
     "popolazione_maschile": 658,
     "popolazione_femminile": 683,
-    "popolazione_totale": 1341
+    "popolazione_totale": 1341,
+    "superficie": 7.0424
   },
   {
     "codice_istat": "064091",
@@ -878,7 +965,8 @@
     "regione": "Campania",
     "popolazione_maschile": 385,
     "popolazione_femminile": 287,
-    "popolazione_totale": 672
+    "popolazione_totale": 672,
+    "superficie": 10.7449
   },
   {
     "codice_istat": "064090",
@@ -888,7 +976,8 @@
     "regione": "Campania",
     "popolazione_maschile": 342,
     "popolazione_femminile": 346,
-    "popolazione_totale": 688
+    "popolazione_totale": 688,
+    "superficie": 5.4602
   },
   {
     "codice_istat": "064092",
@@ -898,7 +987,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1932,
     "popolazione_femminile": 1851,
-    "popolazione_totale": 3783
+    "popolazione_totale": 3783,
+    "superficie": 55.1046
   },
   {
     "codice_istat": "064088",
@@ -908,7 +998,8 @@
     "regione": "Campania",
     "popolazione_maschile": 654,
     "popolazione_femminile": 688,
-    "popolazione_totale": 1342
+    "popolazione_totale": 1342,
+    "superficie": 3.9333
   },
   {
     "codice_istat": "064093",
@@ -918,7 +1009,8 @@
     "regione": "Campania",
     "popolazione_maschile": 559,
     "popolazione_femminile": 566,
-    "popolazione_totale": 1125
+    "popolazione_totale": 1125,
+    "superficie": 8.4343
   },
   {
     "codice_istat": "064095",
@@ -928,7 +1020,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1022,
     "popolazione_femminile": 1024,
-    "popolazione_totale": 2046
+    "popolazione_totale": 2046,
+    "superficie": 10.7802
   },
   {
     "codice_istat": "064096",
@@ -938,7 +1031,8 @@
     "regione": "Campania",
     "popolazione_maschile": 515,
     "popolazione_femminile": 495,
-    "popolazione_totale": 1010
+    "popolazione_totale": 1010,
+    "superficie": 38.478
   },
   {
     "codice_istat": "064097",
@@ -948,7 +1042,8 @@
     "regione": "Campania",
     "popolazione_maschile": 476,
     "popolazione_femminile": 505,
-    "popolazione_totale": 981
+    "popolazione_totale": 981,
+    "superficie": 15.1053
   },
   {
     "codice_istat": "064098",
@@ -958,7 +1053,8 @@
     "regione": "Campania",
     "popolazione_maschile": 391,
     "popolazione_femminile": 317,
-    "popolazione_totale": 708
+    "popolazione_totale": 708,
+    "superficie": 32.025
   },
   {
     "codice_istat": "064099",
@@ -968,7 +1064,8 @@
     "regione": "Campania",
     "popolazione_maschile": 3288,
     "popolazione_femminile": 3275,
-    "popolazione_totale": 6563
+    "popolazione_totale": 6563,
+    "superficie": 52.4994
   },
   {
     "codice_istat": "064100",
@@ -978,7 +1075,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1440,
     "popolazione_femminile": 1501,
-    "popolazione_totale": 2941
+    "popolazione_totale": 2941,
+    "superficie": 6.1867
   },
   {
     "codice_istat": "064101",
@@ -988,7 +1086,8 @@
     "regione": "Campania",
     "popolazione_maschile": 5904,
     "popolazione_femminile": 6017,
-    "popolazione_totale": 11921
+    "popolazione_totale": 11921,
+    "superficie": 22.2136
   },
   {
     "codice_istat": "064102",
@@ -998,7 +1097,8 @@
     "regione": "Campania",
     "popolazione_maschile": 265,
     "popolazione_femminile": 247,
-    "popolazione_totale": 512
+    "popolazione_totale": 512,
+    "superficie": 8.1035
   },
   {
     "codice_istat": "064103",
@@ -1008,7 +1108,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1770,
     "popolazione_femminile": 1857,
-    "popolazione_totale": 3627
+    "popolazione_totale": 3627,
+    "superficie": 4.6968
   },
   {
     "codice_istat": "064104",
@@ -1018,7 +1119,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1324,
     "popolazione_femminile": 1380,
-    "popolazione_totale": 2704
+    "popolazione_totale": 2704,
+    "superficie": 16.6733
   },
   {
     "codice_istat": "064105",
@@ -1028,7 +1130,8 @@
     "regione": "Campania",
     "popolazione_maschile": 735,
     "popolazione_femminile": 734,
-    "popolazione_totale": 1469
+    "popolazione_totale": 1469,
+    "superficie": 12.3678
   },
   {
     "codice_istat": "064106",
@@ -1038,7 +1141,8 @@
     "regione": "Campania",
     "popolazione_maschile": 685,
     "popolazione_femminile": 720,
-    "popolazione_totale": 1405
+    "popolazione_totale": 1405,
+    "superficie": 9.7651
   },
   {
     "codice_istat": "064107",
@@ -1048,7 +1152,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1012,
     "popolazione_femminile": 1044,
-    "popolazione_totale": 2056
+    "popolazione_totale": 2056,
+    "superficie": 14.4115
   },
   {
     "codice_istat": "064108",
@@ -1058,7 +1163,8 @@
     "regione": "Campania",
     "popolazione_maschile": 709,
     "popolazione_femminile": 715,
-    "popolazione_totale": 1424
+    "popolazione_totale": 1424,
+    "superficie": 23.2062
   },
   {
     "codice_istat": "064109",
@@ -1068,7 +1174,8 @@
     "regione": "Campania",
     "popolazione_maschile": 947,
     "popolazione_femminile": 998,
-    "popolazione_totale": 1945
+    "popolazione_totale": 1945,
+    "superficie": 26.5685
   },
   {
     "codice_istat": "064110",
@@ -1078,7 +1185,8 @@
     "regione": "Campania",
     "popolazione_maschile": 608,
     "popolazione_femminile": 615,
-    "popolazione_totale": 1223
+    "popolazione_totale": 1223,
+    "superficie": 10.0415
   },
   {
     "codice_istat": "064111",
@@ -1088,7 +1196,8 @@
     "regione": "Campania",
     "popolazione_maschile": 268,
     "popolazione_femminile": 193,
-    "popolazione_totale": 461
+    "popolazione_totale": 461,
+    "superficie": 4.2199
   },
   {
     "codice_istat": "064112",
@@ -1098,7 +1207,8 @@
     "regione": "Campania",
     "popolazione_maschile": 385,
     "popolazione_femminile": 404,
-    "popolazione_totale": 789
+    "popolazione_totale": 789,
+    "superficie": 10.4209
   },
   {
     "codice_istat": "064113",
@@ -1108,7 +1218,8 @@
     "regione": "Campania",
     "popolazione_maschile": 381,
     "popolazione_femminile": 376,
-    "popolazione_totale": 757
+    "popolazione_totale": 757,
+    "superficie": 5.9642
   },
   {
     "codice_istat": "064114",
@@ -1118,7 +1229,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1174,
     "popolazione_femminile": 1231,
-    "popolazione_totale": 2405
+    "popolazione_totale": 2405,
+    "superficie": 47.9136
   },
   {
     "codice_istat": "064115",
@@ -1128,7 +1240,8 @@
     "regione": "Campania",
     "popolazione_maschile": 582,
     "popolazione_femminile": 613,
-    "popolazione_totale": 1195
+    "popolazione_totale": 1195,
+    "superficie": 14.7054
   },
   {
     "codice_istat": "064116",
@@ -1138,7 +1251,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1136,
     "popolazione_femminile": 1148,
-    "popolazione_totale": 2284
+    "popolazione_totale": 2284,
+    "superficie": 14.1566
   },
   {
     "codice_istat": "064117",
@@ -1148,7 +1262,8 @@
     "regione": "Campania",
     "popolazione_maschile": 425,
     "popolazione_femminile": 471,
-    "popolazione_totale": 896
+    "popolazione_totale": 896,
+    "superficie": 9.0366
   },
   {
     "codice_istat": "064118",
@@ -1158,7 +1273,8 @@
     "regione": "Campania",
     "popolazione_maschile": 701,
     "popolazione_femminile": 738,
-    "popolazione_totale": 1439
+    "popolazione_totale": 1439,
+    "superficie": 19.9992
   },
   {
     "codice_istat": "064119",
@@ -1168,7 +1284,8 @@
     "regione": "Campania",
     "popolazione_maschile": 1389,
     "popolazione_femminile": 1489,
-    "popolazione_totale": 2878
+    "popolazione_totale": 2878,
+    "superficie": 32.4183
   },
   {
     "codice_istat": "064120",
@@ -1178,6 +1295,7 @@
     "regione": "Campania",
     "popolazione_maschile": 429,
     "popolazione_femminile": 469,
-    "popolazione_totale": 898
+    "popolazione_totale": 898,
+    "superficie": 19.2142
   }
 ]

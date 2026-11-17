@@ -7,7 +7,8 @@
     "regione": "Molise",
     "popolazione_maschile": 271,
     "popolazione_femminile": 265,
-    "popolazione_totale": 536
+    "popolazione_totale": 536,
+    "superficie": 28.5993
   },
   {
     "codice_istat": "070002",
@@ -17,7 +18,8 @@
     "regione": "Molise",
     "popolazione_maschile": 1217,
     "popolazione_femminile": 1207,
-    "popolazione_totale": 2424
+    "popolazione_totale": 2424,
+    "superficie": 24.9546
   },
   {
     "codice_istat": "070003",
@@ -27,7 +29,8 @@
     "regione": "Molise",
     "popolazione_maschile": 3705,
     "popolazione_femminile": 3791,
-    "popolazione_totale": 7496
+    "popolazione_totale": 7496,
+    "superficie": 52.6298
   },
   {
     "codice_istat": "070004",
@@ -37,7 +40,8 @@
     "regione": "Molise",
     "popolazione_maschile": 561,
     "popolazione_femminile": 567,
-    "popolazione_totale": 1128
+    "popolazione_totale": 1128,
+    "superficie": 31.2796
   },
   {
     "codice_istat": "070005",
@@ -47,7 +51,8 @@
     "regione": "Molise",
     "popolazione_maschile": 568,
     "popolazione_femminile": 574,
-    "popolazione_totale": 1142
+    "popolazione_totale": 1142,
+    "superficie": 23.8102
   },
   {
     "codice_istat": "070006",
@@ -58,7 +63,8 @@
     "popolazione_maschile": 23098,
     "popolazione_femminile": 24301,
     "popolazione_totale": 47399,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 56.1111
   },
   {
     "codice_istat": "070007",
@@ -68,7 +74,8 @@
     "regione": "Molise",
     "popolazione_maschile": 272,
     "popolazione_femminile": 284,
-    "popolazione_totale": 556
+    "popolazione_totale": 556,
+    "superficie": 35.701
   },
   {
     "codice_istat": "070008",
@@ -78,7 +85,8 @@
     "regione": "Molise",
     "popolazione_maschile": 1182,
     "popolazione_femminile": 1221,
-    "popolazione_totale": 2403
+    "popolazione_totale": 2403,
+    "superficie": 19.7217
   },
   {
     "codice_istat": "070009",
@@ -88,7 +96,8 @@
     "regione": "Molise",
     "popolazione_maschile": 393,
     "popolazione_femminile": 400,
-    "popolazione_totale": 793
+    "popolazione_totale": 793,
+    "superficie": 24.4253
   },
   {
     "codice_istat": "070010",
@@ -98,7 +107,8 @@
     "regione": "Molise",
     "popolazione_maschile": 4101,
     "popolazione_femminile": 3873,
-    "popolazione_totale": 7974
+    "popolazione_totale": 7974,
+    "superficie": 76.5639
   },
   {
     "codice_istat": "070011",
@@ -108,7 +118,8 @@
     "regione": "Molise",
     "popolazione_maschile": 952,
     "popolazione_femminile": 872,
-    "popolazione_totale": 1824
+    "popolazione_totale": 1824,
+    "superficie": 67.2764
   },
   {
     "codice_istat": "070012",
@@ -118,7 +129,8 @@
     "regione": "Molise",
     "popolazione_maschile": 210,
     "popolazione_femminile": 214,
-    "popolazione_totale": 424
+    "popolazione_totale": 424,
+    "superficie": 19.0649
   },
   {
     "codice_istat": "070013",
@@ -128,7 +140,8 @@
     "regione": "Molise",
     "popolazione_maschile": 106,
     "popolazione_femminile": 117,
-    "popolazione_totale": 223
+    "popolazione_totale": 223,
+    "superficie": 11.2235
   },
   {
     "codice_istat": "070014",
@@ -138,7 +151,8 @@
     "regione": "Molise",
     "popolazione_maschile": 213,
     "popolazione_femminile": 204,
-    "popolazione_totale": 417
+    "popolazione_totale": 417,
+    "superficie": 15.5442
   },
   {
     "codice_istat": "070015",
@@ -148,7 +162,8 @@
     "regione": "Molise",
     "popolazione_maschile": 524,
     "popolazione_femminile": 551,
-    "popolazione_totale": 1075
+    "popolazione_totale": 1075,
+    "superficie": 43.6196
   },
   {
     "codice_istat": "070016",
@@ -158,7 +173,8 @@
     "regione": "Molise",
     "popolazione_maschile": 408,
     "popolazione_femminile": 431,
-    "popolazione_totale": 839
+    "popolazione_totale": 839,
+    "superficie": 26.9572
   },
   {
     "codice_istat": "070017",
@@ -168,7 +184,8 @@
     "regione": "Molise",
     "popolazione_maschile": 1792,
     "popolazione_femminile": 1737,
-    "popolazione_totale": 3529
+    "popolazione_totale": 3529,
+    "superficie": 56.9107
   },
   {
     "codice_istat": "070018",
@@ -178,7 +195,8 @@
     "regione": "Molise",
     "popolazione_maschile": 318,
     "popolazione_femminile": 342,
-    "popolazione_totale": 660
+    "popolazione_totale": 660,
+    "superficie": 16.7935
   },
   {
     "codice_istat": "070019",
@@ -188,7 +206,8 @@
     "regione": "Molise",
     "popolazione_maschile": 129,
     "popolazione_femminile": 148,
-    "popolazione_totale": 277
+    "popolazione_totale": 277,
+    "superficie": 38.8933
   },
   {
     "codice_istat": "070020",
@@ -198,7 +217,8 @@
     "regione": "Molise",
     "popolazione_maschile": 352,
     "popolazione_femminile": 357,
-    "popolazione_totale": 709
+    "popolazione_totale": 709,
+    "superficie": 15.7347
   },
   {
     "codice_istat": "070021",
@@ -208,7 +228,8 @@
     "regione": "Molise",
     "popolazione_maschile": 806,
     "popolazione_femminile": 812,
-    "popolazione_totale": 1618
+    "popolazione_totale": 1618,
+    "superficie": 35.9051
   },
   {
     "codice_istat": "070022",
@@ -218,7 +239,8 @@
     "regione": "Molise",
     "popolazione_maschile": 205,
     "popolazione_femminile": 173,
-    "popolazione_totale": 378
+    "popolazione_totale": 378,
+    "superficie": 22.4681
   },
   {
     "codice_istat": "070023",
@@ -228,7 +250,8 @@
     "regione": "Molise",
     "popolazione_maschile": 1680,
     "popolazione_femminile": 1710,
-    "popolazione_totale": 3390
+    "popolazione_totale": 3390,
+    "superficie": 16.7727
   },
   {
     "codice_istat": "070024",
@@ -238,7 +261,8 @@
     "regione": "Molise",
     "popolazione_maschile": 542,
     "popolazione_femminile": 557,
-    "popolazione_totale": 1099
+    "popolazione_totale": 1099,
+    "superficie": 28.3337
   },
   {
     "codice_istat": "070025",
@@ -248,7 +272,8 @@
     "regione": "Molise",
     "popolazione_maschile": 608,
     "popolazione_femminile": 625,
-    "popolazione_totale": 1233
+    "popolazione_totale": 1233,
+    "superficie": 43.6825
   },
   {
     "codice_istat": "070026",
@@ -258,7 +283,8 @@
     "regione": "Molise",
     "popolazione_maschile": 350,
     "popolazione_femminile": 357,
-    "popolazione_totale": 707
+    "popolazione_totale": 707,
+    "superficie": 29.7548
   },
   {
     "codice_istat": "070027",
@@ -268,7 +294,8 @@
     "regione": "Molise",
     "popolazione_maschile": 475,
     "popolazione_femminile": 467,
-    "popolazione_totale": 942
+    "popolazione_totale": 942,
+    "superficie": 43.5261
   },
   {
     "codice_istat": "070028",
@@ -278,7 +305,8 @@
     "regione": "Molise",
     "popolazione_maschile": 348,
     "popolazione_femminile": 311,
-    "popolazione_totale": 659
+    "popolazione_totale": 659,
+    "superficie": 43.7156
   },
   {
     "codice_istat": "070029",
@@ -288,7 +316,8 @@
     "regione": "Molise",
     "popolazione_maschile": 2491,
     "popolazione_femminile": 2383,
-    "popolazione_totale": 4874
+    "popolazione_totale": 4874,
+    "superficie": 100.9461
   },
   {
     "codice_istat": "070030",
@@ -298,7 +327,8 @@
     "regione": "Molise",
     "popolazione_maschile": 779,
     "popolazione_femminile": 751,
-    "popolazione_totale": 1530
+    "popolazione_totale": 1530,
+    "superficie": 28.7729
   },
   {
     "codice_istat": "070031",
@@ -308,7 +338,8 @@
     "regione": "Molise",
     "popolazione_maschile": 3148,
     "popolazione_femminile": 3109,
-    "popolazione_totale": 6257
+    "popolazione_totale": 6257,
+    "superficie": 88.7653
   },
   {
     "codice_istat": "070032",
@@ -318,7 +349,8 @@
     "regione": "Molise",
     "popolazione_maschile": 359,
     "popolazione_femminile": 302,
-    "popolazione_totale": 661
+    "popolazione_totale": 661,
+    "superficie": 28.2662
   },
   {
     "codice_istat": "070033",
@@ -328,7 +360,8 @@
     "regione": "Molise",
     "popolazione_maschile": 310,
     "popolazione_femminile": 306,
-    "popolazione_totale": 616
+    "popolazione_totale": 616,
+    "superficie": 31.5628
   },
   {
     "codice_istat": "070034",
@@ -338,7 +371,8 @@
     "regione": "Molise",
     "popolazione_maschile": 192,
     "popolazione_femminile": 199,
-    "popolazione_totale": 391
+    "popolazione_totale": 391,
+    "superficie": 25.8724
   },
   {
     "codice_istat": "070035",
@@ -348,7 +382,8 @@
     "regione": "Molise",
     "popolazione_maschile": 222,
     "popolazione_femminile": 217,
-    "popolazione_totale": 439
+    "popolazione_totale": 439,
+    "superficie": 26.7322
   },
   {
     "codice_istat": "070036",
@@ -358,7 +393,8 @@
     "regione": "Molise",
     "popolazione_maschile": 539,
     "popolazione_femminile": 535,
-    "popolazione_totale": 1074
+    "popolazione_totale": 1074,
+    "superficie": 32.5053
   },
   {
     "codice_istat": "070037",
@@ -368,7 +404,8 @@
     "regione": "Molise",
     "popolazione_maschile": 509,
     "popolazione_femminile": 510,
-    "popolazione_totale": 1019
+    "popolazione_totale": 1019,
+    "superficie": 20.4211
   },
   {
     "codice_istat": "070038",
@@ -378,7 +415,8 @@
     "regione": "Molise",
     "popolazione_maschile": 1015,
     "popolazione_femminile": 1019,
-    "popolazione_totale": 2034
+    "popolazione_totale": 2034,
+    "superficie": 21.4272
   },
   {
     "codice_istat": "070039",
@@ -388,7 +426,8 @@
     "regione": "Molise",
     "popolazione_maschile": 81,
     "popolazione_femminile": 63,
-    "popolazione_totale": 144
+    "popolazione_totale": 144,
+    "superficie": 5.2
   },
   {
     "codice_istat": "070040",
@@ -398,7 +437,8 @@
     "regione": "Molise",
     "popolazione_maschile": 207,
     "popolazione_femminile": 232,
-    "popolazione_totale": 439
+    "popolazione_totale": 439,
+    "superficie": 27.214
   },
   {
     "codice_istat": "070041",
@@ -408,7 +448,8 @@
     "regione": "Molise",
     "popolazione_maschile": 476,
     "popolazione_femminile": 475,
-    "popolazione_totale": 951
+    "popolazione_totale": 951,
+    "superficie": 26.6236
   },
   {
     "codice_istat": "070042",
@@ -418,7 +459,8 @@
     "regione": "Molise",
     "popolazione_maschile": 619,
     "popolazione_femminile": 601,
-    "popolazione_totale": 1220
+    "popolazione_totale": 1220,
+    "superficie": 22.919
   },
   {
     "codice_istat": "070043",
@@ -428,7 +470,8 @@
     "regione": "Molise",
     "popolazione_maschile": 670,
     "popolazione_femminile": 643,
-    "popolazione_totale": 1313
+    "popolazione_totale": 1313,
+    "superficie": 32.5674
   },
   {
     "codice_istat": "070044",
@@ -438,7 +481,8 @@
     "regione": "Molise",
     "popolazione_maschile": 146,
     "popolazione_femminile": 130,
-    "popolazione_totale": 276
+    "popolazione_totale": 276,
+    "superficie": 12.7631
   },
   {
     "codice_istat": "070045",
@@ -448,7 +492,8 @@
     "regione": "Molise",
     "popolazione_maschile": 136,
     "popolazione_femminile": 146,
-    "popolazione_totale": 282
+    "popolazione_totale": 282,
+    "superficie": 16.2928
   },
   {
     "codice_istat": "070046",
@@ -458,7 +503,8 @@
     "regione": "Molise",
     "popolazione_maschile": 3093,
     "popolazione_femminile": 3093,
-    "popolazione_totale": 6186
+    "popolazione_totale": 6186,
+    "superficie": 93.2217
   },
   {
     "codice_istat": "070047",
@@ -468,7 +514,8 @@
     "regione": "Molise",
     "popolazione_maschile": 168,
     "popolazione_femminile": 174,
-    "popolazione_totale": 342
+    "popolazione_totale": 342,
+    "superficie": 31.6629
   },
   {
     "codice_istat": "070048",
@@ -478,7 +525,8 @@
     "regione": "Molise",
     "popolazione_maschile": 255,
     "popolazione_femminile": 250,
-    "popolazione_totale": 505
+    "popolazione_totale": 505,
+    "superficie": 45.84
   },
   {
     "codice_istat": "070049",
@@ -488,7 +536,8 @@
     "regione": "Molise",
     "popolazione_maschile": 871,
     "popolazione_femminile": 807,
-    "popolazione_totale": 1678
+    "popolazione_totale": 1678,
+    "superficie": 17.8848
   },
   {
     "codice_istat": "070050",
@@ -498,7 +547,8 @@
     "regione": "Molise",
     "popolazione_maschile": 717,
     "popolazione_femminile": 738,
-    "popolazione_totale": 1455
+    "popolazione_totale": 1455,
+    "superficie": 43.8179
   },
   {
     "codice_istat": "070051",
@@ -508,7 +558,8 @@
     "regione": "Molise",
     "popolazione_maschile": 1793,
     "popolazione_femminile": 1760,
-    "popolazione_totale": 3553
+    "popolazione_totale": 3553,
+    "superficie": 35.4504
   },
   {
     "codice_istat": "070052",
@@ -518,7 +569,8 @@
     "regione": "Molise",
     "popolazione_maschile": 480,
     "popolazione_femminile": 510,
-    "popolazione_totale": 990
+    "popolazione_totale": 990,
+    "superficie": 26.5154
   },
   {
     "codice_istat": "070053",
@@ -528,7 +580,8 @@
     "regione": "Molise",
     "popolazione_maschile": 603,
     "popolazione_femminile": 589,
-    "popolazione_totale": 1192
+    "popolazione_totale": 1192,
+    "superficie": 50.2809
   },
   {
     "codice_istat": "070054",
@@ -538,7 +591,8 @@
     "regione": "Molise",
     "popolazione_maschile": 94,
     "popolazione_femminile": 87,
-    "popolazione_totale": 181
+    "popolazione_totale": 181,
+    "superficie": 10.0789
   },
   {
     "codice_istat": "070055",
@@ -548,7 +602,8 @@
     "regione": "Molise",
     "popolazione_maschile": 1178,
     "popolazione_femminile": 1145,
-    "popolazione_totale": 2323
+    "popolazione_totale": 2323,
+    "superficie": 13.1136
   },
   {
     "codice_istat": "070056",
@@ -558,7 +613,8 @@
     "regione": "Molise",
     "popolazione_maschile": 48,
     "popolazione_femminile": 49,
-    "popolazione_totale": 97
+    "popolazione_totale": 97,
+    "superficie": 14.0324
   },
   {
     "codice_istat": "070057",
@@ -568,7 +624,8 @@
     "regione": "Molise",
     "popolazione_maschile": 2301,
     "popolazione_femminile": 2345,
-    "popolazione_totale": 4646
+    "popolazione_totale": 4646,
+    "superficie": 70.0393
   },
   {
     "codice_istat": "070058",
@@ -578,7 +635,8 @@
     "regione": "Molise",
     "popolazione_maschile": 214,
     "popolazione_femminile": 196,
-    "popolazione_totale": 410
+    "popolazione_totale": 410,
+    "superficie": 31.9604
   },
   {
     "codice_istat": "070059",
@@ -588,7 +646,8 @@
     "regione": "Molise",
     "popolazione_maschile": 1554,
     "popolazione_femminile": 1416,
-    "popolazione_totale": 2970
+    "popolazione_totale": 2970,
+    "superficie": 33.8276
   },
   {
     "codice_istat": "070060",
@@ -598,7 +657,8 @@
     "regione": "Molise",
     "popolazione_maschile": 272,
     "popolazione_femminile": 295,
-    "popolazione_totale": 567
+    "popolazione_totale": 567,
+    "superficie": 21.044
   },
   {
     "codice_istat": "070061",
@@ -608,7 +668,8 @@
     "regione": "Molise",
     "popolazione_maschile": 596,
     "popolazione_femminile": 527,
-    "popolazione_totale": 1123
+    "popolazione_totale": 1123,
+    "superficie": 70.74
   },
   {
     "codice_istat": "070062",
@@ -618,7 +679,8 @@
     "regione": "Molise",
     "popolazione_maschile": 337,
     "popolazione_femminile": 302,
-    "popolazione_totale": 639
+    "popolazione_totale": 639,
+    "superficie": 28.2595
   },
   {
     "codice_istat": "070063",
@@ -628,7 +690,8 @@
     "regione": "Molise",
     "popolazione_maschile": 60,
     "popolazione_femminile": 57,
-    "popolazione_totale": 117
+    "popolazione_totale": 117,
+    "superficie": 11.846
   },
   {
     "codice_istat": "070064",
@@ -638,7 +701,8 @@
     "regione": "Molise",
     "popolazione_maschile": 265,
     "popolazione_femminile": 260,
-    "popolazione_totale": 525
+    "popolazione_totale": 525,
+    "superficie": 24.3719
   },
   {
     "codice_istat": "070065",
@@ -648,7 +712,8 @@
     "regione": "Molise",
     "popolazione_maschile": 681,
     "popolazione_femminile": 694,
-    "popolazione_totale": 1375
+    "popolazione_totale": 1375,
+    "superficie": 11.0533
   },
   {
     "codice_istat": "070066",
@@ -658,7 +723,8 @@
     "regione": "Molise",
     "popolazione_maschile": 248,
     "popolazione_femminile": 247,
-    "popolazione_totale": 495
+    "popolazione_totale": 495,
+    "superficie": 19.4484
   },
   {
     "codice_istat": "070067",
@@ -668,7 +734,8 @@
     "regione": "Molise",
     "popolazione_maschile": 501,
     "popolazione_femminile": 455,
-    "popolazione_totale": 956
+    "popolazione_totale": 956,
+    "superficie": 24.0508
   },
   {
     "codice_istat": "070068",
@@ -678,7 +745,8 @@
     "regione": "Molise",
     "popolazione_maschile": 459,
     "popolazione_femminile": 498,
-    "popolazione_totale": 957
+    "popolazione_totale": 957,
+    "superficie": 42.0477
   },
   {
     "codice_istat": "070069",
@@ -688,7 +756,8 @@
     "regione": "Molise",
     "popolazione_maschile": 2144,
     "popolazione_femminile": 2221,
-    "popolazione_totale": 4365
+    "popolazione_totale": 4365,
+    "superficie": 100.6521
   },
   {
     "codice_istat": "070070",
@@ -698,7 +767,8 @@
     "regione": "Molise",
     "popolazione_maschile": 457,
     "popolazione_femminile": 368,
-    "popolazione_totale": 825
+    "popolazione_totale": 825,
+    "superficie": 27.3299
   },
   {
     "codice_istat": "070071",
@@ -708,7 +778,8 @@
     "regione": "Molise",
     "popolazione_maschile": 260,
     "popolazione_femminile": 227,
-    "popolazione_totale": 487
+    "popolazione_totale": 487,
+    "superficie": 15.2841
   },
   {
     "codice_istat": "070073",
@@ -718,7 +789,8 @@
     "regione": "Molise",
     "popolazione_maschile": 149,
     "popolazione_femminile": 149,
-    "popolazione_totale": 298
+    "popolazione_totale": 298,
+    "superficie": 16.8688
   },
   {
     "codice_istat": "070074",
@@ -728,7 +800,8 @@
     "regione": "Molise",
     "popolazione_maschile": 717,
     "popolazione_femminile": 763,
-    "popolazione_totale": 1480
+    "popolazione_totale": 1480,
+    "superficie": 68.2451
   },
   {
     "codice_istat": "070072",
@@ -738,7 +811,8 @@
     "regione": "Molise",
     "popolazione_maschile": 1846,
     "popolazione_femminile": 1974,
-    "popolazione_totale": 3820
+    "popolazione_totale": 3820,
+    "superficie": 53.3671
   },
   {
     "codice_istat": "070075",
@@ -748,7 +822,8 @@
     "regione": "Molise",
     "popolazione_maschile": 956,
     "popolazione_femminile": 859,
-    "popolazione_totale": 1815
+    "popolazione_totale": 1815,
+    "superficie": 61.3707
   },
   {
     "codice_istat": "070076",
@@ -758,7 +833,8 @@
     "regione": "Molise",
     "popolazione_maschile": 571,
     "popolazione_femminile": 557,
-    "popolazione_totale": 1128
+    "popolazione_totale": 1128,
+    "superficie": 17.8338
   },
   {
     "codice_istat": "070077",
@@ -768,7 +844,8 @@
     "regione": "Molise",
     "popolazione_maschile": 254,
     "popolazione_femminile": 291,
-    "popolazione_totale": 545
+    "popolazione_totale": 545,
+    "superficie": 21.9697
   },
   {
     "codice_istat": "070078",
@@ -778,7 +855,8 @@
     "regione": "Molise",
     "popolazione_maschile": 15342,
     "popolazione_femminile": 16412,
-    "popolazione_totale": 31754
+    "popolazione_totale": 31754,
+    "superficie": 55.9425
   },
   {
     "codice_istat": "070079",
@@ -788,7 +866,8 @@
     "regione": "Molise",
     "popolazione_maschile": 343,
     "popolazione_femminile": 333,
-    "popolazione_totale": 676
+    "popolazione_totale": 676,
+    "superficie": 16.7317
   },
   {
     "codice_istat": "070080",
@@ -798,7 +877,8 @@
     "regione": "Molise",
     "popolazione_maschile": 604,
     "popolazione_femminile": 605,
-    "popolazione_totale": 1209
+    "popolazione_totale": 1209,
+    "superficie": 24.0581
   },
   {
     "codice_istat": "070081",
@@ -808,7 +888,8 @@
     "regione": "Molise",
     "popolazione_maschile": 2143,
     "popolazione_femminile": 2155,
-    "popolazione_totale": 4298
+    "popolazione_totale": 4298,
+    "superficie": 73.6983
   },
   {
     "codice_istat": "070082",
@@ -818,7 +899,8 @@
     "regione": "Molise",
     "popolazione_maschile": 376,
     "popolazione_femminile": 372,
-    "popolazione_totale": 748
+    "popolazione_totale": 748,
+    "superficie": 35.5162
   },
   {
     "codice_istat": "070083",
@@ -828,7 +910,8 @@
     "regione": "Molise",
     "popolazione_maschile": 1125,
     "popolazione_femminile": 1196,
-    "popolazione_totale": 2321
+    "popolazione_totale": 2321,
+    "superficie": 31.6494
   },
   {
     "codice_istat": "070084",
@@ -838,6 +921,7 @@
     "regione": "Molise",
     "popolazione_maschile": 1652,
     "popolazione_femminile": 1646,
-    "popolazione_totale": 3298
+    "popolazione_totale": 3298,
+    "superficie": 35.4776
   }
 ]

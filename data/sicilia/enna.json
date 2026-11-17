@@ -7,7 +7,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 3726,
     "popolazione_femminile": 3803,
-    "popolazione_totale": 7529
+    "popolazione_totale": 7529,
+    "superficie": 164.0806
   },
   {
     "codice_istat": "086002",
@@ -17,7 +18,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 2137,
     "popolazione_femminile": 2068,
-    "popolazione_totale": 4205
+    "popolazione_totale": 4205,
+    "superficie": 210.776
   },
   {
     "codice_istat": "086003",
@@ -27,7 +29,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 2359,
     "popolazione_femminile": 2390,
-    "popolazione_totale": 4749
+    "popolazione_totale": 4749,
+    "superficie": 112.1497
   },
   {
     "codice_istat": "086004",
@@ -37,7 +40,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 5402,
     "popolazione_femminile": 6054,
-    "popolazione_totale": 11456
+    "popolazione_totale": 11456,
+    "superficie": 53.7119
   },
   {
     "codice_istat": "086005",
@@ -47,7 +51,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 1930,
     "popolazione_femminile": 2018,
-    "popolazione_totale": 3948
+    "popolazione_totale": 3948,
+    "superficie": 89.1181
   },
   {
     "codice_istat": "086006",
@@ -57,7 +62,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 2204,
     "popolazione_femminile": 2254,
-    "popolazione_totale": 4458
+    "popolazione_totale": 4458,
+    "superficie": 11.2249
   },
   {
     "codice_istat": "086007",
@@ -67,7 +73,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 2438,
     "popolazione_femminile": 2543,
-    "popolazione_totale": 4981
+    "popolazione_totale": 4981,
+    "superficie": 174.1942
   },
   {
     "codice_istat": "086008",
@@ -77,7 +84,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 913,
     "popolazione_femminile": 954,
-    "popolazione_totale": 1867
+    "popolazione_totale": 1867,
+    "superficie": 95.046
   },
   {
     "codice_istat": "086009",
@@ -88,7 +96,8 @@
     "popolazione_maschile": 11884,
     "popolazione_femminile": 13000,
     "popolazione_totale": 24884,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 358.7427
   },
   {
     "codice_istat": "086010",
@@ -98,7 +107,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 1504,
     "popolazione_femminile": 1607,
-    "popolazione_totale": 3111
+    "popolazione_totale": 3111,
+    "superficie": 56.2368
   },
   {
     "codice_istat": "086011",
@@ -108,7 +118,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 5824,
     "popolazione_femminile": 6199,
-    "popolazione_totale": 12023
+    "popolazione_totale": 12023,
+    "superficie": 84.3928
   },
   {
     "codice_istat": "086012",
@@ -118,7 +129,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 6027,
     "popolazione_femminile": 6355,
-    "popolazione_totale": 12382
+    "popolazione_totale": 12382,
+    "superficie": 218.506
   },
   {
     "codice_istat": "086013",
@@ -128,7 +140,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 1403,
     "popolazione_femminile": 1378,
-    "popolazione_totale": 2781
+    "popolazione_totale": 2781,
+    "superficie": 61.8245
   },
   {
     "codice_istat": "086014",
@@ -138,7 +151,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 10227,
     "popolazione_femminile": 10331,
-    "popolazione_totale": 20558
+    "popolazione_totale": 20558,
+    "superficie": 304.5375
   },
   {
     "codice_istat": "086015",
@@ -148,7 +162,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 2951,
     "popolazione_femminile": 3232,
-    "popolazione_totale": 6183
+    "popolazione_totale": 6183,
+    "superficie": 118.1098
   },
   {
     "codice_istat": "086016",
@@ -158,7 +173,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 3291,
     "popolazione_femminile": 3265,
-    "popolazione_totale": 6556
+    "popolazione_totale": 6556,
+    "superficie": 170.2926
   },
   {
     "codice_istat": "086017",
@@ -168,7 +184,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 316,
     "popolazione_femminile": 323,
-    "popolazione_totale": 639
+    "popolazione_totale": 639,
+    "superficie": 59.139
   },
   {
     "codice_istat": "086018",
@@ -178,7 +195,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 3980,
     "popolazione_femminile": 4221,
-    "popolazione_totale": 8201
+    "popolazione_totale": 8201,
+    "superficie": 168.2777
   },
   {
     "codice_istat": "086019",
@@ -188,7 +206,8 @@
     "regione": "Sicilia",
     "popolazione_maschile": 3195,
     "popolazione_femminile": 3548,
-    "popolazione_totale": 6743
+    "popolazione_totale": 6743,
+    "superficie": 9.4134
   },
   {
     "codice_istat": "086020",
@@ -198,6 +217,7 @@
     "regione": "Sicilia",
     "popolazione_maschile": 2063,
     "popolazione_femminile": 2208,
-    "popolazione_totale": 4271
+    "popolazione_totale": 4271,
+    "superficie": 54.8919
   }
 ]

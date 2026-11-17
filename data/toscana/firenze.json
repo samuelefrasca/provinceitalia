@@ -7,7 +7,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 11771,
     "popolazione_femminile": 13035,
-    "popolazione_totale": 24806
+    "popolazione_totale": 24806,
+    "superficie": 74.0991
   },
   {
     "codice_istat": "048002",
@@ -17,7 +18,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 5473,
     "popolazione_femminile": 5508,
-    "popolazione_totale": 10981
+    "popolazione_totale": 10981,
+    "superficie": 133.325
   },
   {
     "codice_istat": "048054",
@@ -27,7 +29,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 5985,
     "popolazione_femminile": 5998,
-    "popolazione_totale": 11983
+    "popolazione_totale": 11983,
+    "superficie": 122.9906
   },
   {
     "codice_istat": "048004",
@@ -37,7 +40,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 9008,
     "popolazione_femminile": 9404,
-    "popolazione_totale": 18412
+    "popolazione_totale": 18412,
+    "superficie": 146.3627
   },
   {
     "codice_istat": "048005",
@@ -47,7 +51,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 8843,
     "popolazione_femminile": 9165,
-    "popolazione_totale": 18008
+    "popolazione_totale": 18008,
+    "superficie": 76.8222
   },
   {
     "codice_istat": "048006",
@@ -57,7 +62,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 23602,
     "popolazione_femminile": 23833,
-    "popolazione_totale": 47435
+    "popolazione_totale": 47435,
+    "superficie": 28.7407
   },
   {
     "codice_istat": "048008",
@@ -67,7 +73,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 3833,
     "popolazione_femminile": 3971,
-    "popolazione_totale": 7804
+    "popolazione_totale": 7804,
+    "superficie": 24.9167
   },
   {
     "codice_istat": "048010",
@@ -77,7 +84,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 8631,
     "popolazione_femminile": 8857,
-    "popolazione_totale": 17488
+    "popolazione_totale": 17488,
+    "superficie": 66.3438
   },
   {
     "codice_istat": "048011",
@@ -87,7 +95,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 5184,
     "popolazione_femminile": 5475,
-    "popolazione_totale": 10659
+    "popolazione_totale": 10659,
+    "superficie": 49.3049
   },
   {
     "codice_istat": "048012",
@@ -97,7 +106,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 7824,
     "popolazione_femminile": 7907,
-    "popolazione_totale": 15731
+    "popolazione_totale": 15731,
+    "superficie": 75.2749
   },
   {
     "codice_istat": "048013",
@@ -107,7 +117,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 2911,
     "popolazione_femminile": 2699,
-    "popolazione_totale": 5610
+    "popolazione_totale": 5610,
+    "superficie": 61.6319
   },
   {
     "codice_istat": "048014",
@@ -117,7 +128,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 24191,
     "popolazione_femminile": 25335,
-    "popolazione_totale": 49526
+    "popolazione_totale": 49526,
+    "superficie": 62.4216
   },
   {
     "codice_istat": "048015",
@@ -127,7 +139,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 6626,
     "popolazione_femminile": 7116,
-    "popolazione_totale": 13742
+    "popolazione_totale": 13742,
+    "superficie": 42.1928
   },
   {
     "codice_istat": "048052",
@@ -137,7 +150,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 11399,
     "popolazione_femminile": 11892,
-    "popolazione_totale": 23291
+    "popolazione_totale": 23291,
+    "superficie": 97.9011
   },
   {
     "codice_istat": "048017",
@@ -148,7 +162,8 @@
     "popolazione_maschile": 171535,
     "popolazione_femminile": 190090,
     "popolazione_totale": 361625,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 102.3077
   },
   {
     "codice_istat": "048018",
@@ -158,7 +173,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 2253,
     "popolazione_femminile": 2191,
-    "popolazione_totale": 4444
+    "popolazione_totale": 4444,
+    "superficie": 271.9593
   },
   {
     "codice_istat": "048019",
@@ -168,7 +184,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 11315,
     "popolazione_femminile": 11604,
-    "popolazione_totale": 22919
+    "popolazione_totale": 22919,
+    "superficie": 65.1763
   },
   {
     "codice_istat": "048020",
@@ -178,7 +195,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 2381,
     "popolazione_femminile": 2491,
-    "popolazione_totale": 4872
+    "popolazione_totale": 4872,
+    "superficie": 83.2314
   },
   {
     "codice_istat": "048021",
@@ -188,7 +206,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 6620,
     "popolazione_femminile": 6745,
-    "popolazione_totale": 13365
+    "popolazione_totale": 13365,
+    "superficie": 169.3743
   },
   {
     "codice_istat": "048022",
@@ -198,7 +217,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 6832,
     "popolazione_femminile": 7354,
-    "popolazione_totale": 14186
+    "popolazione_totale": 14186,
+    "superficie": 48.7145
   },
   {
     "codice_istat": "048024",
@@ -208,7 +228,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 9883,
     "popolazione_femminile": 9997,
-    "popolazione_totale": 19880
+    "popolazione_totale": 19880,
+    "superficie": 42.899
   },
   {
     "codice_istat": "048025",
@@ -218,7 +239,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 939,
     "popolazione_femminile": 909,
-    "popolazione_totale": 1848
+    "popolazione_totale": 1848,
+    "superficie": 59.2885
   },
   {
     "codice_istat": "048026",
@@ -228,7 +250,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 1423,
     "popolazione_femminile": 1385,
-    "popolazione_totale": 2808
+    "popolazione_totale": 2808,
+    "superficie": 154.0525
   },
   {
     "codice_istat": "048027",
@@ -238,7 +261,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 1688,
     "popolazione_femminile": 1745,
-    "popolazione_totale": 3433
+    "popolazione_totale": 3433,
+    "superficie": 104.7585
   },
   {
     "codice_istat": "048028",
@@ -248,7 +272,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 6925,
     "popolazione_femminile": 7347,
-    "popolazione_totale": 14272
+    "popolazione_totale": 14272,
+    "superficie": 24.6576
   },
   {
     "codice_istat": "048030",
@@ -258,7 +283,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 6512,
     "popolazione_femminile": 6685,
-    "popolazione_totale": 13197
+    "popolazione_totale": 13197,
+    "superficie": 124.8817
   },
   {
     "codice_istat": "048031",
@@ -268,7 +294,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 579,
     "popolazione_femminile": 516,
-    "popolazione_totale": 1095
+    "popolazione_totale": 1095,
+    "superficie": 109.1027
   },
   {
     "codice_istat": "048032",
@@ -278,7 +305,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 3986,
     "popolazione_femminile": 3980,
-    "popolazione_totale": 7966
+    "popolazione_totale": 7966,
+    "superficie": 54.5604
   },
   {
     "codice_istat": "048033",
@@ -288,7 +316,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 9933,
     "popolazione_femminile": 10189,
-    "popolazione_totale": 20122
+    "popolazione_totale": 20122,
+    "superficie": 114.3984
   },
   {
     "codice_istat": "048035",
@@ -298,7 +327,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 8205,
     "popolazione_femminile": 8350,
-    "popolazione_totale": 16555
+    "popolazione_totale": 16555,
+    "superficie": 121.6457
   },
   {
     "codice_istat": "048036",
@@ -308,7 +338,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 4238,
     "popolazione_femminile": 4273,
-    "popolazione_totale": 8511
+    "popolazione_totale": 8511,
+    "superficie": 54.1439
   },
   {
     "codice_istat": "048037",
@@ -318,7 +349,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 3509,
     "popolazione_femminile": 3594,
-    "popolazione_totale": 7103
+    "popolazione_totale": 7103,
+    "superficie": 45.8796
   },
   {
     "codice_istat": "048038",
@@ -328,7 +360,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 7845,
     "popolazione_femminile": 8443,
-    "popolazione_totale": 16288
+    "popolazione_totale": 16288,
+    "superficie": 107.8277
   },
   {
     "codice_istat": "048039",
@@ -338,7 +371,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 591,
     "popolazione_femminile": 524,
-    "popolazione_totale": 1115
+    "popolazione_totale": 1115,
+    "superficie": 99.1988
   },
   {
     "codice_istat": "048041",
@@ -348,7 +382,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 23547,
     "popolazione_femminile": 25588,
-    "popolazione_totale": 49135
+    "popolazione_totale": 49135,
+    "superficie": 59.6923
   },
   {
     "codice_istat": "048053",
@@ -358,7 +393,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 5921,
     "popolazione_femminile": 6022,
-    "popolazione_totale": 11943
+    "popolazione_totale": 11943,
+    "superficie": 115.8099
   },
   {
     "codice_istat": "048043",
@@ -368,7 +404,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 23533,
     "popolazione_femminile": 25704,
-    "popolazione_totale": 49237
+    "popolazione_totale": 49237,
+    "superficie": 48.811
   },
   {
     "codice_istat": "048044",
@@ -378,7 +415,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 9345,
     "popolazione_femminile": 9645,
-    "popolazione_totale": 18990
+    "popolazione_totale": 18990,
+    "superficie": 18.7991
   },
   {
     "codice_istat": "048046",
@@ -388,7 +426,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 2692,
     "popolazione_femminile": 2679,
-    "popolazione_totale": 5371
+    "popolazione_totale": 5371,
+    "superficie": 56.9411
   },
   {
     "codice_istat": "048049",
@@ -398,7 +437,8 @@
     "regione": "Toscana",
     "popolazione_maschile": 4150,
     "popolazione_femminile": 4014,
-    "popolazione_totale": 8164
+    "popolazione_totale": 8164,
+    "superficie": 138.8611
   },
   {
     "codice_istat": "048050",
@@ -408,6 +448,7 @@
     "regione": "Toscana",
     "popolazione_maschile": 7180,
     "popolazione_femminile": 7394,
-    "popolazione_totale": 14574
+    "popolazione_totale": 14574,
+    "superficie": 54.1848
   }
 ]

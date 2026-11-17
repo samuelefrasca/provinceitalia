@@ -7,7 +7,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 2109,
     "popolazione_femminile": 2221,
-    "popolazione_totale": 4330
+    "popolazione_totale": 4330,
+    "superficie": 81.6057
   },
   {
     "codice_istat": "055002",
@@ -17,7 +18,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 830,
     "popolazione_femminile": 849,
-    "popolazione_totale": 1679
+    "popolazione_totale": 1679,
+    "superficie": 82.6124
   },
   {
     "codice_istat": "055003",
@@ -27,7 +29,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 631,
     "popolazione_femminile": 687,
-    "popolazione_totale": 1318
+    "popolazione_totale": 1318,
+    "superficie": 23.8952
   },
   {
     "codice_istat": "055004",
@@ -37,7 +40,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 5671,
     "popolazione_femminile": 5733,
-    "popolazione_totale": 11404
+    "popolazione_totale": 11404,
+    "superficie": 132.4965
   },
   {
     "codice_istat": "055005",
@@ -47,7 +51,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 1205,
     "popolazione_femminile": 1299,
-    "popolazione_totale": 2504
+    "popolazione_totale": 2504,
+    "superficie": 41.032
   },
   {
     "codice_istat": "055006",
@@ -57,7 +62,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 996,
     "popolazione_femminile": 966,
-    "popolazione_totale": 1962
+    "popolazione_totale": 1962,
+    "superficie": 10.512
   },
   {
     "codice_istat": "055033",
@@ -67,7 +73,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 1178,
     "popolazione_femminile": 1130,
-    "popolazione_totale": 2308
+    "popolazione_totale": 2308,
+    "superficie": 51.3386
   },
   {
     "codice_istat": "055007",
@@ -77,7 +84,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 1264,
     "popolazione_femminile": 1280,
-    "popolazione_totale": 2544
+    "popolazione_totale": 2544,
+    "superficie": 68.5685
   },
   {
     "codice_istat": "055008",
@@ -87,7 +95,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 817,
     "popolazione_femminile": 843,
-    "popolazione_totale": 1660
+    "popolazione_totale": 1660,
+    "superficie": 46.006
   },
   {
     "codice_istat": "055009",
@@ -97,7 +106,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 954,
     "popolazione_femminile": 1038,
-    "popolazione_totale": 1992
+    "popolazione_totale": 1992,
+    "superficie": 42.1436
   },
   {
     "codice_istat": "055010",
@@ -107,7 +117,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 1285,
     "popolazione_femminile": 1355,
-    "popolazione_totale": 2640
+    "popolazione_totale": 2640,
+    "superficie": 26.2156
   },
   {
     "codice_istat": "055011",
@@ -117,7 +128,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 1246,
     "popolazione_femminile": 1324,
-    "popolazione_totale": 2570
+    "popolazione_totale": 2570,
+    "superficie": 34.5501
   },
   {
     "codice_istat": "055012",
@@ -127,7 +139,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 878,
     "popolazione_femminile": 889,
-    "popolazione_totale": 1767
+    "popolazione_totale": 1767,
+    "superficie": 69.5861
   },
   {
     "codice_istat": "055013",
@@ -137,7 +150,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 779,
     "popolazione_femminile": 769,
-    "popolazione_totale": 1548
+    "popolazione_totale": 1548,
+    "superficie": 64.6187
   },
   {
     "codice_istat": "055014",
@@ -147,7 +161,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 892,
     "popolazione_femminile": 937,
-    "popolazione_totale": 1829
+    "popolazione_totale": 1829,
+    "superficie": 15.0881
   },
   {
     "codice_istat": "055015",
@@ -157,7 +172,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 846,
     "popolazione_femminile": 868,
-    "popolazione_totale": 1714
+    "popolazione_totale": 1714,
+    "superficie": 39.3808
   },
   {
     "codice_istat": "055016",
@@ -167,7 +183,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 699,
     "popolazione_femminile": 691,
-    "popolazione_totale": 1390
+    "popolazione_totale": 1390,
+    "superficie": 29.8297
   },
   {
     "codice_istat": "055017",
@@ -177,7 +194,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 2344,
     "popolazione_femminile": 2443,
-    "popolazione_totale": 4787
+    "popolazione_totale": 4787,
+    "superficie": 62.4281
   },
   {
     "codice_istat": "055018",
@@ -187,7 +205,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 721,
     "popolazione_femminile": 706,
-    "popolazione_totale": 1427
+    "popolazione_totale": 1427,
+    "superficie": 49.2172
   },
   {
     "codice_istat": "055019",
@@ -197,7 +216,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 620,
     "popolazione_femminile": 623,
-    "popolazione_totale": 1243
+    "popolazione_totale": 1243,
+    "superficie": 10.0869
   },
   {
     "codice_istat": "055020",
@@ -207,7 +227,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 552,
     "popolazione_femminile": 543,
-    "popolazione_totale": 1095
+    "popolazione_totale": 1095,
+    "superficie": 51.059
   },
   {
     "codice_istat": "055021",
@@ -217,7 +238,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 635,
     "popolazione_femminile": 722,
-    "popolazione_totale": 1357
+    "popolazione_totale": 1357,
+    "superficie": 24.0978
   },
   {
     "codice_istat": "055022",
@@ -227,7 +249,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 8535,
     "popolazione_femminile": 9091,
-    "popolazione_totale": 17626
+    "popolazione_totale": 17626,
+    "superficie": 197.9832
   },
   {
     "codice_istat": "055023",
@@ -237,7 +260,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 9120,
     "popolazione_femminile": 9932,
-    "popolazione_totale": 19052
+    "popolazione_totale": 19052,
+    "superficie": 281.2685
   },
   {
     "codice_istat": "055024",
@@ -247,7 +271,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 841,
     "popolazione_femminile": 876,
-    "popolazione_totale": 1717
+    "popolazione_totale": 1717,
+    "superficie": 27.4115
   },
   {
     "codice_istat": "055025",
@@ -257,7 +282,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 245,
     "popolazione_femminile": 247,
-    "popolazione_totale": 492
+    "popolazione_totale": 492,
+    "superficie": 40.0911
   },
   {
     "codice_istat": "055026",
@@ -267,7 +293,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 503,
     "popolazione_femminile": 521,
-    "popolazione_totale": 1024
+    "popolazione_totale": 1024,
+    "superficie": 10.0033
   },
   {
     "codice_istat": "055027",
@@ -277,7 +304,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 127,
     "popolazione_femminile": 106,
-    "popolazione_totale": 233
+    "popolazione_totale": 233,
+    "superficie": 19.5678
   },
   {
     "codice_istat": "055028",
@@ -287,7 +315,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 871,
     "popolazione_femminile": 945,
-    "popolazione_totale": 1816
+    "popolazione_totale": 1816,
+    "superficie": 13.6035
   },
   {
     "codice_istat": "055029",
@@ -297,7 +326,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 2219,
     "popolazione_femminile": 2392,
-    "popolazione_totale": 4611
+    "popolazione_totale": 4611,
+    "superficie": 27.8956
   },
   {
     "codice_istat": "055030",
@@ -307,7 +337,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 1104,
     "popolazione_femminile": 1018,
-    "popolazione_totale": 2122
+    "popolazione_totale": 2122,
+    "superficie": 169.4519
   },
   {
     "codice_istat": "055031",
@@ -317,7 +348,8 @@
     "regione": "Umbria",
     "popolazione_maschile": 2339,
     "popolazione_femminile": 2267,
-    "popolazione_totale": 4606
+    "popolazione_totale": 4606,
+    "superficie": 71.1554
   },
   {
     "codice_istat": "055032",
@@ -328,6 +360,7 @@
     "popolazione_maschile": 51087,
     "popolazione_femminile": 55185,
     "popolazione_totale": 106272,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 212.4261
   }
 ]

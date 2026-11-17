@@ -8,7 +8,8 @@
     "popolazione_maschile": 47615,
     "popolazione_femminile": 48905,
     "popolazione_totale": 96520,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 402.8825
   },
   {
     "codice_istat": "110002",
@@ -19,7 +20,8 @@
     "popolazione_maschile": 45661,
     "popolazione_femminile": 46406,
     "popolazione_totale": 92067,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 149.4477
   },
   {
     "codice_istat": "110003",
@@ -29,7 +31,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 26342,
     "popolazione_femminile": 26900,
-    "popolazione_totale": 53242
+    "popolazione_totale": 53242,
+    "superficie": 69.2714
   },
   {
     "codice_istat": "110004",
@@ -39,7 +42,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 13579,
     "popolazione_femminile": 13696,
-    "popolazione_totale": 27275
+    "popolazione_totale": 27275,
+    "superficie": 150.9318
   },
   {
     "codice_istat": "110005",
@@ -49,7 +53,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 5364,
     "popolazione_femminile": 5661,
-    "popolazione_totale": 11025
+    "popolazione_totale": 11025,
+    "superficie": 35.8948
   },
   {
     "codice_istat": "110006",
@@ -59,7 +64,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 3843,
     "popolazione_femminile": 3968,
-    "popolazione_totale": 7811
+    "popolazione_totale": 7811,
+    "superficie": 257.4059
   },
   {
     "codice_istat": "110007",
@@ -69,7 +75,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 6977,
     "popolazione_femminile": 6878,
-    "popolazione_totale": 13855
+    "popolazione_totale": 13855,
+    "superficie": 41.2303
   },
   {
     "codice_istat": "110008",
@@ -79,7 +86,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 2853,
     "popolazione_femminile": 2941,
-    "popolazione_totale": 5794
+    "popolazione_totale": 5794,
+    "superficie": 184.0045
   },
   {
     "codice_istat": "110009",
@@ -90,7 +98,8 @@
     "popolazione_maschile": 27037,
     "popolazione_femminile": 27694,
     "popolazione_totale": 54731,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 103.5067
   },
   {
     "codice_istat": "110010",
@@ -100,6 +109,7 @@
     "regione": "Puglia",
     "popolazione_maschile": 6662,
     "popolazione_femminile": 6951,
-    "popolazione_totale": 13613
+    "popolazione_totale": 13613,
+    "superficie": 148.7656
   }
 ]

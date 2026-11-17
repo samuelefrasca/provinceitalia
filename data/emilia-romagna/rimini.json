@@ -7,7 +7,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 9601,
     "popolazione_femminile": 9961,
-    "popolazione_totale": 19562
+    "popolazione_totale": 19562,
+    "superficie": 18.2355
   },
   {
     "codice_istat": "099021",
@@ -17,7 +18,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 172,
     "popolazione_femminile": 177,
-    "popolazione_totale": 349
+    "popolazione_totale": 349,
+    "superficie": 49.6771
   },
   {
     "codice_istat": "099002",
@@ -27,7 +29,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 7816,
     "popolazione_femminile": 8798,
-    "popolazione_totale": 16614
+    "popolazione_totale": 16614,
+    "superficie": 6.2313
   },
   {
     "codice_istat": "099003",
@@ -37,7 +40,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 5222,
     "popolazione_femminile": 5265,
-    "popolazione_totale": 10487
+    "popolazione_totale": 10487,
+    "superficie": 46.7666
   },
   {
     "codice_istat": "099004",
@@ -47,7 +51,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 574,
     "popolazione_femminile": 582,
-    "popolazione_totale": 1156
+    "popolazione_totale": 1156,
+    "superficie": 18.8499
   },
   {
     "codice_istat": "099022",
@@ -57,7 +62,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 400,
     "popolazione_femminile": 383,
-    "popolazione_totale": 783
+    "popolazione_totale": 783,
+    "superficie": 24.2754
   },
   {
     "codice_istat": "099005",
@@ -67,7 +73,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 7020,
     "popolazione_femminile": 7151,
-    "popolazione_totale": 14171
+    "popolazione_totale": 14171,
+    "superficie": 22.3449
   },
   {
     "codice_istat": "099006",
@@ -77,7 +84,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 687,
     "popolazione_femminile": 670,
-    "popolazione_totale": 1357
+    "popolazione_totale": 1357,
+    "superficie": 19.8402
   },
   {
     "codice_istat": "099030",
@@ -87,7 +95,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 517,
     "popolazione_femminile": 512,
-    "popolazione_totale": 1029
+    "popolazione_totale": 1029,
+    "superficie": 35.8116
   },
   {
     "codice_istat": "099008",
@@ -97,7 +106,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 1158,
     "popolazione_femminile": 1154,
-    "popolazione_totale": 2312
+    "popolazione_totale": 2312,
+    "superficie": 22.3217
   },
   {
     "codice_istat": "099009",
@@ -107,7 +117,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 511,
     "popolazione_femminile": 514,
-    "popolazione_totale": 1025
+    "popolazione_totale": 1025,
+    "superficie": 6.9373
   },
   {
     "codice_istat": "099029",
@@ -117,7 +128,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 3534,
     "popolazione_femminile": 3470,
-    "popolazione_totale": 7004
+    "popolazione_totale": 7004,
+    "superficie": 32.3481
   },
   {
     "codice_istat": "099011",
@@ -127,7 +139,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 3547,
     "popolazione_femminile": 3735,
-    "popolazione_totale": 7282
+    "popolazione_totale": 7282,
+    "superficie": 5.44
   },
   {
     "codice_istat": "099023",
@@ -137,7 +150,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 3516,
     "popolazione_femminile": 3515,
-    "popolazione_totale": 7031
+    "popolazione_totale": 7031,
+    "superficie": 41.8382
   },
   {
     "codice_istat": "099024",
@@ -147,7 +161,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 1350,
     "popolazione_femminile": 1342,
-    "popolazione_totale": 2692
+    "popolazione_totale": 2692,
+    "superficie": 69.8034
   },
   {
     "codice_istat": "099028",
@@ -157,7 +172,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 2576,
     "popolazione_femminile": 2521,
-    "popolazione_totale": 5097
+    "popolazione_totale": 5097,
+    "superficie": 34.7351
   },
   {
     "codice_istat": "099013",
@@ -167,7 +183,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 16224,
     "popolazione_femminile": 18143,
-    "popolazione_totale": 34367
+    "popolazione_totale": 34367,
+    "superficie": 17.5207
   },
   {
     "codice_istat": "099014",
@@ -178,7 +195,8 @@
     "popolazione_maschile": 72814,
     "popolazione_femminile": 77960,
     "popolazione_totale": 150774,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 135.8217
   },
   {
     "codice_istat": "099015",
@@ -188,7 +206,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 1645,
     "popolazione_femminile": 1629,
-    "popolazione_totale": 3274
+    "popolazione_totale": 3274,
+    "superficie": 34.2645
   },
   {
     "codice_istat": "099016",
@@ -198,7 +217,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 2841,
     "popolazione_femminile": 2908,
-    "popolazione_totale": 5749
+    "popolazione_totale": 5749,
+    "superficie": 20.6959
   },
   {
     "codice_istat": "099017",
@@ -208,7 +228,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 4635,
     "popolazione_femminile": 4790,
-    "popolazione_totale": 9425
+    "popolazione_totale": 9425,
+    "superficie": 21.3734
   },
   {
     "codice_istat": "099025",
@@ -218,7 +239,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 1486,
     "popolazione_femminile": 1391,
-    "popolazione_totale": 2877
+    "popolazione_totale": 2877,
+    "superficie": 53.136
   },
   {
     "codice_istat": "099026",
@@ -228,7 +250,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 982,
     "popolazione_femminile": 975,
-    "popolazione_totale": 1957
+    "popolazione_totale": 1957,
+    "superficie": 79.7409
   },
   {
     "codice_istat": "099018",
@@ -238,7 +261,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 10965,
     "popolazione_femminile": 11401,
-    "popolazione_totale": 22366
+    "popolazione_totale": 22366,
+    "superficie": 45.0584
   },
   {
     "codice_istat": "099031",
@@ -248,7 +272,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 667,
     "popolazione_femminile": 712,
-    "popolazione_totale": 1379
+    "popolazione_totale": 1379,
+    "superficie": 21.0784
   },
   {
     "codice_istat": "099027",
@@ -258,7 +283,8 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 521,
     "popolazione_femminile": 560,
-    "popolazione_totale": 1081
+    "popolazione_totale": 1081,
+    "superficie": 10.5887
   },
   {
     "codice_istat": "099020",
@@ -268,6 +294,7 @@
     "regione": "Emilia-Romagna",
     "popolazione_maschile": 5076,
     "popolazione_femminile": 4968,
-    "popolazione_totale": 10044
+    "popolazione_totale": 10044,
+    "superficie": 27.302
   }
 ]

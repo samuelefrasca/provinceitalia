@@ -7,7 +7,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 2957,
     "popolazione_femminile": 3152,
-    "popolazione_totale": 6109
+    "popolazione_totale": 6109,
+    "superficie": 74.1708
   },
   {
     "codice_istat": "073002",
@@ -17,7 +18,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 3134,
     "popolazione_femminile": 3246,
-    "popolazione_totale": 6380
+    "popolazione_totale": 6380,
+    "superficie": 10.9347
   },
   {
     "codice_istat": "073003",
@@ -27,7 +29,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 7711,
     "popolazione_femminile": 8087,
-    "popolazione_totale": 15798
+    "popolazione_totale": 15798,
+    "superficie": 242.389
   },
   {
     "codice_istat": "073004",
@@ -37,7 +40,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 6311,
     "popolazione_femminile": 6505,
-    "popolazione_totale": 12816
+    "popolazione_totale": 12816,
+    "superficie": 112.3006
   },
   {
     "codice_istat": "073005",
@@ -47,7 +51,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 1656,
     "popolazione_femminile": 1710,
-    "popolazione_totale": 3366
+    "popolazione_totale": 3366,
+    "superficie": 21.0646
   },
   {
     "codice_istat": "073006",
@@ -57,7 +62,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 2358,
     "popolazione_femminile": 2531,
-    "popolazione_totale": 4889
+    "popolazione_totale": 4889,
+    "superficie": 22.4128
   },
   {
     "codice_istat": "073007",
@@ -67,7 +73,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 11037,
     "popolazione_femminile": 10684,
-    "popolazione_totale": 21721
+    "popolazione_totale": 21721,
+    "superficie": 188.5984
   },
   {
     "codice_istat": "073008",
@@ -77,7 +84,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 14492,
     "popolazione_femminile": 15484,
-    "popolazione_totale": 29976
+    "popolazione_totale": 29976,
+    "superficie": 102.1223
   },
   {
     "codice_istat": "073009",
@@ -87,7 +95,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 7183,
     "popolazione_femminile": 7401,
-    "popolazione_totale": 14584
+    "popolazione_totale": 14584,
+    "superficie": 161.1732
   },
   {
     "codice_istat": "073010",
@@ -97,7 +106,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 4158,
     "popolazione_femminile": 4044,
-    "popolazione_totale": 8202
+    "popolazione_totale": 8202,
+    "superficie": 15.3299
   },
   {
     "codice_istat": "073011",
@@ -107,7 +117,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 4625,
     "popolazione_femminile": 4819,
-    "popolazione_totale": 9444
+    "popolazione_totale": 9444,
+    "superficie": 47.178
   },
   {
     "codice_istat": "073012",
@@ -117,7 +128,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 14388,
     "popolazione_femminile": 15140,
-    "popolazione_totale": 29528
+    "popolazione_totale": 29528,
+    "superficie": 180.4419
   },
   {
     "codice_istat": "073013",
@@ -127,7 +139,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 22581,
     "popolazione_femminile": 24172,
-    "popolazione_totale": 46753
+    "popolazione_totale": 46753,
+    "superficie": 298.7193
   },
   {
     "codice_istat": "073014",
@@ -137,7 +150,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 2566,
     "popolazione_femminile": 2572,
-    "popolazione_totale": 5138
+    "popolazione_totale": 5138,
+    "superficie": 49.0754
   },
   {
     "codice_istat": "073015",
@@ -147,7 +161,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 15862,
     "popolazione_femminile": 15904,
-    "popolazione_totale": 31766
+    "popolazione_totale": 31766,
+    "superficie": 127.9938
   },
   {
     "codice_istat": "073016",
@@ -157,7 +172,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 2498,
     "popolazione_femminile": 2692,
-    "popolazione_totale": 5190
+    "popolazione_totale": 5190,
+    "superficie": 9.7461
   },
   {
     "codice_istat": "073017",
@@ -167,7 +183,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 1681,
     "popolazione_femminile": 1786,
-    "popolazione_totale": 3467
+    "popolazione_totale": 3467,
+    "superficie": 16.4329
   },
   {
     "codice_istat": "073018",
@@ -177,7 +194,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 1083,
     "popolazione_femminile": 1156,
-    "popolazione_totale": 2239
+    "popolazione_totale": 2239,
+    "superficie": 3.8487
   },
   {
     "codice_istat": "073019",
@@ -187,7 +205,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 7345,
     "popolazione_femminile": 7758,
-    "popolazione_totale": 15103
+    "popolazione_totale": 15103,
+    "superficie": 213.9608
   },
   {
     "codice_istat": "073020",
@@ -197,7 +216,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 3623,
     "popolazione_femminile": 3806,
-    "popolazione_totale": 7429
+    "popolazione_totale": 7429,
+    "superficie": 43.8616
   },
   {
     "codice_istat": "073021",
@@ -207,7 +227,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 7966,
     "popolazione_femminile": 7746,
-    "popolazione_totale": 15712
+    "popolazione_totale": 15712,
+    "superficie": 69.9867
   },
   {
     "codice_istat": "073022",
@@ -217,7 +238,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 5544,
     "popolazione_femminile": 5618,
-    "popolazione_totale": 11162
+    "popolazione_totale": 11162,
+    "superficie": 18.5281
   },
   {
     "codice_istat": "073023",
@@ -227,7 +249,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 841,
     "popolazione_femminile": 888,
-    "popolazione_totale": 1729
+    "popolazione_totale": 1729,
+    "superficie": 6.1454
   },
   {
     "codice_istat": "073024",
@@ -237,7 +260,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 6656,
     "popolazione_femminile": 7194,
-    "popolazione_totale": 13850
+    "popolazione_totale": 13850,
+    "superficie": 23.5597
   },
   {
     "codice_istat": "073025",
@@ -247,7 +271,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 4383,
     "popolazione_femminile": 4413,
-    "popolazione_totale": 8796
+    "popolazione_totale": 8796,
+    "superficie": 19.1944
   },
   {
     "codice_istat": "073026",
@@ -257,7 +282,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 7334,
     "popolazione_femminile": 7699,
-    "popolazione_totale": 15033
+    "popolazione_totale": 15033,
+    "superficie": 44.5686
   },
   {
     "codice_istat": "073029",
@@ -267,7 +293,8 @@
     "regione": "Puglia",
     "popolazione_maschile": 6070,
     "popolazione_femminile": 6470,
-    "popolazione_totale": 12540
+    "popolazione_totale": 12540,
+    "superficie": 67.3201
   },
   {
     "codice_istat": "073027",
@@ -278,7 +305,8 @@
     "popolazione_maschile": 89179,
     "popolazione_femminile": 95933,
     "popolazione_totale": 185112,
-    "capoluogo": true
+    "capoluogo": true,
+    "superficie": 249.725
   },
   {
     "codice_istat": "073028",
@@ -288,6 +316,7 @@
     "regione": "Puglia",
     "popolazione_maschile": 2030,
     "popolazione_femminile": 2066,
-    "popolazione_totale": 4096
+    "popolazione_totale": 4096,
+    "superficie": 26.9321
   }
 ]
