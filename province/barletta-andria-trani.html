@@ -86,22 +86,22 @@
             <div class="titolo-div" id="titolo-provincia-div">
                 <h2 class="titolo" id="titolo-provincia">Elenco Comuni - Provincia di Barletta-Andria-Trani</h2>
             </div>
-            <h4 class="elementi-trovati" id="elementi-trovati">10 comuni · 375.933 abitanti</h4>
+            <h4 class="elementi-trovati" id="elementi-trovati">10 comuni</h4>
             <input type="text" id="barra-ricerca" class="barra-ricerca" placeholder="Cerca un comune...">
             <table class="tabella" id="elenco-comuni" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: initial;">
                 <tbody>
-                    <tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>
-<tr><td class="el index"><strong>1</strong></td><td class="el nome"><strong>Andria</strong></td><td class="el abitanti"><strong>96.520</strong></td></tr>
-<tr><td class="el index"><strong>2</strong></td><td class="el nome"><strong>Barletta</strong></td><td class="el abitanti"><strong>92.067</strong></td></tr>
-<tr><td class="el index">3</td><td class="el nome">Bisceglie</td><td class="el abitanti">53.242</td></tr>
-<tr><td class="el index">4</td><td class="el nome">Canosa di Puglia</td><td class="el abitanti">27.275</td></tr>
-<tr><td class="el index">5</td><td class="el nome">Margherita di Savoia</td><td class="el abitanti">11.025</td></tr>
-<tr><td class="el index">6</td><td class="el nome">Minervino Murge</td><td class="el abitanti">7.811</td></tr>
-<tr><td class="el index">7</td><td class="el nome">San Ferdinando di Puglia</td><td class="el abitanti">13.855</td></tr>
-<tr><td class="el index">8</td><td class="el nome">Spinazzola</td><td class="el abitanti">5.794</td></tr>
-<tr><td class="el index"><strong>9</strong></td><td class="el nome"><strong>Trani</strong></td><td class="el abitanti"><strong>54.731</strong></td></tr>
-<tr><td class="el index">10</td><td class="el nome">Trinitapoli</td><td class="el abitanti">13.613</td></tr>
-<tr><td class="index"></td><td class="fel nome"><strong>Popolazione totale</strong></td><td class="fel abitanti"><strong>375.933</strong></td></tr>
+                    <tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th><th class="hel superficie pointer select-none" onclick="ordinaPerSuperficie(flagSuperficie)">Superficie <i class="fa-solid fa-sort"></i></th></tr>
+<tr><td class="el index"><strong>1</strong></td><td class="el nome"><strong>Andria</strong></td><td class="el abitanti"><strong>96.520</strong></td><td class="el superficie"><strong>402,88 km<sup>2</sup></strong></td></tr>
+<tr><td class="el index"><strong>2</strong></td><td class="el nome"><strong>Barletta</strong></td><td class="el abitanti"><strong>92.067</strong></td><td class="el superficie"><strong>149,45 km<sup>2</sup></strong></td></tr>
+<tr><td class="el index">3</td><td class="el nome">Bisceglie</td><td class="el abitanti">53.242</td><td class="el superficie">69,27 km<sup>2</sup></td></tr>
+<tr><td class="el index">4</td><td class="el nome">Canosa di Puglia</td><td class="el abitanti">27.275</td><td class="el superficie">150,93 km<sup>2</sup></td></tr>
+<tr><td class="el index">5</td><td class="el nome">Margherita di Savoia</td><td class="el abitanti">11.025</td><td class="el superficie">35,89 km<sup>2</sup></td></tr>
+<tr><td class="el index">6</td><td class="el nome">Minervino Murge</td><td class="el abitanti">7.811</td><td class="el superficie">257,41 km<sup>2</sup></td></tr>
+<tr><td class="el index">7</td><td class="el nome">San Ferdinando di Puglia</td><td class="el abitanti">13.855</td><td class="el superficie">41,23 km<sup>2</sup></td></tr>
+<tr><td class="el index">8</td><td class="el nome">Spinazzola</td><td class="el abitanti">5.794</td><td class="el superficie">184,00 km<sup>2</sup></td></tr>
+<tr><td class="el index"><strong>9</strong></td><td class="el nome"><strong>Trani</strong></td><td class="el abitanti"><strong>54.731</strong></td><td class="el superficie"><strong>103,51 km<sup>2</sup></strong></td></tr>
+<tr><td class="el index">10</td><td class="el nome">Trinitapoli</td><td class="el abitanti">13.613</td><td class="el superficie">148,77 km<sup>2</sup></td></tr>
+<tr><td class="index"></td><td class="fel nome"><strong>Totale</strong></td><td class="fel abitanti"><strong>375.933</strong></td><td class="fel superficie"><strong>1.543,34 km<sup>2</sup></strong></td></tr>
                 </tbody>
             </table>
         </div>
@@ -338,6 +338,7 @@
         let comuniProvincia = [];
         let flagAlfabetico = true;
         let flagAbitanti = false;
+        let flagSuperficie = false;
     </script>
     <script src="../assets/js/scriptprovince.js"></script>
     <script src="../assets/js/ordinamentoregioniprovince.js"></script>

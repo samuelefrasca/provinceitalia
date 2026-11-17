@@ -55,12 +55,13 @@ function scritturaProvince(nomeRegione, provinceTrovate) {
     // Crea i punti elenco per ogni provincia
     let table = elencoProvince.innerHTML;
     if (nomeRegione == "Italia") {
-        table = `<tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Provincia <i class="fa-solid fa-sort"></i></th><th class="hel sigla select-none">Sigla</th><th class="hel regione pointer select-none" onclick="ordinaPerRegione(flagRegione)">Regione <i class="fa-solid fa-sort"></i></th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>`;
+        table = `<tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Provincia <i class="fa-solid fa-sort"></i></th><th class="hel sigla select-none">Sigla</th><th class="hel regione pointer select-none" onclick="ordinaPerRegione(flagRegione)">Regione <i class="fa-solid fa-sort"></i></th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th><th class="hel superficie pointer select-none" onclick="ordinaPerSuperficie(flagSuperficie)">Superficie <i class="fa-solid fa-sort"></i></th></tr>`;
     }
     else {
-        table = `<tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Provincia <i class="fa-solid fa-sort"></i></th><th class="hel sigla select-none">Sigla</th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>`;
+        table = `<tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Provincia <i class="fa-solid fa-sort"></i></th><th class="hel sigla select-none">Sigla</th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th><th class="hel superficie pointer select-none" onclick="ordinaPerSuperficie(flagSuperficie)">Superficie <i class="fa-solid fa-sort"></i></th></tr>`;
     }
     let popolazioneTotale = 0;
+    let superficieTotale = 0;
     let index = 1; // indice
     for (let provincia of provinceTrovate) {
         // distinzione città metropolitane, lbc e province autonome
@@ -86,32 +87,41 @@ function scritturaProvince(nomeRegione, provinceTrovate) {
             ? `<a class="comunihref" href="/regioni/${normalizzaNome(provincia.regione)}">${provincia.regione}</a>`
             : '';
 
+        const abitantiStr = provincia.abitanti.toLocaleString('it-IT', { useGrouping: 'always' });
+        const supVal = Number(provincia.superficie);
+        const superficieStr = supVal.toLocaleString('it-IT', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
         // creazione tabella
         if (provincia.capoluogo) {
             if (nomeRegione == "Italia") {
-                table += `<tr><td class="el index"><strong>${index}</strong></td><td class="el nome"><strong>${linkProvincia} ${apex}</strong></td><td class="el sigla"><strong>${provincia.sigla}</strong></td><td class="el regione"><strong>${linkRegione}</strong></td><td class="el abitanti"><strong>${provincia.abitanti.toLocaleString('it-IT', { useGrouping: 'always' })}</strong></td></tr>`;
+                table += `<tr><td class="el index"><strong>${index}</strong></td><td class="el nome"><strong>${linkProvincia} ${apex}</strong></td><td class="el sigla"><strong>${provincia.sigla}</strong></td><td class="el regione"><strong>${linkRegione}</strong></td><td class="el abitanti"><strong>${abitantiStr}</strong></td><td class="el superficie"><strong>${superficieStr} km<sup>2</sup></strong></td></tr>`;
             }
             else {
-                table += `<tr><td class="el index"><strong>${index}</strong></td><td class="el nome"><strong>${linkProvincia} ${apex}</strong></td><td class="el sigla"><strong>${provincia.sigla}</strong></td><td class="el abitanti"><strong>${provincia.abitanti.toLocaleString('it-IT', { useGrouping: 'always' })}</strong></td></tr>`;
+                table += `<tr><td class="el index"><strong>${index}</strong></td><td class="el nome"><strong>${linkProvincia} ${apex}</strong></td><td class="el sigla"><strong>${provincia.sigla}</strong></td><td class="el abitanti"><strong>${abitantiStr}</strong></td><td class="el superficie"><strong>${superficieStr} km<sup>2</sup></strong></td></tr>`;
             }
         }
         else {
             if (nomeRegione == "Italia") {
-                table += `<tr><td class="el index">${index}</td><td class="el nome">${linkProvincia} ${apex}</td><td class="el sigla">${provincia.sigla}</td><td class="el regione">${linkRegione}</td><td class="el abitanti">${provincia.abitanti.toLocaleString('it-IT', { useGrouping: 'always' })}</td></tr>`;
+                table += `<tr><td class="el index">${index}</td><td class="el nome">${linkProvincia} ${apex}</td><td class="el sigla">${provincia.sigla}</td><td class="el regione">${linkRegione}</td><td class="el abitanti">${abitantiStr}</td><td class="el superficie">${superficieStr} km<sup>2</sup></td></tr>`;
             }
             else {
-                table += `<tr><td class="el index">${index}</td><td class="el nome">${linkProvincia} ${apex}</td><td class="el sigla">${provincia.sigla}</td><td class="el abitanti">${provincia.abitanti.toLocaleString('it-IT', { useGrouping: 'always' })}</td></tr>`;
+                table += `<tr><td class="el index">${index}</td><td class="el nome">${linkProvincia} ${apex}</td><td class="el sigla">${provincia.sigla}</td><td class="el abitanti">${abitantiStr}</td><td class="el superficie">${superficieStr} km<sup>2</sup></td></tr>`;
             }
         }
-        // aggiornamento popolazione totale della regione e l'indice
+        // aggiornamento popolazione e superficie totale della regione e l'indice
         popolazioneTotale += provincia.abitanti;
+        superficieTotale += supVal;
         index++;
     }
+
+    const popTotaleStr = popolazioneTotale.toLocaleString('it-IT', { useGrouping: 'always' });
+    const supTotaleStr = superficieTotale.toLocaleString('it-IT', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
     if (nomeRegione == "Italia") {
-        table += `<tr><td class="index"></td><td class="fel nome"><strong>Popolazione totale</strong></td><td class="fel sigla"><strong></strong></td><td class="fel regione"><strong></strong></td><td class="fel abitanti"><strong>${popolazioneTotale.toLocaleString('it-IT')}</strong></td></tr>`;
+        table += `<tr><td class="index"></td><td class="fel nome"><strong>Totale</strong></td><td class="fel sigla"><strong></strong></td><td class="fel regione"><strong></strong></td><td class="fel abitanti"><strong>${popTotaleStr}</strong></td><td class="fel superficie"><strong>${supTotaleStr} km<sup>2</sup></strong></td></tr>`;
     }
     else {
-        table += `<tr><td class="index"></td><td class="fel nome"><strong>Popolazione totale</strong></td><td class="fel sigla"><strong></strong></td><td class="fel abitanti"><strong>${popolazioneTotale.toLocaleString('it-IT')}</strong></td></tr>`;
+        table += `<tr><td class="index"></td><td class="fel nome"><strong>Totale</strong></td><td class="fel sigla"><strong></strong></td><td class="fel abitanti"><strong>${popTotaleStr}</strong></td><td class="fel superficie"><strong>${supTotaleStr} km<sup>2</sup></strong></td></tr>`;
     }
     elencoProvince.innerHTML = table;
 
@@ -132,6 +142,8 @@ let regioneCorrente = "";
 let provinceCorrenti = [];
 let flagAlfabetico = true;
 let flagAbitanti = false;
+let flagRegione = false;
+let flagSuperficie = false;
 
 fetch('data/province.json')
     .then(res => res.json())
@@ -149,6 +161,7 @@ fetch('data/province.json')
                 flagAlfabetico = true;
                 flagAbitanti = false;
                 flagRegione = false;
+                flagSuperficie = false;
                 document.getElementById('barra-ricerca').value = '';
             });
         });
@@ -175,5 +188,6 @@ function elencoCompleto() {
     flagAlfabetico = true;
     flagAbitanti = false;
     flagRegione = false;
+    flagSuperficie = false;
     document.getElementById('barra-ricerca').value = '';
 }

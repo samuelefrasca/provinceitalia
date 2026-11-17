@@ -19,186 +19,288 @@ import unicodedata
 PROVINCE = [
     # (nome_provincia, id_svg, regione, slug_file_html)
     # Abruzzo
-    ("L'Aquila",        "L'Aquila",             "Abruzzo",              "l-aquila"),
-    ("Chieti",          "Chieti",               "Abruzzo",              "chieti"),
-    ("Pescara",         "Pescara",              "Abruzzo",              "pescara"),
-    ("Teramo",          "Teramo",               "Abruzzo",              "teramo"),
+    ("L'Aquila", "L'Aquila", "Abruzzo", "l-aquila"),
+    ("Chieti", "Chieti", "Abruzzo", "chieti"),
+    ("Pescara", "Pescara", "Abruzzo", "pescara"),
+    ("Teramo", "Teramo", "Abruzzo", "teramo"),
     # Basilicata
-    ("Matera",          "Matera",               "Basilicata",           "matera"),
-    ("Potenza",         "Potenza",              "Basilicata",           "potenza"),
+    ("Matera", "Matera", "Basilicata", "matera"),
+    ("Potenza", "Potenza", "Basilicata", "potenza"),
     # Calabria
-    ("Catanzaro",       "Catanzaro",            "Calabria",             "catanzaro"),
-    ("Cosenza",         "Cosenza",              "Calabria",             "cosenza"),
-    ("Crotone",         "Crotone",              "Calabria",             "crotone"),
-    ("Reggio Calabria", "Reggio Calabria",      "Calabria",             "reggio-calabria"),
-    ("Vibo Valentia",   "Vibo Valentia",        "Calabria",             "vibo-valentia"),
+    ("Catanzaro", "Catanzaro", "Calabria", "catanzaro"),
+    ("Cosenza", "Cosenza", "Calabria", "cosenza"),
+    ("Crotone", "Crotone", "Calabria", "crotone"),
+    ("Reggio Calabria", "Reggio Calabria", "Calabria", "reggio-calabria"),
+    ("Vibo Valentia", "Vibo Valentia", "Calabria", "vibo-valentia"),
     # Campania
-    ("Avellino",        "Avellino",             "Campania",             "avellino"),
-    ("Benevento",       "Benevento",            "Campania",             "benevento"),
-    ("Caserta",         "Caserta",              "Campania",             "caserta"),
-    ("Napoli",          "Napoli",               "Campania",             "napoli"),
-    ("Salerno",         "Salerno",              "Campania",             "salerno"),
+    ("Avellino", "Avellino", "Campania", "avellino"),
+    ("Benevento", "Benevento", "Campania", "benevento"),
+    ("Caserta", "Caserta", "Campania", "caserta"),
+    ("Napoli", "Napoli", "Campania", "napoli"),
+    ("Salerno", "Salerno", "Campania", "salerno"),
     # Emilia-Romagna
-    ("Bologna",         "Bologna",              "Emilia-Romagna",       "bologna"),
-    ("Ferrara",         "Ferrara",              "Emilia-Romagna",       "ferrara"),
-    ("Forlì-Cesena",    "Forlì-Cesena",         "Emilia-Romagna",       "forli-cesena"),
-    ("Modena",          "Modena",               "Emilia-Romagna",       "modena"),
-    ("Parma",           "Parma",                "Emilia-Romagna",       "parma"),
-    ("Piacenza",        "Piacenza",             "Emilia-Romagna",       "piacenza"),
-    ("Ravenna",         "Ravenna",              "Emilia-Romagna",       "ravenna"),
-    ("Reggio Emilia",   "Reggio Emilia",        "Emilia-Romagna",       "reggio-emilia"),
-    ("Rimini",          "Rimini",               "Emilia-Romagna",       "rimini"),
+    ("Bologna", "Bologna", "Emilia-Romagna", "bologna"),
+    ("Ferrara", "Ferrara", "Emilia-Romagna", "ferrara"),
+    ("Forlì-Cesena", "Forlì-Cesena", "Emilia-Romagna", "forli-cesena"),
+    ("Modena", "Modena", "Emilia-Romagna", "modena"),
+    ("Parma", "Parma", "Emilia-Romagna", "parma"),
+    ("Piacenza", "Piacenza", "Emilia-Romagna", "piacenza"),
+    ("Ravenna", "Ravenna", "Emilia-Romagna", "ravenna"),
+    ("Reggio Emilia", "Reggio Emilia", "Emilia-Romagna", "reggio-emilia"),
+    ("Rimini", "Rimini", "Emilia-Romagna", "rimini"),
     # Friuli-Venezia Giulia
-    ("Gorizia",         "Gorizia",              "Friuli-Venezia Giulia","gorizia"),
-    ("Pordenone",       "Pordenone",            "Friuli-Venezia Giulia","pordenone"),
-    ("Trieste",         "Trieste",              "Friuli-Venezia Giulia","trieste"),
-    ("Udine",           "Udine",                "Friuli-Venezia Giulia","udine"),
+    ("Gorizia", "Gorizia", "Friuli-Venezia Giulia", "gorizia"),
+    ("Pordenone", "Pordenone", "Friuli-Venezia Giulia", "pordenone"),
+    ("Trieste", "Trieste", "Friuli-Venezia Giulia", "trieste"),
+    ("Udine", "Udine", "Friuli-Venezia Giulia", "udine"),
     # Lazio
-    ("Frosinone",       "Frosinone",            "Lazio",                "frosinone"),
-    ("Latina",          "Latina",               "Lazio",                "latina"),
-    ("Rieti",           "Rieti",                "Lazio",                "rieti"),
-    ("Roma",            "Roma",                 "Lazio",                "roma"),
-    ("Viterbo",         "Viterbo",              "Lazio",                "viterbo"),
+    ("Frosinone", "Frosinone", "Lazio", "frosinone"),
+    ("Latina", "Latina", "Lazio", "latina"),
+    ("Rieti", "Rieti", "Lazio", "rieti"),
+    ("Roma", "Roma", "Lazio", "roma"),
+    ("Viterbo", "Viterbo", "Lazio", "viterbo"),
     # Liguria
-    ("Genova",          "Genova",               "Liguria",              "genova"),
-    ("Imperia",         "Imperia",              "Liguria",              "imperia"),
-    ("La Spezia",       "La Spezia",            "Liguria",              "la-spezia"),
-    ("Savona",          "Savona",               "Liguria",              "savona"),
+    ("Genova", "Genova", "Liguria", "genova"),
+    ("Imperia", "Imperia", "Liguria", "imperia"),
+    ("La Spezia", "La Spezia", "Liguria", "la-spezia"),
+    ("Savona", "Savona", "Liguria", "savona"),
     # Lombardia
-    ("Bergamo",         "Bergamo",              "Lombardia",            "bergamo"),
-    ("Brescia",         "Brescia",              "Lombardia",            "brescia"),
-    ("Como",            "Como",                 "Lombardia",            "como"),
-    ("Cremona",         "Cremona",              "Lombardia",            "cremona"),
-    ("Lecco",           "Lecco",                "Lombardia",            "lecco"),
-    ("Lodi",            "Lodi",                 "Lombardia",            "lodi"),
-    ("Mantova",         "Mantova",              "Lombardia",            "mantova"),
-    ("Milano",          "Milano",               "Lombardia",            "milano"),
-    ("Monza e Brianza", "Monza e Brianza",      "Lombardia",            "monza-e-brianza"),
-    ("Pavia",           "Pavia",                "Lombardia",            "pavia"),
-    ("Sondrio",         "Sondrio",              "Lombardia",            "sondrio"),
-    ("Varese",          "Varese",               "Lombardia",            "varese"),
+    ("Bergamo", "Bergamo", "Lombardia", "bergamo"),
+    ("Brescia", "Brescia", "Lombardia", "brescia"),
+    ("Como", "Como", "Lombardia", "como"),
+    ("Cremona", "Cremona", "Lombardia", "cremona"),
+    ("Lecco", "Lecco", "Lombardia", "lecco"),
+    ("Lodi", "Lodi", "Lombardia", "lodi"),
+    ("Mantova", "Mantova", "Lombardia", "mantova"),
+    ("Milano", "Milano", "Lombardia", "milano"),
+    ("Monza e Brianza", "Monza e Brianza", "Lombardia", "monza-e-brianza"),
+    ("Pavia", "Pavia", "Lombardia", "pavia"),
+    ("Sondrio", "Sondrio", "Lombardia", "sondrio"),
+    ("Varese", "Varese", "Lombardia", "varese"),
     # Marche
-    ("Ancona",          "Ancona",               "Marche",               "ancona"),
-    ("Ascoli Piceno",   "Ascoli Piceno",        "Marche",               "ascoli-piceno"),
-    ("Fermo",           "Fermo",                "Marche",               "fermo"),
-    ("Macerata",        "Macerata",             "Marche",               "macerata"),
-    ("Pesaro e Urbino", "Pesaro e Urbino",      "Marche",               "pesaro-e-urbino"),
+    ("Ancona", "Ancona", "Marche", "ancona"),
+    ("Ascoli Piceno", "Ascoli Piceno", "Marche", "ascoli-piceno"),
+    ("Fermo", "Fermo", "Marche", "fermo"),
+    ("Macerata", "Macerata", "Marche", "macerata"),
+    ("Pesaro e Urbino", "Pesaro e Urbino", "Marche", "pesaro-e-urbino"),
     # Molise
-    ("Campobasso",      "Campobasso",           "Molise",               "campobasso"),
-    ("Isernia",         "Isernia",              "Molise",               "isernia"),
+    ("Campobasso", "Campobasso", "Molise", "campobasso"),
+    ("Isernia", "Isernia", "Molise", "isernia"),
     # Piemonte
-    ("Alessandria",     "Alessandria",          "Piemonte",             "alessandria"),
-    ("Asti",            "Asti",                 "Piemonte",             "asti"),
-    ("Biella",          "Biella",               "Piemonte",             "biella"),
-    ("Cuneo",           "Cuneo",                "Piemonte",             "cuneo"),
-    ("Novara",          "Novara",               "Piemonte",             "novara"),
-    ("Torino",          "Torino",               "Piemonte",             "torino"),
-    ("Verbano-Cusio-Ossola", "Verbano-Cusio-Ossola", "Piemonte",        "verbano-cusio-ossola"),
-    ("Vercelli",        "Vercelli",             "Piemonte",             "vercelli"),
+    ("Alessandria", "Alessandria", "Piemonte", "alessandria"),
+    ("Asti", "Asti", "Piemonte", "asti"),
+    ("Biella", "Biella", "Piemonte", "biella"),
+    ("Cuneo", "Cuneo", "Piemonte", "cuneo"),
+    ("Novara", "Novara", "Piemonte", "novara"),
+    ("Torino", "Torino", "Piemonte", "torino"),
+    (
+        "Verbano-Cusio-Ossola",
+        "Verbano-Cusio-Ossola",
+        "Piemonte",
+        "verbano-cusio-ossola",
+    ),
+    ("Vercelli", "Vercelli", "Piemonte", "vercelli"),
     # Puglia
-    ("Bari",            "Bari",                 "Puglia",               "bari"),
-    ("Barletta-Andria-Trani", "Barletta-Andria-Trani", "Puglia",        "barletta-andria-trani"),
-    ("Brindisi",        "Brindisi",             "Puglia",               "brindisi"),
-    ("Foggia",          "Foggia",               "Puglia",               "foggia"),
-    ("Lecce",           "Lecce",                "Puglia",               "lecce"),
-    ("Taranto",         "Taranto",              "Puglia",               "taranto"),
+    ("Bari", "Bari", "Puglia", "bari"),
+    (
+        "Barletta-Andria-Trani",
+        "Barletta-Andria-Trani",
+        "Puglia",
+        "barletta-andria-trani",
+    ),
+    ("Brindisi", "Brindisi", "Puglia", "brindisi"),
+    ("Foggia", "Foggia", "Puglia", "foggia"),
+    ("Lecce", "Lecce", "Puglia", "lecce"),
+    ("Taranto", "Taranto", "Puglia", "taranto"),
     # Sardegna
-    ("Cagliari",        "Cagliari",             "Sardegna",             "cagliari"),
-    ("Gallura Nord-Est Sardegna", "Gallura Nord-Est Sardegna", "Sardegna", "gallura-nord-est-sardegna"),
-    ("Medio Campidano", "Medio Campidano",      "Sardegna",             "medio-campidano"),
-    ("Nuoro",           "Nuoro",                "Sardegna",             "nuoro"),
-    ("Ogliastra",       "Ogliastra",            "Sardegna",             "ogliastra"),
-    ("Oristano",        "Oristano",             "Sardegna",             "oristano"),
-    ("Sassari",         "Sassari",              "Sardegna",             "sassari"),
-    ("Sulcis Iglesiente", "Sulcis Iglesiente",  "Sardegna",             "sulcis-iglesiente"),
+    ("Cagliari", "Cagliari", "Sardegna", "cagliari"),
+    (
+        "Gallura Nord-Est Sardegna",
+        "Gallura Nord-Est Sardegna",
+        "Sardegna",
+        "gallura-nord-est-sardegna",
+    ),
+    ("Medio Campidano", "Medio Campidano", "Sardegna", "medio-campidano"),
+    ("Nuoro", "Nuoro", "Sardegna", "nuoro"),
+    ("Ogliastra", "Ogliastra", "Sardegna", "ogliastra"),
+    ("Oristano", "Oristano", "Sardegna", "oristano"),
+    ("Sassari", "Sassari", "Sardegna", "sassari"),
+    ("Sulcis Iglesiente", "Sulcis Iglesiente", "Sardegna", "sulcis-iglesiente"),
     # Sicilia
-    ("Agrigento",       "Agrigento",            "Sicilia",              "agrigento"),
-    ("Caltanissetta",   "Caltanissetta",        "Sicilia",              "caltanissetta"),
-    ("Catania",         "Catania",              "Sicilia",              "catania"),
-    ("Enna",            "Enna",                 "Sicilia",              "enna"),
-    ("Messina",         "Messina",              "Sicilia",              "messina"),
-    ("Palermo",         "Palermo",              "Sicilia",              "palermo"),
-    ("Ragusa",          "Ragusa",               "Sicilia",              "ragusa"),
-    ("Siracusa",        "Siracusa",             "Sicilia",              "siracusa"),
-    ("Trapani",         "Trapani",              "Sicilia",              "trapani"),
+    ("Agrigento", "Agrigento", "Sicilia", "agrigento"),
+    ("Caltanissetta", "Caltanissetta", "Sicilia", "caltanissetta"),
+    ("Catania", "Catania", "Sicilia", "catania"),
+    ("Enna", "Enna", "Sicilia", "enna"),
+    ("Messina", "Messina", "Sicilia", "messina"),
+    ("Palermo", "Palermo", "Sicilia", "palermo"),
+    ("Ragusa", "Ragusa", "Sicilia", "ragusa"),
+    ("Siracusa", "Siracusa", "Sicilia", "siracusa"),
+    ("Trapani", "Trapani", "Sicilia", "trapani"),
     # Toscana
-    ("Arezzo",          "Arezzo",               "Toscana",              "arezzo"),
-    ("Firenze",         "Firenze",              "Toscana",              "firenze"),
-    ("Grosseto",        "Grosseto",             "Toscana",              "grosseto"),
-    ("Livorno",         "Livorno",              "Toscana",              "livorno"),
-    ("Lucca",           "Lucca",                "Toscana",              "lucca"),
-    ("Massa-Carrara",   "Massa-Carrara",        "Toscana",              "massa-carrara"),
-    ("Pisa",            "Pisa",                 "Toscana",              "pisa"),
-    ("Pistoia",         "Pistoia",              "Toscana",              "pistoia"),
-    ("Prato",           "Prato",                "Toscana",              "prato"),
-    ("Siena",           "Siena",                "Toscana",              "siena"),
+    ("Arezzo", "Arezzo", "Toscana", "arezzo"),
+    ("Firenze", "Firenze", "Toscana", "firenze"),
+    ("Grosseto", "Grosseto", "Toscana", "grosseto"),
+    ("Livorno", "Livorno", "Toscana", "livorno"),
+    ("Lucca", "Lucca", "Toscana", "lucca"),
+    ("Massa-Carrara", "Massa-Carrara", "Toscana", "massa-carrara"),
+    ("Pisa", "Pisa", "Toscana", "pisa"),
+    ("Pistoia", "Pistoia", "Toscana", "pistoia"),
+    ("Prato", "Prato", "Toscana", "prato"),
+    ("Siena", "Siena", "Toscana", "siena"),
     # Trentino-Alto Adige
-    ("Bolzano",         "Bolzano",              "Trentino-Alto Adige",  "bolzano"),
-    ("Trento",          "Trento",               "Trentino-Alto Adige",  "trento"),
+    ("Bolzano", "Bolzano", "Trentino-Alto Adige", "bolzano"),
+    ("Trento", "Trento", "Trentino-Alto Adige", "trento"),
     # Umbria
-    ("Perugia",         "Perugia",              "Umbria",               "perugia"),
-    ("Terni",           "Terni",                "Umbria",               "terni"),
+    ("Perugia", "Perugia", "Umbria", "perugia"),
+    ("Terni", "Terni", "Umbria", "terni"),
     # Valle d'Aosta
-    ("Valle d'Aosta",   "Valle d'Aosta",        "Valle d'Aosta",        "valle-d-aosta"),
+    ("Valle d'Aosta", "Valle d'Aosta", "Valle d'Aosta", "valle-d-aosta"),
     # Veneto
-    ("Belluno",         "Belluno",              "Veneto",               "belluno"),
-    ("Padova",          "Padova",               "Veneto",               "padova"),
-    ("Rovigo",          "Rovigo",               "Veneto",               "rovigo"),
-    ("Treviso",         "Treviso",              "Veneto",               "treviso"),
-    ("Venezia",         "Venezia",              "Veneto",               "venezia"),
-    ("Verona",          "Verona",               "Veneto",               "verona"),
-    ("Vicenza",         "Vicenza",              "Veneto",               "vicenza"),
+    ("Belluno", "Belluno", "Veneto", "belluno"),
+    ("Padova", "Padova", "Veneto", "padova"),
+    ("Rovigo", "Rovigo", "Veneto", "rovigo"),
+    ("Treviso", "Treviso", "Veneto", "treviso"),
+    ("Venezia", "Venezia", "Veneto", "venezia"),
+    ("Verona", "Verona", "Veneto", "verona"),
+    ("Vicenza", "Vicenza", "Veneto", "vicenza"),
 ]
 
 # Slug per i file SVG e HTML delle regioni
 REGIONE_SLUG = {
-    "Abruzzo":              "abruzzo",
-    "Basilicata":           "basilicata",
-    "Calabria":             "calabria",
-    "Campania":             "campania",
-    "Emilia-Romagna":       "emilia-romagna",
-    "Friuli-Venezia Giulia":"friuli-venezia-giulia",
-    "Lazio":                "lazio",
-    "Liguria":              "liguria",
-    "Lombardia":            "lombardia",
-    "Marche":               "marche",
-    "Molise":               "molise",
-    "Piemonte":             "piemonte",
-    "Puglia":               "puglia",
-    "Sardegna":             "sardegna",
-    "Sicilia":              "sicilia",
-    "Toscana":              "toscana",
-    "Trentino-Alto Adige":  "trentino-alto-adige",
-    "Umbria":               "umbria",
-    "Valle d'Aosta":        "valle-d-aosta",
-    "Veneto":               "veneto",
+    "Abruzzo": "abruzzo",
+    "Basilicata": "basilicata",
+    "Calabria": "calabria",
+    "Campania": "campania",
+    "Emilia-Romagna": "emilia-romagna",
+    "Friuli-Venezia Giulia": "friuli-venezia-giulia",
+    "Lazio": "lazio",
+    "Liguria": "liguria",
+    "Lombardia": "lombardia",
+    "Marche": "marche",
+    "Molise": "molise",
+    "Piemonte": "piemonte",
+    "Puglia": "puglia",
+    "Sardegna": "sardegna",
+    "Sicilia": "sicilia",
+    "Toscana": "toscana",
+    "Trentino-Alto Adige": "trentino-alto-adige",
+    "Umbria": "umbria",
+    "Valle d'Aosta": "valle-d-aosta",
+    "Veneto": "veneto",
 }
 
 # Dizionario di fallback per le sigle automobilistiche (usato se non presente nel JSON)
 SIGLE_FALLBACK = {
-    "Agrigento": "AG", "Alessandria": "AL", "Ancona": "AN", "Arezzo": "AR", "Ascoli Piceno": "AP",
-    "Asti": "AT", "Avellino": "AV", "Bari": "BA", "Barletta-Andria-Trani": "BT", "Belluno": "BL",
-    "Benevento": "BN", "Bergamo": "BG", "Biella": "BI", "Bologna": "BO", "Bolzano": "BZ",
-    "Brescia": "BS", "Brindisi": "BR", "Cagliari": "CA", "Caltanissetta": "CL", "Campobasso": "CB",
-    "Caserta": "CE", "Catania": "CT", "Catanzaro": "CZ", "Chieti": "CH", "Como": "CO",
-    "Cosenza": "CS", "Cremona": "CR", "Crotone": "KR", "Cuneo": "CN", "Enna": "EN",
-    "Fermo": "FM", "Ferrara": "FE", "Firenze": "FI", "Foggia": "FG", "Forlì-Cesena": "FC",
-    "Frosinone": "FR", "Gallura Nord-Est Sardegna": "OT", "Genova": "GE", "Gorizia": "GO",
-    "Grosseto": "GR", "Imperia": "IM", "Isernia": "IS", "L'Aquila": "AQ", "La Spezia": "SP",
-    "Latina": "LT", "Lecce": "LE", "Lecco": "LC", "Livorno": "LI", "Lodi": "LO", "Lucca": "LU",
-    "Macerata": "MC", "Mantova": "MN", "Massa-Carrara": "MS", "Matera": "MT", "Medio Campidano": "VS",
-    "Messina": "ME", "Milano": "MI", "Modena": "MO", "Monza e Brianza": "MB", "Napoli": "NA",
-    "Novara": "NO", "Nuoro": "NU", "Ogliastra": "OG", "Oristano": "OR", "Padova": "PD",
-    "Palermo": "PA", "Parma": "PR", "Pavia": "PV", "Perugia": "PG", "Pesaro e Urbino": "PU",
-    "Pescara": "PE", "Piacenza": "PC", "Pisa": "PI", "Pistoia": "PT", "Pordenone": "PN",
-    "Potenza": "PZ", "Prato": "PO", "Ragusa": "RG", "Ravenna": "RA", "Reggio Calabria": "RC",
-    "Reggio Emilia": "RE", "Rieti": "RI", "Rimini": "RN", "Roma": "RM", "Rovigo": "RO",
-    "Salerno": "SA", "Sassari": "SS", "Savona": "SV", "Siena": "SI", "Siracusa": "SR",
-    "Sondrio": "SO", "Sulcis Iglesiente": "CI", "Taranto": "TA", "Teramo": "TE", "Terni": "TR",
-    "Torino": "TO", "Trapani": "TP", "Trento": "TN", "Treviso": "TV", "Trieste": "TS",
-    "Udine": "UD", "Valle d'Aosta": "AO", "Varese": "VA", "Venezia": "VE",
-    "Verbano-Cusio-Ossola": "VB", "Vercelli": "VC", "Verona": "VR", "Vibo Valentia": "VV",
-    "Vicenza": "VI", "Viterbo": "VT"
+    "Agrigento": "AG",
+    "Alessandria": "AL",
+    "Ancona": "AN",
+    "Arezzo": "AR",
+    "Ascoli Piceno": "AP",
+    "Asti": "AT",
+    "Avellino": "AV",
+    "Bari": "BA",
+    "Barletta-Andria-Trani": "BT",
+    "Belluno": "BL",
+    "Benevento": "BN",
+    "Bergamo": "BG",
+    "Biella": "BI",
+    "Bologna": "BO",
+    "Bolzano": "BZ",
+    "Brescia": "BS",
+    "Brindisi": "BR",
+    "Cagliari": "CA",
+    "Caltanissetta": "CL",
+    "Campobasso": "CB",
+    "Caserta": "CE",
+    "Catania": "CT",
+    "Catanzaro": "CZ",
+    "Chieti": "CH",
+    "Como": "CO",
+    "Cosenza": "CS",
+    "Cremona": "CR",
+    "Crotone": "KR",
+    "Cuneo": "CN",
+    "Enna": "EN",
+    "Fermo": "FM",
+    "Ferrara": "FE",
+    "Firenze": "FI",
+    "Foggia": "FG",
+    "Forlì-Cesena": "FC",
+    "Frosinone": "FR",
+    "Gallura Nord-Est Sardegna": "OT",
+    "Genova": "GE",
+    "Gorizia": "GO",
+    "Grosseto": "GR",
+    "Imperia": "IM",
+    "Isernia": "IS",
+    "L'Aquila": "AQ",
+    "La Spezia": "SP",
+    "Latina": "LT",
+    "Lecce": "LE",
+    "Lecco": "LC",
+    "Livorno": "LI",
+    "Lodi": "LO",
+    "Lucca": "LU",
+    "Macerata": "MC",
+    "Mantova": "MN",
+    "Massa-Carrara": "MS",
+    "Matera": "MT",
+    "Medio Campidano": "VS",
+    "Messina": "ME",
+    "Milano": "MI",
+    "Modena": "MO",
+    "Monza e Brianza": "MB",
+    "Napoli": "NA",
+    "Novara": "NO",
+    "Nuoro": "NU",
+    "Ogliastra": "OG",
+    "Oristano": "OR",
+    "Padova": "PD",
+    "Palermo": "PA",
+    "Parma": "PR",
+    "Pavia": "PV",
+    "Perugia": "PG",
+    "Pesaro e Urbino": "PU",
+    "Pescara": "PE",
+    "Piacenza": "PC",
+    "Pisa": "PI",
+    "Pistoia": "PT",
+    "Pordenone": "PN",
+    "Potenza": "PZ",
+    "Prato": "PO",
+    "Ragusa": "RG",
+    "Ravenna": "RA",
+    "Reggio Calabria": "RC",
+    "Reggio Emilia": "RE",
+    "Rieti": "RI",
+    "Rimini": "RN",
+    "Roma": "RM",
+    "Rovigo": "RO",
+    "Salerno": "SA",
+    "Sassari": "SS",
+    "Savona": "SV",
+    "Siena": "SI",
+    "Siracusa": "SR",
+    "Sondrio": "SO",
+    "Sulcis Iglesiente": "CI",
+    "Taranto": "TA",
+    "Teramo": "TE",
+    "Terni": "TR",
+    "Torino": "TO",
+    "Trapani": "TP",
+    "Trento": "TN",
+    "Treviso": "TV",
+    "Trieste": "TS",
+    "Udine": "UD",
+    "Valle d'Aosta": "AO",
+    "Varese": "VA",
+    "Venezia": "VE",
+    "Verbano-Cusio-Ossola": "VB",
+    "Vercelli": "VC",
+    "Verona": "VR",
+    "Vibo Valentia": "VV",
+    "Vicenza": "VI",
+    "Viterbo": "VT",
 }
 
 COLORE_EVIDENZIATO = "#a83232"  # più chiaro di #821f1f, più scuro di #a83232 (hover)
@@ -374,12 +476,12 @@ def evidenzia_provincia(svg_contenuto: str, id_svg: str) -> str:
 
     # Trova il blocco <g id="<id_svg>" ...> ... </g> (non-greedy, prende il primo </g>)
     pattern_g = rf'(<g\b[^>]*\bid="{id_escaped}"[^>]*>)(.*?)(</g>)'
-    
+
     def sostituisci_gruppo(m):
         tag_apertura = m.group(1)
         contenuto_g = m.group(2)
         tag_chiusura = m.group(3)
-        
+
         # Aggiunge fill inline a tutti i <path> dentro questo <g>
         def aggiungi_fill_path(pm):
             path_tag = pm.group(0)
@@ -388,21 +490,23 @@ def evidenzia_provincia(svg_contenuto: str, id_svg: str) -> str:
                 path_tag = re.sub(
                     r'style="([^"]*)"',
                     lambda s: f'style="{s.group(1)};fill:{COLORE_EVIDENZIATO}"',
-                    path_tag
+                    path_tag,
                 )
             else:
                 # Inserisce style prima della chiusura del tag <path>
                 path_tag = re.sub(
-                    r'(/?>)$',
-                    f' style="fill:{COLORE_EVIDENZIATO}"\\1',
-                    path_tag
+                    r"(/?>)$", f' style="fill:{COLORE_EVIDENZIATO}"\\1', path_tag
                 )
             return path_tag
-        
-        contenuto_modificato = re.sub(r'<path\b[^>]*/?>',  aggiungi_fill_path, contenuto_g)
+
+        contenuto_modificato = re.sub(
+            r"<path\b[^>]*/?>", aggiungi_fill_path, contenuto_g
+        )
         return tag_apertura + contenuto_modificato + tag_chiusura
 
-    nuovo_svg, n = re.subn(pattern_g, sostituisci_gruppo, svg_contenuto, count=1, flags=re.DOTALL)
+    nuovo_svg, n = re.subn(
+        pattern_g, sostituisci_gruppo, svg_contenuto, count=1, flags=re.DOTALL
+    )
     if n == 0:
         print(f"  ATTENZIONE: id '{id_svg}' non trovato nell'SVG.")
     return nuovo_svg
@@ -411,9 +515,21 @@ def evidenzia_provincia(svg_contenuto: str, id_svg: str) -> str:
 def titolo_provincia(nome: str, regione: str) -> str:
     """Restituisce il titolo istituzionale corretto della provincia."""
     citta_metropolitane = {
-        "Bari", "Bologna", "Cagliari", "Catania", "Firenze", "Genova",
-        "Messina", "Milano", "Napoli", "Palermo", "Reggio Calabria",
-        "Roma", "Sassari", "Torino", "Venezia"
+        "Bari",
+        "Bologna",
+        "Cagliari",
+        "Catania",
+        "Firenze",
+        "Genova",
+        "Messina",
+        "Milano",
+        "Napoli",
+        "Palermo",
+        "Reggio Calabria",
+        "Roma",
+        "Sassari",
+        "Torino",
+        "Venezia",
     }
     if nome == "Roma":
         return "Città metropolitana di Roma Capitale"
@@ -467,8 +583,8 @@ def nome_seo_provincia(nome: str) -> str:
 
 def slugify(nome: str) -> str:
     """Converte un testo in uno slug ASCII sicuro per file e URL."""
-    normalized = unicodedata.normalize('NFKD', nome)
-    ascii_text = ''.join(ch for ch in normalized if not unicodedata.combining(ch))
+    normalized = unicodedata.normalize("NFKD", nome)
+    ascii_text = "".join(ch for ch in normalized if not unicodedata.combining(ch))
     ascii_text = ascii_text.replace(" ", "-").replace("'", "-")
     return ascii_text.lower()
 
@@ -490,46 +606,72 @@ def formatta_numero(n: int) -> str:
     return f"{n:,}".replace(",", ".")
 
 
-def genera_tabella_comuni(comuni: list) -> tuple[str, int]:
-    """Genera l'HTML della tabella dei comuni (senza colonne Provincia e Sigla) e restituisce la popolazione totale."""
+def formatta_superficie(n: float) -> str:
+    """Arrotonda a 2 cifre decimali e formatta in stile italiano (es. 1.234,56)."""
+    return f"{n:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+
+
+def genera_tabella_comuni(comuni: list) -> tuple[str, int, float]:
+    """Genera l'HTML della tabella dei comuni e restituisce popolazione e superficie totali."""
     if not comuni:
-        return "", 0
+        return "", 0, 0.0
 
     righe = []
-    righe.append('<tr>'
-                 '<th class="index"></th>'
-                 '<th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th>'
-                 '<th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th>'
-                 '</tr>')
+    righe.append(
+        "<tr>"
+        '<th class="index"></th>'
+        '<th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th>'
+        '<th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th>'
+        '<th class="hel superficie pointer select-none" onclick="ordinaPerSuperficie(flagSuperficie)">Superficie <i class="fa-solid fa-sort"></i></th>'
+        "</tr>"
+    )
 
     popolazione_totale = 0
+    superficie_totale = 0.0
+
     for i, comune in enumerate(comuni, start=1):
         nome_comune = comune["comune"]
         pop = comune["popolazione_totale"]
+        sup = float(comune["superficie"])
+
         popolazione_totale += pop
+        superficie_totale += sup
+
         pop_str = formatta_numero(pop)
+        sup_str = formatta_superficie(sup)
 
         if comune.get("capoluogo"):
-            righe.append(f'<tr>'
-                         f'<td class="el index"><strong>{i}</strong></td>'
-                         f'<td class="el nome"><strong>{nome_comune}</strong></td>'
-                         f'<td class="el abitanti"><strong>{pop_str}</strong></td>'
-                         f'</tr>')
+            righe.append(
+                f"<tr>"
+                f'<td class="el index"><strong>{i}</strong></td>'
+                f'<td class="el nome"><strong>{nome_comune}</strong></td>'
+                f'<td class="el abitanti"><strong>{pop_str}</strong></td>'
+                f'<td class="el superficie"><strong>{sup_str} km<sup>2</sup></strong></td>'
+                f"</tr>"
+            )
         else:
-            righe.append(f'<tr>'
-                         f'<td class="el index">{i}</td>'
-                         f'<td class="el nome">{nome_comune}</td>'
-                         f'<td class="el abitanti">{pop_str}</td>'
-                         f'</tr>')
+            righe.append(
+                f"<tr>"
+                f'<td class="el index">{i}</td>'
+                f'<td class="el nome">{nome_comune}</td>'
+                f'<td class="el abitanti">{pop_str}</td>'
+                f'<td class="el superficie">{sup_str} km<sup>2</sup></td>'
+                f"</tr>"
+            )
+
+    sup_tot_str = formatta_superficie(superficie_totale)
 
     # Riga totale
-    righe.append(f'<tr>'
-                 f'<td class="index"></td>'
-                 f'<td class="fel nome"><strong>Popolazione totale</strong></td>'
-                 f'<td class="fel abitanti"><strong>{formatta_numero(popolazione_totale)}</strong></td>'
-                 f'</tr>')
+    righe.append(
+        f"<tr>"
+        f'<td class="index"></td>'
+        f'<td class="fel nome"><strong>Totale</strong></td>'
+        f'<td class="fel abitanti"><strong>{formatta_numero(popolazione_totale)}</strong></td>'
+        f'<td class="fel superficie"><strong>{sup_tot_str} km<sup>2</sup></strong></td>'
+        f"</tr>"
+    )
 
-    return "\n".join(righe), popolazione_totale
+    return "\n".join(righe), popolazione_totale, superficie_totale
 
 
 def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -> str:
@@ -540,12 +682,15 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
 
     # Leggi i comuni dal JSON e genera la tabella
     comuni = leggi_comuni(regione, nome)
-    tabella_html, pop_totale = genera_tabella_comuni(comuni)
+    tabella_html, pop_totale, sup_totale = genera_tabella_comuni(comuni)
     num_comuni = len(comuni)
     pop_tot_str = formatta_numero(pop_totale)
+    sup_tot_str = formatta_superficie(sup_totale)
 
     # Estrae la sigla dal JSON (se presente) o usa il dizionario di fallback
-    sigla = (comuni[0].get("sigla") if comuni and "sigla" in comuni[0] else None) or SIGLE_FALLBACK.get(nome, "")
+    sigla = (
+        comuni[0].get("sigla") if comuni and "sigla" in comuni[0] else None
+    ) or SIGLE_FALLBACK.get(nome, "")
     sigla_parentesi = f" ({sigla})" if sigla else ""
 
     # Title e Description ottimizzati per massimizzare il CTR su Google Search Console
@@ -643,7 +788,7 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
             <div class="titolo-div" id="titolo-provincia-div">
                 <h2 class="titolo" id="titolo-provincia">Elenco Comuni - {titolo_ist}</h2>
             </div>
-            <h4 class="elementi-trovati" id="elementi-trovati">{num_comuni} comuni · {pop_tot_str} abitanti</h4>
+            <h4 class="elementi-trovati" id="elementi-trovati">{num_comuni} comuni</h4>
             <input type="text" id="barra-ricerca" class="barra-ricerca" placeholder="Cerca un comune...">
             <table class="tabella" id="elenco-comuni" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: initial;">
                 <tbody>
@@ -690,6 +835,7 @@ def genera_html(nome: str, id_svg: str, regione: str, slug: str, svg_raw: str) -
         let comuniProvincia = [];
         let flagAlfabetico = true;
         let flagAbitanti = false;
+        let flagSuperficie = false;
     </script>
     <script src="../assets/js/scriptprovince.js"></script>
     <script src="../assets/js/ordinamentoregioniprovince.js"></script>

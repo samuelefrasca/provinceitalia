@@ -12,6 +12,7 @@ let provinciaCorrente = "";
 let comuniProvincia = [];
 let flagAlfabetico = true;
 let flagAbitanti = false;
+let flagSuperficie = false;
 
 // lo utilizziamo per avere il nome del file della regione o provincia
 function normalizzaNome(nome) {
@@ -119,25 +120,42 @@ function scritturaComuni(provincia, comuniProvincia, nomeRegione) {
 
     // Crea i punti elenco per ogni provincia
     let table = elencoComuni.innerHTML;
-    table = `<tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th><th class="hel select-none">Provincia</th><th class="hel sigla select-none">Sigla</th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>`;
+    table = `<tr>` +
+        `<th class="index"></th>` +
+        `<th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th>` +
+        `<th class="hel select-none">Provincia</th>` +
+        `<th class="hel sigla select-none">Sigla</th>` +
+        `<th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th>` +
+        `<th class="hel superficie pointer select-none" onclick="ordinaPerSuperficie(flagSuperficie)">Superficie <i class="fa-solid fa-sort"></i></th>` +
+        `</tr>`;
+
     let popolazioneTotale = 0;
+    let superficieTotale = 0;
     let index = 1; // indice
+
     for (let comune of comuniProvincia) {
         const provinciaSlug = normalizzaNome(comune.provincia);
         const linkProvincia = `<a class="comunihref" href="../province/${provinciaSlug}">${comune.provincia}</a>`;
+        const popolazione = comune.popolazione_totale.toLocaleString('it-IT', { useGrouping: 'always' });
+        const supVal = Number(comune.superficie);
+        const superficie = supVal.toLocaleString('it-IT', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 
         // creazione tabella
         if (comune.capoluogo) {
-            table += `<tr><td class="el index"><strong>${index}</strong></td><td class="el nome"><strong>${comune.comune}</strong></td><td class="el provincia"><strong>${linkProvincia}</strong></td><td class="el sigla"><strong>${comune.sigla}</strong></td><td class="el abitanti"><strong>${comune.popolazione_totale.toLocaleString('it-IT', { useGrouping: 'always' })}</strong></td></tr>`;
+            table += `<tr><td class="el index"><strong>${index}</strong></td><td class="el nome"><strong>${comune.comune}</strong></td><td class="el provincia"><strong>${linkProvincia}</strong></td><td class="el sigla"><strong>${comune.sigla}</strong></td><td class="el abitanti"><strong>${popolazione}</strong></td><td class="el superficie"><strong>${superficie} km<sup>2</sup></strong></td></tr>`;
         }
         else {
-            table += `<tr><td class="el index">${index}</td><td class="el nome">${comune.comune}</td><td class="el provincia">${linkProvincia}</td><td class="el sigla">${comune.sigla}</td><td class="el abitanti">${comune.popolazione_totale.toLocaleString('it-IT', { useGrouping: 'always' })}</td></tr>`;
+            table += `<tr><td class="el index">${index}</td><td class="el nome">${comune.comune}</td><td class="el provincia">${linkProvincia}</td><td class="el sigla">${comune.sigla}</td><td class="el abitanti">${popolazione}</td><td class="el superficie">${superficie} km<sup>2</sup></td></tr>`;
         }
-        // aggiornamento popolazione totale della regione e l'indice
+        // aggiornamento popolazione e superficie totale della regione e l'indice
         popolazioneTotale += comune.popolazione_totale;
+        superficieTotale += supVal;
         index++;
     }
-    table += `<tr><td class="index"></td><td class="fel nome"><strong>Popolazione totale</strong></td><td class="fel"><strong></strong></td><td class="fel sigla"><strong></strong></td><td class="fel abitanti"><strong>${popolazioneTotale.toLocaleString('it-IT')}</strong></td></tr>`;
+
+    const superficieTotaleStr = superficieTotale.toLocaleString('it-IT', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
+    table += `<tr><td class="index"></td><td class="fel nome"><strong>Totale</strong></td><td class="fel"><strong></strong></td><td class="fel sigla"><strong></strong></td><td class="fel abitanti"><strong>${popolazioneTotale.toLocaleString('it-IT', { useGrouping: 'always' })}</strong></td><td class="fel superficie"><strong>${superficieTotaleStr} km<sup>2</sup></strong></td></tr>`;
     elencoComuni.innerHTML = table;
 
     // Numero elementi trovati
@@ -167,6 +185,7 @@ function elencoCompleto(nomeRegione, nomeRegioneHtml) {
                             scritturaComuni(nomeRegione, elencoTotale, nomeRegione);
                             flagAlfabetico = true;
                             flagAbitanti = false;
+                            flagSuperficie = false;
                         }
                     });
             });

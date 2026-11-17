@@ -4,7 +4,7 @@
 genera_comuni.py (generato con Claude Sonnet 4 e Gemini Argon 4)
 Genera il file comuni.html nella root del progetto.
 Legge tutti i file JSON dei comuni da data/<regione>/<provincia>.json
-e costruisce una tabella con colonne: Comune, Provincia, Regione, Popolazione.
+e costruisce una tabella con colonne: Comune, Provincia, Regione, Popolazione, Superficie.
 Il JavaScript di ordinamento e ricerca è in un file esterno:
   assets/js/scriptElencoCompletoComuni.js
 """
@@ -69,6 +69,11 @@ def formatta_numero(n: int) -> str:
     return f"{n:,}".replace(",", ".")
 
 
+def formatta_superficie(n: float) -> str:
+    """Arrotonda a 2 cifre decimali e formatta in stile italiano (es. 1.234,56)."""
+    return f"{n:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+
+
 def get_classi_riga(c: dict) -> list[str]:
     """Restituisce le classi CSS da applicare alla riga in base al ruolo del comune."""
     classi = []
@@ -83,7 +88,7 @@ def get_classi_riga(c: dict) -> list[str]:
 def carica_tutti_i_comuni() -> list[dict]:
     """
     Legge tutti i file JSON nelle sotto-cartelle di data/ e
-    restituisce una lista di dict con chiavi: comune, provincia, regione, popolazione_totale.
+    restituisce una lista di dict con chiavi: comune, provincia, regione, popolazione_totale, superficie.
     """
     tutti = []
     for regione, slug_regione in REGIONE_SLUG.items():
@@ -103,6 +108,7 @@ def carica_tutti_i_comuni() -> list[dict]:
                     "provincia": c.get("provincia", ""),
                     "regione": c.get("regione", regione),
                     "popolazione_totale": c["popolazione_totale"],
+                    "superficie": c["superficie"],
                     "capoluogo": c.get("capoluogo", False),
                 })
     # Ordina alfabeticamente per nome comune
@@ -124,15 +130,20 @@ def get_slug_provincia(nome_provincia: str) -> str:
     return slugify_testo(nome_provincia)
 
 
-def genera_righe_tabella(comuni: list[dict]) -> tuple[str, int]:
-    """Genera le righe HTML della tabella e restituisce anche la popolazione totale."""
+def genera_righe_tabella(comuni: list[dict]) -> tuple[str, int, float]:
+    """Genera le righe HTML della tabella e restituisce popolazione e superficie totali."""
     righe = []
     popolazione_totale = 0
+    superficie_totale = 0.0
 
     for i, c in enumerate(comuni, start=1):
         pop = c["popolazione_totale"]
+        sup = float(c["superficie"])
         popolazione_totale += pop
+        superficie_totale += sup
+
         pop_str = formatta_numero(pop)
+        sup_str = formatta_superficie(sup)
 
         classi = get_classi_riga(c)
         classi_attr = " ".join(classi) if classi else ""
@@ -157,6 +168,7 @@ def genera_righe_tabella(comuni: list[dict]) -> tuple[str, int]:
             f'<td class="el provincia{classe_cell}">{provincia_html}</td>'
             f'<td class="el regione{classe_cell}">{regione_html}</td>'
             f'<td class="el abitanti{classe_cell}">{pop_str}</td>'
+            f'<td class="el superficie{classe_cell}">{sup_str} km<sup>2</sup></td>'
             f'</tr>'
         )
 
@@ -164,14 +176,15 @@ def genera_righe_tabella(comuni: list[dict]) -> tuple[str, int]:
     righe.append(
         f'                    <tr>'
         f'<td class="index"></td>'
-        f'<td class="fel nome"><strong>Popolazione totale</strong></td>'
+        f'<td class="fel nome"><strong>Totale</strong></td>'
         f'<td class="fel provincia"><strong></strong></td>'
         f'<td class="fel regione"><strong></strong></td>'
         f'<td class="fel abitanti"><strong>{formatta_numero(popolazione_totale)}</strong></td>'
+        f'<td class="fel superficie"><strong>{formatta_superficie(superficie_totale)} km<sup>2</sup></strong></td>'
         f'</tr>'
     )
 
-    return "\n".join(righe), popolazione_totale
+    return "\n".join(righe), popolazione_totale, superficie_totale
 
 
 # ---------------------------------------------------------------------------
@@ -330,7 +343,7 @@ def genera_html(comuni: list[dict]) -> str:
     """Genera l'intero file comuni.html."""
     num_comuni = len(comuni)
     num_comuni_str = formatta_numero(num_comuni)
-    tabella_html, pop_totale = genera_righe_tabella(comuni)
+    tabella_html, pop_totale, sup_totale = genera_righe_tabella(comuni)
     pop_tot_str = formatta_numero(pop_totale)
 
     # Serializziamo i dati dei comuni in JSON compatto per il JavaScript
@@ -459,6 +472,8 @@ def genera_html(comuni: list[dict]) -> str:
                                 class="fa-solid fa-sort"></i></th>
                         <th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">
                             Popolazione <i class="fa-solid fa-sort"></i></th>
+                        <th class="hel superficie pointer select-none" onclick="ordinaPerSuperficie(flagSuperficie)">
+                            Superficie <i class="fa-solid fa-sort"></i></th>
                     </tr>
 {tabella_html}
                 </tbody>

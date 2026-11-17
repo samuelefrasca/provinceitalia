@@ -5,6 +5,7 @@ let flagAlfabetico = true;
 let flagAbitanti = false;
 let flagProvincia = false;
 let flagRegione = false;
+let flagSuperficie = false;
 
 const regioniCapoluoghi = {
     'Abruzzo': "L'Aquila",
@@ -42,6 +43,10 @@ function getClassiRiga(c) {
 
 function formattaNumero(n) {
     return n.toLocaleString('it-IT', { useGrouping: 'always' });
+}
+
+function formattaSuperficie(n) {
+    return Number(n).toLocaleString('it-IT', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 }
 
 function slugifyTesto(valore) {
@@ -99,13 +104,21 @@ function scriviTabella(comuni) {
         + '<th class="hel provincia pointer select-none" onclick="ordinaPerProvincia(flagProvincia)">Provincia <i class="fa-solid fa-sort"></i></th>'
         + '<th class="hel regione pointer select-none" onclick="ordinaPerRegione(flagRegione)">Regione <i class="fa-solid fa-sort"></i></th>'
         + '<th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th>'
+        + '<th class="hel superficie pointer select-none" onclick="ordinaPerSuperficie(flagSuperficie)">Superficie <i class="fa-solid fa-sort"></i></th>'
         + '</tr>';
 
     let popolazioneTotale = 0;
+    let superficieTotale = 0;
+
     for (let i = 0; i < comuni.length; i++) {
         const c = comuni[i];
         const pop = formattaNumero(c.popolazione_totale);
+        const supVal = Number(c.superficie);
+        const sup = formattaSuperficie(supVal);
+
         popolazioneTotale += c.popolazione_totale;
+        superficieTotale += supVal;
+
         const classi = getClassiRiga(c);
         const classiAttr = classi.length > 0 ? ' class="' + classi.join(' ') + '"' : '';
         const cellaCapoluogo = classi.includes('capoluogo-provincia') ? ' capoluogo-provincia-cell' : '';
@@ -121,15 +134,17 @@ function scriviTabella(comuni) {
             + '<td class="el provincia' + cellaCapoluogo + '">' + provinciaHtml + '</td>'
             + '<td class="el regione' + cellaCapoluogo + '">' + regioneHtml + '</td>'
             + '<td class="el abitanti' + cellaCapoluogo + '">' + pop + '</td>'
+            + '<td class="el superficie' + cellaCapoluogo + '">' + sup + ' km<sup>2</sup></td>'
             + '</tr>';
     }
 
     html += '<tr>'
         + '<td class="index"></td>'
-        + '<td class="fel nome"><strong>Popolazione totale</strong></td>'
+        + '<td class="fel nome"><strong>Totale</strong></td>'
         + '<td class="fel provincia"><strong></strong></td>'
         + '<td class="fel regione"><strong></strong></td>'
         + '<td class="fel abitanti"><strong>' + formattaNumero(popolazioneTotale) + '</strong></td>'
+        + '<td class="fel superficie"><strong>' + formattaSuperficie(superficieTotale) + ' km<sup>2</sup></strong></td>'
         + '</tr>';
 
     tabella.innerHTML = html;
@@ -148,6 +163,7 @@ function ordinaPerNome(flag) {
     flagAbitanti = false;
     flagProvincia = false;
     flagRegione = false;
+    flagSuperficie = false;
     scriviTabella(comuniFiltrati);
 }
 
@@ -163,6 +179,7 @@ function ordinaPerProvincia(flag) {
     flagAlfabetico = false;
     flagAbitanti = false;
     flagRegione = false;
+    flagSuperficie = false;
     scriviTabella(comuniFiltrati);
 }
 
@@ -178,6 +195,7 @@ function ordinaPerRegione(flag) {
     flagAlfabetico = false;
     flagAbitanti = false;
     flagProvincia = false;
+    flagSuperficie = false;
     scriviTabella(comuniFiltrati);
 }
 
@@ -191,6 +209,23 @@ function ordinaPerAbitanti(flag) {
         flagAbitanti = true;
     }
     flagAlfabetico = false;
+    flagProvincia = false;
+    flagRegione = false;
+    flagSuperficie = false;
+    scriviTabella(comuniFiltrati);
+}
+
+// Ordinamento per superficie
+function ordinaPerSuperficie(flag) {
+    if (flag) {
+        comuniFiltrati.sort((a, b) => a.superficie - b.superficie);
+        flagSuperficie = false;
+    } else {
+        comuniFiltrati.sort((a, b) => b.superficie - a.superficie);
+        flagSuperficie = true;
+    }
+    flagAlfabetico = false;
+    flagAbitanti = false;
     flagProvincia = false;
     flagRegione = false;
     scriviTabella(comuniFiltrati);
@@ -210,5 +245,6 @@ document.getElementById('barra-ricerca').addEventListener('input', function () {
     flagAbitanti = false;
     flagProvincia = false;
     flagRegione = false;
+    flagSuperficie = false;
     scriviTabella(comuniFiltrati);
 });

@@ -1,5 +1,3 @@
-let flagRegione = false;
-
 // Funzioni di ordinamento
 function ordinaPerAbitantiDecrescente(provinceCorrenti) {
     let copiaProvince = [...provinceCorrenti];
@@ -13,6 +11,22 @@ function ordinaPerAbitantiCrescente(provinceCorrenti) {
     let copiaProvince = [...provinceCorrenti];
     copiaProvince.sort((a, b) => {
         return b.abitanti - a.abitanti;
+    });
+    scritturaProvince(regioneCorrente, copiaProvince);
+}
+
+function ordinaPerSuperficieDecrescente(provinceCorrenti) {
+    let copiaProvince = [...provinceCorrenti];
+    copiaProvince.sort((a, b) => {
+        return a.superficie - b.superficie;
+    });
+    scritturaProvince(regioneCorrente, copiaProvince);
+}
+
+function ordinaPerSuperficieCrescente(provinceCorrenti) {
+    let copiaProvince = [...provinceCorrenti];
+    copiaProvince.sort((a, b) => {
+        return b.superficie - a.superficie;
     });
     scritturaProvince(regioneCorrente, copiaProvince);
 }
@@ -41,12 +55,14 @@ function ordinaPerRegione(flag) {
         flagAbitanti = false;
         flagAlfabetico = false;
         flagRegione = false;
+        flagSuperficie = false;
     }
     if (!flag) {
         ordinaPerRegioneCrescente(provinceCorrenti);
         flagAbitanti = false;
         flagAlfabetico = false;
         flagRegione = true;
+        flagSuperficie = false;
     }
 }
 
@@ -56,10 +72,29 @@ function ordinaPerAbitanti(flag) {
         flagAbitanti = false;
         flagAlfabetico = false;
         flagRegione = false;
+        flagSuperficie = false;
     }
     if (!flag) {
         ordinaPerAbitantiCrescente(provinceCorrenti);
         flagAbitanti = true;
+        flagAlfabetico = false;
+        flagRegione = false;
+        flagSuperficie = false;
+    }
+}
+
+function ordinaPerSuperficie(flag) {
+    if (flag) {
+        ordinaPerSuperficieDecrescente(provinceCorrenti);
+        flagSuperficie = false;
+        flagAbitanti = false;
+        flagAlfabetico = false;
+        flagRegione = false;
+    }
+    if (!flag) {
+        ordinaPerSuperficieCrescente(provinceCorrenti);
+        flagSuperficie = true;
+        flagAbitanti = false;
         flagAlfabetico = false;
         flagRegione = false;
     }
@@ -72,11 +107,13 @@ function ordinaPerNome(flag) {
         flagAlfabetico = false;
         flagAbitanti = false;
         flagRegione = false;
+        flagSuperficie = false;
     }
     if (!flag) {
         scritturaProvince(regioneCorrente, provinceCorrenti);
         flagAlfabetico = true;
         flagAbitanti = false;
         flagRegione = false;
+        flagSuperficie = false;
     }
 }

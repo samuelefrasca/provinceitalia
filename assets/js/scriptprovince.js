@@ -1,7 +1,7 @@
 ﻿// Script condiviso per le singole pagine delle province.
 // Le variabili globali nomeRegione, nomeProvincia, slugRegione, slugProvincia,
-// provinciaCorrente, comuniProvincia, flagAlfabetico e flagAbitanti vengono definite
-// nella pagina HTML generata.
+// provinciaCorrente, comuniProvincia, flagAlfabetico, flagAbitanti e flagSuperficie
+// vengono definite nella pagina HTML generata.
 
 function caricaComuniProvincia() {
     const url = `../data/${slugRegione}/${slugProvincia}.json`;
@@ -20,7 +20,7 @@ function caricaComuniProvincia() {
             console.error(err);
             const elencoComuni = document.getElementById('elenco-comuni');
             if (elencoComuni) {
-                elencoComuni.innerHTML = '<tr><td colspan="3">Errore nel caricamento dei dati.</td></tr>';
+                elencoComuni.innerHTML = '<tr><td colspan="4">Errore nel caricamento dei dati.</td></tr>';
             }
         });
 }
@@ -32,22 +32,36 @@ function scritturaComuni(provincia, comuniDati, nomeRegione) {
         return;
     }
 
-    let table = '<tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>';
+    let table = '<tr>' +
+        '<th class="index"></th>' +
+        '<th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th>' +
+        '<th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th>' +
+        '<th class="hel superficie pointer select-none" onclick="ordinaPerSuperficie(flagSuperficie)">Superficie <i class="fa-solid fa-sort"></i></th>' +
+        '</tr>';
+
     let popolazioneTotale = 0;
+    let superficieTotale = 0;
     let index = 1;
 
     for (let comune of comuniDati) {
         const popolazione = comune.popolazione_totale.toLocaleString('it-IT', { useGrouping: 'always' });
+        const supVal = Number(comune.superficie);
+        const superficie = supVal.toLocaleString('it-IT', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
         if (comune.capoluogo) {
-            table += `<tr><td class="el index"><strong>${index}</strong></td><td class="el nome"><strong>${comune.comune}</strong></td><td class="el abitanti"><strong>${popolazione}</strong></td></tr>`;
+            table += `<tr><td class="el index"><strong>${index}</strong></td><td class="el nome"><strong>${comune.comune}</strong></td><td class="el abitanti"><strong>${popolazione}</strong></td><td class="el superficie"><strong>${superficie} km<sup>2</sup></strong></td></tr>`;
         } else {
-            table += `<tr><td class="el index">${index}</td><td class="el nome">${comune.comune}</td><td class="el abitanti">${popolazione}</td></tr>`;
+            table += `<tr><td class="el index">${index}</td><td class="el nome">${comune.comune}</td><td class="el abitanti">${popolazione}</td><td class="el superficie">${superficie} km<sup>2</sup></td></tr>`;
         }
+
         popolazioneTotale += comune.popolazione_totale;
+        superficieTotale += supVal;
         index++;
     }
 
-    table += `<tr><td class="index"></td><td class="fel nome"><strong>Popolazione totale</strong></td><td class="fel abitanti"><strong>${popolazioneTotale.toLocaleString('it-IT')}</strong></td></tr>`;
+    const superficieTotaleStr = superficieTotale.toLocaleString('it-IT', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
+    table += `<tr><td class="index"></td><td class="fel nome"><strong>Totale</strong></td><td class="fel abitanti"><strong>${popolazioneTotale.toLocaleString('it-IT', { useGrouping: 'always' })}</strong></td><td class="fel superficie"><strong>${superficieTotaleStr} km<sup>2</sup></strong></td></tr>`;
     elencoComuni.innerHTML = table;
     elementiTrovati.textContent = `${index - 1} comuni`;
 }

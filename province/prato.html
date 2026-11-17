@@ -86,19 +86,19 @@
             <div class="titolo-div" id="titolo-provincia-div">
                 <h2 class="titolo" id="titolo-provincia">Elenco Comuni - Provincia di Prato</h2>
             </div>
-            <h4 class="elementi-trovati" id="elementi-trovati">7 comuni · 261.152 abitanti</h4>
+            <h4 class="elementi-trovati" id="elementi-trovati">7 comuni</h4>
             <input type="text" id="barra-ricerca" class="barra-ricerca" placeholder="Cerca un comune...">
             <table class="tabella" id="elenco-comuni" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: initial;">
                 <tbody>
-                    <tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>
-<tr><td class="el index">1</td><td class="el nome">Cantagallo</td><td class="el abitanti">3.088</td></tr>
-<tr><td class="el index">2</td><td class="el nome">Carmignano</td><td class="el abitanti">14.500</td></tr>
-<tr><td class="el index">3</td><td class="el nome">Montemurlo</td><td class="el abitanti">19.169</td></tr>
-<tr><td class="el index">4</td><td class="el nome">Poggio a Caiano</td><td class="el abitanti">9.908</td></tr>
-<tr><td class="el index"><strong>5</strong></td><td class="el nome"><strong>Prato</strong></td><td class="el abitanti"><strong>198.327</strong></td></tr>
-<tr><td class="el index">6</td><td class="el nome">Vaiano</td><td class="el abitanti">9.965</td></tr>
-<tr><td class="el index">7</td><td class="el nome">Vernio</td><td class="el abitanti">6.195</td></tr>
-<tr><td class="index"></td><td class="fel nome"><strong>Popolazione totale</strong></td><td class="fel abitanti"><strong>261.152</strong></td></tr>
+                    <tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th><th class="hel superficie pointer select-none" onclick="ordinaPerSuperficie(flagSuperficie)">Superficie <i class="fa-solid fa-sort"></i></th></tr>
+<tr><td class="el index">1</td><td class="el nome">Cantagallo</td><td class="el abitanti">3.088</td><td class="el superficie">95,62 km<sup>2</sup></td></tr>
+<tr><td class="el index">2</td><td class="el nome">Carmignano</td><td class="el abitanti">14.500</td><td class="el superficie">38,43 km<sup>2</sup></td></tr>
+<tr><td class="el index">3</td><td class="el nome">Montemurlo</td><td class="el abitanti">19.169</td><td class="el superficie">30,70 km<sup>2</sup></td></tr>
+<tr><td class="el index">4</td><td class="el nome">Poggio a Caiano</td><td class="el abitanti">9.908</td><td class="el superficie">5,99 km<sup>2</sup></td></tr>
+<tr><td class="el index"><strong>5</strong></td><td class="el nome"><strong>Prato</strong></td><td class="el abitanti"><strong>198.327</strong></td><td class="el superficie"><strong>97,60 km<sup>2</sup></strong></td></tr>
+<tr><td class="el index">6</td><td class="el nome">Vaiano</td><td class="el abitanti">9.965</td><td class="el superficie">34,04 km<sup>2</sup></td></tr>
+<tr><td class="el index">7</td><td class="el nome">Vernio</td><td class="el abitanti">6.195</td><td class="el superficie">63,38 km<sup>2</sup></td></tr>
+<tr><td class="index"></td><td class="fel nome"><strong>Totale</strong></td><td class="fel abitanti"><strong>261.152</strong></td><td class="fel superficie"><strong>365,76 km<sup>2</sup></strong></td></tr>
                 </tbody>
             </table>
         </div>
@@ -463,6 +463,7 @@
         let comuniProvincia = [];
         let flagAlfabetico = true;
         let flagAbitanti = false;
+        let flagSuperficie = false;
     </script>
     <script src="../assets/js/scriptprovince.js"></script>
     <script src="../assets/js/ordinamentoregioniprovince.js"></script>

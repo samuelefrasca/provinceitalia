@@ -86,18 +86,18 @@
             <div class="titolo-div" id="titolo-provincia-div">
                 <h2 class="titolo" id="titolo-provincia">Elenco Comuni - Ente di decentramento regionale di Trieste</h2>
             </div>
-            <h4 class="elementi-trovati" id="elementi-trovati">6 comuni · 227.840 abitanti</h4>
+            <h4 class="elementi-trovati" id="elementi-trovati">6 comuni</h4>
             <input type="text" id="barra-ricerca" class="barra-ricerca" placeholder="Cerca un comune...">
             <table class="tabella" id="elenco-comuni" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: initial;">
                 <tbody>
-                    <tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th></tr>
-<tr><td class="el index">1</td><td class="el nome">Duino Aurisina-Devin Nabrežina</td><td class="el abitanti">8.185</td></tr>
-<tr><td class="el index">2</td><td class="el nome">Monrupino-Repentabor</td><td class="el abitanti">836</td></tr>
-<tr><td class="el index">3</td><td class="el nome">Muggia</td><td class="el abitanti">12.627</td></tr>
-<tr><td class="el index">4</td><td class="el nome">San Dorligo della Valle-Dolina</td><td class="el abitanti">5.622</td></tr>
-<tr><td class="el index">5</td><td class="el nome">Sgonico-Zgonik</td><td class="el abitanti">1.948</td></tr>
-<tr><td class="el index"><strong>6</strong></td><td class="el nome"><strong>Trieste</strong></td><td class="el abitanti"><strong>198.622</strong></td></tr>
-<tr><td class="index"></td><td class="fel nome"><strong>Popolazione totale</strong></td><td class="fel abitanti"><strong>227.840</strong></td></tr>
+                    <tr><th class="index"></th><th class="hel nome pointer select-none" onclick="ordinaPerNome(flagAlfabetico)">Comune <i class="fa-solid fa-sort"></i></th><th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th><th class="hel superficie pointer select-none" onclick="ordinaPerSuperficie(flagSuperficie)">Superficie <i class="fa-solid fa-sort"></i></th></tr>
+<tr><td class="el index">1</td><td class="el nome">Duino Aurisina-Devin Nabrežina</td><td class="el abitanti">8.185</td><td class="el superficie">45,34 km<sup>2</sup></td></tr>
+<tr><td class="el index">2</td><td class="el nome">Monrupino-Repentabor</td><td class="el abitanti">836</td><td class="el superficie">12,61 km<sup>2</sup></td></tr>
+<tr><td class="el index">3</td><td class="el nome">Muggia</td><td class="el abitanti">12.627</td><td class="el superficie">13,91 km<sup>2</sup></td></tr>
+<tr><td class="el index">4</td><td class="el nome">San Dorligo della Valle-Dolina</td><td class="el abitanti">5.622</td><td class="el superficie">24,22 km<sup>2</sup></td></tr>
+<tr><td class="el index">5</td><td class="el nome">Sgonico-Zgonik</td><td class="el abitanti">1.948</td><td class="el superficie">31,40 km<sup>2</sup></td></tr>
+<tr><td class="el index"><strong>6</strong></td><td class="el nome"><strong>Trieste</strong></td><td class="el abitanti"><strong>198.622</strong></td><td class="el superficie"><strong>85,09 km<sup>2</sup></strong></td></tr>
+<tr><td class="index"></td><td class="fel nome"><strong>Totale</strong></td><td class="fel abitanti"><strong>227.840</strong></td><td class="fel superficie"><strong>212,58 km<sup>2</sup></strong></td></tr>
                 </tbody>
             </table>
         </div>
@@ -316,6 +316,7 @@
         let comuniProvincia = [];
         let flagAlfabetico = true;
         let flagAbitanti = false;
+        let flagSuperficie = false;
     </script>
     <script src="../assets/js/scriptprovince.js"></script>
     <script src="../assets/js/ordinamentoregioniprovince.js"></script>

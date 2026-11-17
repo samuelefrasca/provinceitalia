@@ -215,6 +215,11 @@ def formatta_numero(n: int) -> str:
     return f"{n:,}".replace(",", ".")
 
 
+def formatta_superficie(n: float) -> str:
+    """Arrotonda a 2 cifre decimali e formatta in stile italiano (es. 1.234,56)."""
+    return f"{n:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+
+
 # Articolo per "della regione X" nella description
 def della_regione(nome: str) -> str:
     """Restituisce la preposizione articolata corretta ('della', 'del', 'delle') per la regione."""
@@ -263,6 +268,7 @@ def leggi_comuni_regione(slug_regione: str) -> list[dict]:
                 "provincia": nome_prov,
                 "sigla": sigla,
                 "popolazione_totale": c["popolazione_totale"],
+                "superficie": c["superficie"],
                 "capoluogo": c.get("capoluogo", False),
             })
 
@@ -271,13 +277,13 @@ def leggi_comuni_regione(slug_regione: str) -> list[dict]:
     return comuni_regione
 
 
-def genera_tabella_regione(comuni: list[dict]) -> tuple[str, int]:
+def genera_tabella_regione(comuni: list[dict]) -> tuple[str, int, float]:
     """
     Genera l'HTML della tabella dei comuni della regione (con link cliccabile
-    sulla provincia) e restituisce anche la popolazione totale della regione.
+    sulla provincia) e restituisce popolazione e superficie totali della regione.
     """
     if not comuni:
-        return "", 0
+        return "", 0, 0.0
 
     righe = []
     righe.append(
@@ -287,17 +293,25 @@ def genera_tabella_regione(comuni: list[dict]) -> tuple[str, int]:
         '<th class="hel provincia pointer select-none" onclick="ordinaPerProvincia(flagProvincia)">Provincia <i class="fa-solid fa-sort"></i></th>'
         '<th class="hel sigla pointer select-none" onclick="ordinaPerSigla(flagSigla)">Sigla <i class="fa-solid fa-sort"></i></th>'
         '<th class="hel abitanti pointer select-none" onclick="ordinaPerAbitanti(flagAbitanti)">Popolazione <i class="fa-solid fa-sort"></i></th>'
+        '<th class="hel superficie pointer select-none" onclick="ordinaPerSuperficie(flagSuperficie)">Superficie <i class="fa-solid fa-sort"></i></th>'
         '</tr>'
     )
 
     popolazione_totale = 0
+    superficie_totale = 0.0
+
     for i, c in enumerate(comuni, start=1):
         nome_comune = c["comune"]
         nome_prov = c["provincia"]
         sigla = c["sigla"]
         pop = c["popolazione_totale"]
+        sup = float(c["superficie"])
+
         popolazione_totale += pop
+        superficie_totale += sup
+
         pop_str = formatta_numero(pop)
+        sup_str = formatta_superficie(sup)
 
         prov_slug = slugify(nome_prov) if nome_prov else ""
         prov_link = f'<a class="comunihref" href="/province/{prov_slug}">{nome_prov}</a>' if prov_slug else nome_prov
@@ -310,6 +324,7 @@ def genera_tabella_regione(comuni: list[dict]) -> tuple[str, int]:
                 f'<td class="el provincia"><strong>{prov_link}</strong></td>'
                 f'<td class="el sigla"><strong>{sigla}</strong></td>'
                 f'<td class="el abitanti"><strong>{pop_str}</strong></td>'
+                f'<td class="el superficie"><strong>{sup_str} km<sup>2</sup></strong></td>'
                 f'</tr>'
             )
         else:
@@ -320,6 +335,7 @@ def genera_tabella_regione(comuni: list[dict]) -> tuple[str, int]:
                 f'<td class="el provincia">{prov_link}</td>'
                 f'<td class="el sigla">{sigla}</td>'
                 f'<td class="el abitanti">{pop_str}</td>'
+                f'<td class="el superficie">{sup_str} km<sup>2</sup></td>'
                 f'</tr>'
             )
 
@@ -327,14 +343,15 @@ def genera_tabella_regione(comuni: list[dict]) -> tuple[str, int]:
     righe.append(
         f'<tr>'
         f'<td class="index"></td>'
-        f'<td class="fel nome"><strong>Popolazione totale</strong></td>'
+        f'<td class="fel nome"><strong>Totale</strong></td>'
         f'<td class="fel provincia"></td>'
         f'<td class="fel sigla"></td>'
         f'<td class="fel abitanti"><strong>{formatta_numero(popolazione_totale)}</strong></td>'
+        f'<td class="fel superficie"><strong>{formatta_superficie(superficie_totale)} km<sup>2</sup></strong></td>'
         f'</tr>'
     )
 
-    return "\n".join(righe), popolazione_totale
+    return "\n".join(righe), popolazione_totale, superficie_totale
 
 
 def leggi_svg(slug: str, regione: str) -> tuple[str, bool]:
@@ -355,7 +372,7 @@ def genera_html(nome_regione: str, slug: str, svg_content: str) -> str:
 
     # Leggi tutti i comuni della regione e genera la tabella statica per la SEO
     comuni = leggi_comuni_regione(slug)
-    tabella_html, pop_totale = genera_tabella_regione(comuni)
+    tabella_html, pop_totale, sup_totale = genera_tabella_regione(comuni)
     num_comuni = len(comuni)
     pop_tot_str = formatta_numero(pop_totale)
     num_province = len(province.get(nome_regione, []))
@@ -391,7 +408,7 @@ def genera_html(nome_regione: str, slug: str, svg_content: str) -> str:
         if (window.location.hostname === 'samuelefrasca.github.io' || window.location.hostname === 'province-italia.pages.dev') {{
             const path = window.location.pathname
                 .replace('/provinceitalia', '')
-                .replace(/\.html$/, '');
+                .replace(/\\.html$/, '');
             window.location.replace('https://provinceitalia.it' + path + window.location.search);
         }}
     </script>

@@ -138,7 +138,7 @@ svg {
     margin-top: 16px;
 }
 
-.hel {
+.hel, .fel {
     margin: 2px;
     border: 1px solid #bbb;
     border-right: 1px solid #eee;
@@ -147,7 +147,7 @@ svg {
     text-align: center;
 }
 
-.abitanti {
+.superficie {
     border-right: 1px solid #bbb;
 }
 
@@ -156,14 +156,6 @@ svg {
     border: 1px solid #bbb;
     padding: 5px;
     background-color: #eee;
-}
-
-.fel {
-    margin: 2px;
-    border: 1px solid #bbb;
-    padding: 5px;
-    background-color: #bbb;
-    text-align: center;
 }
 
 .pointer {
@@ -185,8 +177,8 @@ svg {
     text-align: center;
 }
 
-.abitanti {
-    text-align: center;
+.abitanti, .superficie {
+    text-align: right;
 }
 
 .sup {
